@@ -263,6 +263,7 @@
 - pkg:nuget/Zafiro.Avalonia.DataViz@37.0.3
 - pkg:nuget/Zafiro.Avalonia.DataViz@37.1.0
 - pkg:nuget/Zafiro.Avalonia.DataViz@39.0.1
+- pkg:nuget/Zafiro.Avalonia.DataViz@43.0.1
 - pkg:nuget/Zafiro.Avalonia.DataViz@9.0.0
 - pkg:nuget/Zafiro.Avalonia.DataViz@9.0.1
 - pkg:nuget/Zafiro.Avalonia.DataViz@9.0.10
