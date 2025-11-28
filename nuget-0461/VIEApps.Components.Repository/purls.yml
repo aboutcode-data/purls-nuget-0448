@@ -22,6 +22,7 @@
 - pkg:nuget/VIEApps.Components.Repository@10.1.7.1802-rc
 - pkg:nuget/VIEApps.Components.Repository@10.1.8.1802
 - pkg:nuget/VIEApps.Components.Repository@10.1.9.1802
+- pkg:nuget/VIEApps.Components.Repository@10.10.2512.1
 - pkg:nuget/VIEApps.Components.Repository@10.2.1.1805
 - pkg:nuget/VIEApps.Components.Repository@10.2.1810.1
 - pkg:nuget/VIEApps.Components.Repository@10.2.1811.1
