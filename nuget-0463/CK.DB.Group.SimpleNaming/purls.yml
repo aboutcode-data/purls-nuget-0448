@@ -48,6 +48,7 @@
 - pkg:nuget/CK.DB.Group.SimpleNaming@26.0.0
 - pkg:nuget/CK.DB.Group.SimpleNaming@26.0.1
 - pkg:nuget/CK.DB.Group.SimpleNaming@26.0.2
+- pkg:nuget/CK.DB.Group.SimpleNaming@27.1.1
 - pkg:nuget/CK.DB.Group.SimpleNaming@5.1.0
 - pkg:nuget/CK.DB.Group.SimpleNaming@5.2.0
 - pkg:nuget/CK.DB.Group.SimpleNaming@6.0.0
