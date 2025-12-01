@@ -1,1 +1,2 @@
 - pkg:nuget/GitlabCodeQualityBuildLogger.Tool@1.0.8
+- pkg:nuget/GitlabCodeQualityBuildLogger.Tool@1.0.9
