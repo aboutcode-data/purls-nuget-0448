@@ -509,6 +509,7 @@
 - pkg:nuget/GemBox.Email@2025.1.104-hotfix
 - pkg:nuget/GemBox.Email@2025.1.105-hotfix
 - pkg:nuget/GemBox.Email@2025.11.100
+- pkg:nuget/GemBox.Email@2025.12.100
 - pkg:nuget/GemBox.Email@2025.2.100-hotfix
 - pkg:nuget/GemBox.Email@2025.2.101-hotfix
 - pkg:nuget/GemBox.Email@2025.2.102-hotfix
