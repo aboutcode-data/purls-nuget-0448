@@ -1155,6 +1155,7 @@
 - pkg:nuget/AWSSDK.MigrationHub@3.7.501.9
 - pkg:nuget/AWSSDK.MigrationHub@3.7.502.10
 - pkg:nuget/AWSSDK.MigrationHub@3.7.502.12
+- pkg:nuget/AWSSDK.MigrationHub@3.7.502.14
 - pkg:nuget/AWSSDK.MigrationHub@3.7.502.3
 - pkg:nuget/AWSSDK.MigrationHub@4.0.0
 - pkg:nuget/AWSSDK.MigrationHub@4.0.0-preview

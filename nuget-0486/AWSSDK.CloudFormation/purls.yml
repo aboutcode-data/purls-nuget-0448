@@ -1180,6 +1180,7 @@
 - pkg:nuget/AWSSDK.CloudFormation@3.7.503.4
 - pkg:nuget/AWSSDK.CloudFormation@3.7.505.1
 - pkg:nuget/AWSSDK.CloudFormation@3.7.506
+- pkg:nuget/AWSSDK.CloudFormation@3.7.506.2
 - pkg:nuget/AWSSDK.CloudFormation@3.7.6
 - pkg:nuget/AWSSDK.CloudFormation@3.7.7
 - pkg:nuget/AWSSDK.CloudFormation@3.7.7.1

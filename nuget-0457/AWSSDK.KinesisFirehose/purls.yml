@@ -1211,6 +1211,7 @@
 - pkg:nuget/AWSSDK.KinesisFirehose@3.7.501.7
 - pkg:nuget/AWSSDK.KinesisFirehose@3.7.501.8
 - pkg:nuget/AWSSDK.KinesisFirehose@3.7.501.9
+- pkg:nuget/AWSSDK.KinesisFirehose@3.7.502.10
 - pkg:nuget/AWSSDK.KinesisFirehose@3.7.502.6
 - pkg:nuget/AWSSDK.KinesisFirehose@3.7.502.8
 - pkg:nuget/AWSSDK.KinesisFirehose@4.0.0
