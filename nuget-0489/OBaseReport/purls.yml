@@ -1,6 +1,7 @@
 - pkg:nuget/OBaseReport@1.0.0
 - pkg:nuget/OBaseReport@2.0.0
 - pkg:nuget/OBaseReport@25.0.0
+- pkg:nuget/OBaseReport@25.12.1
 - pkg:nuget/OBaseReport@25.2.0
 - pkg:nuget/OBaseReport@25.3.0
 - pkg:nuget/OBaseReport@25.4.1

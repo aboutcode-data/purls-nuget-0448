@@ -17,6 +17,7 @@
 - pkg:nuget/OBotService@24.0.0
 - pkg:nuget/OBotService@25.0.0
 - pkg:nuget/OBotService@25.1.0
+- pkg:nuget/OBotService@25.12.1
 - pkg:nuget/OBotService@25.2.0
 - pkg:nuget/OBotService@25.2.1
 - pkg:nuget/OBotService@25.3.0
