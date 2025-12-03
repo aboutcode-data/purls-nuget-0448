@@ -1975,6 +1975,8 @@
 - pkg:nuget/FunFair.BuildCheck@474.2.2.1900-main
 - pkg:nuget/FunFair.BuildCheck@474.2.2.1901-main
 - pkg:nuget/FunFair.BuildCheck@474.2.2.1905-main
+- pkg:nuget/FunFair.BuildCheck@474.2.2.1955-main
+- pkg:nuget/FunFair.BuildCheck@474.2.2.1956-main
 - pkg:nuget/FunFair.BuildCheck@6.0.0.852
 - pkg:nuget/FunFair.BuildCheck@6.0.1.855-main
 - pkg:nuget/FunFair.BuildCheck@6.0.1.858-main
