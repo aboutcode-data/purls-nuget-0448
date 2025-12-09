@@ -416,3 +416,4 @@
 - pkg:nuget/Pulumi.Wavefront@3.2.0-alpha.1758006244
 - pkg:nuget/Pulumi.Wavefront@3.2.0-alpha.1758697103
 - pkg:nuget/Pulumi.Wavefront@3.2.0-alpha.1758958061
+- pkg:nuget/Pulumi.Wavefront@3.2.0-alpha.1765263271
