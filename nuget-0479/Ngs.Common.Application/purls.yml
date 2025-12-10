@@ -404,6 +404,7 @@
 - pkg:nuget/Ngs.Common.Application@1.5.139
 - pkg:nuget/Ngs.Common.Application@1.5.14
 - pkg:nuget/Ngs.Common.Application@1.5.140
+- pkg:nuget/Ngs.Common.Application@1.5.149
 - pkg:nuget/Ngs.Common.Application@1.5.15
 - pkg:nuget/Ngs.Common.Application@1.5.16
 - pkg:nuget/Ngs.Common.Application@1.5.17
