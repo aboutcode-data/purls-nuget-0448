@@ -1,1 +1,2 @@
 - pkg:nuget/DatabaseMcpServer@2.0.1-test
+- pkg:nuget/DatabaseMcpServer@2.0.6
