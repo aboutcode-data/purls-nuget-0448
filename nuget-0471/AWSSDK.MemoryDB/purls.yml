@@ -735,6 +735,7 @@
 - pkg:nuget/AWSSDK.MemoryDB@3.7.503.1
 - pkg:nuget/AWSSDK.MemoryDB@3.7.503.13
 - pkg:nuget/AWSSDK.MemoryDB@3.7.503.15
+- pkg:nuget/AWSSDK.MemoryDB@3.7.503.19
 - pkg:nuget/AWSSDK.MemoryDB@4.0.0
 - pkg:nuget/AWSSDK.MemoryDB@4.0.0-preview
 - pkg:nuget/AWSSDK.MemoryDB@4.0.0-preview.10
