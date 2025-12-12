@@ -15,3 +15,5 @@
 - pkg:nuget/BSynchro.CQRS@6.0.9
 - pkg:nuget/BSynchro.CQRS@8.0.0
 - pkg:nuget/BSynchro.CQRS@8.0.1
+- pkg:nuget/BSynchro.CQRS@8.1.2
+- pkg:nuget/BSynchro.CQRS@8.1.3
