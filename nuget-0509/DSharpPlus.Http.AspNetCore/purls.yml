@@ -136,3 +136,4 @@
 - pkg:nuget/DSharpPlus.Http.AspNetCore@5.0.0-nightly-02551
 - pkg:nuget/DSharpPlus.Http.AspNetCore@5.0.0-nightly-02556
 - pkg:nuget/DSharpPlus.Http.AspNetCore@5.0.0-nightly-02561
+- pkg:nuget/DSharpPlus.Http.AspNetCore@5.0.0-nightly-02562

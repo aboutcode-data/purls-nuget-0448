@@ -107,6 +107,7 @@
 - pkg:nuget/Filuet.Infrastructure.Abstractions@1.0.213
 - pkg:nuget/Filuet.Infrastructure.Abstractions@1.0.22
 - pkg:nuget/Filuet.Infrastructure.Abstractions@1.0.23
+- pkg:nuget/Filuet.Infrastructure.Abstractions@1.0.232
 - pkg:nuget/Filuet.Infrastructure.Abstractions@1.0.24
 - pkg:nuget/Filuet.Infrastructure.Abstractions@1.0.26
 - pkg:nuget/Filuet.Infrastructure.Abstractions@1.0.27
