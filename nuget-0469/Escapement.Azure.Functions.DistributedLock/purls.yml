@@ -1,0 +1,2 @@
+- pkg:nuget/Escapement.Azure.Functions.DistributedLock@0.1.12
+- pkg:nuget/Escapement.Azure.Functions.DistributedLock@0.1.13
