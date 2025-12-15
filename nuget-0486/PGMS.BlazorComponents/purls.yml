@@ -35,6 +35,7 @@
 - pkg:nuget/PGMS.BlazorComponents@4.2.11.4
 - pkg:nuget/PGMS.BlazorComponents@4.2.11.5
 - pkg:nuget/PGMS.BlazorComponents@4.2.12.1
+- pkg:nuget/PGMS.BlazorComponents@4.2.12.10-RC1
 - pkg:nuget/PGMS.BlazorComponents@4.2.12.2
 - pkg:nuget/PGMS.BlazorComponents@4.2.12.3
 - pkg:nuget/PGMS.BlazorComponents@4.2.12.4
