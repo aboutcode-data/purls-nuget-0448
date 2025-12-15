@@ -488,3 +488,4 @@
 - pkg:nuget/Lib9c.Abstractions@1.31.0-dev.1d51ec22e1942a3d1434cd20efd0e9202131d4a9
 - pkg:nuget/Lib9c.Abstractions@1.31.0-dev.9a130aeeb1645b60ba15b8861af8da99f5de4c9a
 - pkg:nuget/Lib9c.Abstractions@1.32.0-dev.70ce944e58b1e0a57c0bb7b3c3e6cf0d6982aa37
+- pkg:nuget/Lib9c.Abstractions@1.32.1-dev.074b9e2c24bf6c2fc4ecd32633220bc89a3a648d
