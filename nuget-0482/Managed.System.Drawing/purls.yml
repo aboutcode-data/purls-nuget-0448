@@ -47,6 +47,7 @@
 - pkg:nuget/Managed.System.Drawing@3.5.22-preview.12
 - pkg:nuget/Managed.System.Drawing@3.5.23
 - pkg:nuget/Managed.System.Drawing@3.5.24-preview.2
+- pkg:nuget/Managed.System.Drawing@3.5.26-preview.5
 - pkg:nuget/Managed.System.Drawing@3.5.3
 - pkg:nuget/Managed.System.Drawing@3.5.3-preview.1
 - pkg:nuget/Managed.System.Drawing@3.5.3-preview.4
