@@ -29,3 +29,4 @@
 - pkg:nuget/SmartStandards.AuthTokenHandling.MvcSupport@4.0.6
 - pkg:nuget/SmartStandards.AuthTokenHandling.MvcSupport@4.1.0
 - pkg:nuget/SmartStandards.AuthTokenHandling.MvcSupport@5.0.0
+- pkg:nuget/SmartStandards.AuthTokenHandling.MvcSupport@5.0.4
