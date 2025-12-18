@@ -1,1 +1,2 @@
 - pkg:nuget/Fabr.ReportingService.EntityFramework@1.0.61-alpha
+- pkg:nuget/Fabr.ReportingService.EntityFramework@1.2.23-beta
