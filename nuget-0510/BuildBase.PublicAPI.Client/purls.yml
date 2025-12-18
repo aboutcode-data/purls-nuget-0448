@@ -313,3 +313,4 @@
 - pkg:nuget/BuildBase.PublicAPI.Client@6.0.2.373
 - pkg:nuget/BuildBase.PublicAPI.Client@6.0.2.375
 - pkg:nuget/BuildBase.PublicAPI.Client@6.0.2.401
+- pkg:nuget/BuildBase.PublicAPI.Client@6.0.2.405
