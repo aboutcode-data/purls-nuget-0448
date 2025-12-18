@@ -75,4 +75,5 @@
 - pkg:nuget/Soenneker.GitHub.OpenApiClient@3.0.89
 - pkg:nuget/Soenneker.GitHub.OpenApiClient@3.0.9
 - pkg:nuget/Soenneker.GitHub.OpenApiClient@3.0.90
+- pkg:nuget/Soenneker.GitHub.OpenApiClient@4.0.108
 - pkg:nuget/Soenneker.GitHub.OpenApiClient@4.0.93
