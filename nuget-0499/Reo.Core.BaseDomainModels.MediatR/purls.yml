@@ -377,3 +377,5 @@
 - pkg:nuget/Reo.Core.BaseDomainModels.MediatR@8.0.746
 - pkg:nuget/Reo.Core.BaseDomainModels.MediatR@8.0.747
 - pkg:nuget/Reo.Core.BaseDomainModels.MediatR@8.0.749
+- pkg:nuget/Reo.Core.BaseDomainModels.MediatR@8.0.763
+- pkg:nuget/Reo.Core.BaseDomainModels.MediatR@8.0.764
