@@ -20,6 +20,7 @@
 - pkg:nuget/IndxSearchLib@4.0.0-rc03
 - pkg:nuget/IndxSearchLib@4.0.0-rc04
 - pkg:nuget/IndxSearchLib@4.0.1
+- pkg:nuget/IndxSearchLib@4.1.0
 - pkg:nuget/IndxSearchLib@4.1.0-alpha01
 - pkg:nuget/IndxSearchLib@4.1.0-alpha02
 - pkg:nuget/IndxSearchLib@4.1.0-alpha03
