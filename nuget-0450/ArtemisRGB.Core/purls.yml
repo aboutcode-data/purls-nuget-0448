@@ -99,6 +99,7 @@
 - pkg:nuget/ArtemisRGB.Core@1.2024.722.2
 - pkg:nuget/ArtemisRGB.Core@1.2024.722.4
 - pkg:nuget/ArtemisRGB.Core@1.2024.722.6
+- pkg:nuget/ArtemisRGB.Core@1.2025.1222.4
 - pkg:nuget/ArtemisRGB.Core@1.2025.204.3
 - pkg:nuget/ArtemisRGB.Core@1.2025.215.2-development
 - pkg:nuget/ArtemisRGB.Core@1.2025.216.4
