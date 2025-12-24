@@ -587,6 +587,7 @@
 - pkg:nuget/AWSSDK.SupportApp@3.7.500.9
 - pkg:nuget/AWSSDK.SupportApp@3.7.501
 - pkg:nuget/AWSSDK.SupportApp@3.7.501.11
+- pkg:nuget/AWSSDK.SupportApp@3.7.501.20
 - pkg:nuget/AWSSDK.SupportApp@3.7.501.7
 - pkg:nuget/AWSSDK.SupportApp@4.0.0
 - pkg:nuget/AWSSDK.SupportApp@4.0.0-preview
