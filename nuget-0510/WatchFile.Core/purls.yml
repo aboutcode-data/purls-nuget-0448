@@ -7,3 +7,4 @@
 - pkg:nuget/WatchFile.Core@2.4.0
 - pkg:nuget/WatchFile.Core@2.4.1
 - pkg:nuget/WatchFile.Core@2.5.0
+- pkg:nuget/WatchFile.Core@2.6.2
