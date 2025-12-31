@@ -8,6 +8,7 @@
 - pkg:nuget/Musoq.Evaluator@0.9.0
 - pkg:nuget/Musoq.Evaluator@1.0.0
 - pkg:nuget/Musoq.Evaluator@1.1.0
+- pkg:nuget/Musoq.Evaluator@10.2.0
 - pkg:nuget/Musoq.Evaluator@2.0.0
 - pkg:nuget/Musoq.Evaluator@2.0.1
 - pkg:nuget/Musoq.Evaluator@2.0.2
