@@ -40,6 +40,7 @@
 - pkg:nuget/Splat.DryIoc@16.1.1
 - pkg:nuget/Splat.DryIoc@16.2.1
 - pkg:nuget/Splat.DryIoc@17.0.1
+- pkg:nuget/Splat.DryIoc@19.1.1
 - pkg:nuget/Splat.DryIoc@7.0.1
 - pkg:nuget/Splat.DryIoc@7.0.8
 - pkg:nuget/Splat.DryIoc@7.1.1
