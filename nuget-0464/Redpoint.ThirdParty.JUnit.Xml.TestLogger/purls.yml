@@ -343,3 +343,5 @@
 - pkg:nuget/Redpoint.ThirdParty.JUnit.Xml.TestLogger@2025.1289.355
 - pkg:nuget/Redpoint.ThirdParty.JUnit.Xml.TestLogger@2025.1351.813
 - pkg:nuget/Redpoint.ThirdParty.JUnit.Xml.TestLogger@2025.1355.582
+- pkg:nuget/Redpoint.ThirdParty.JUnit.Xml.TestLogger@2026.1002.1147
+- pkg:nuget/Redpoint.ThirdParty.JUnit.Xml.TestLogger@2026.1002.1153
