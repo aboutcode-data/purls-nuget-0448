@@ -222,3 +222,4 @@
 - pkg:nuget/Shiny.Mediator.Blazor@4.9.0-beta-0005
 - pkg:nuget/Shiny.Mediator.Blazor@4.9.1
 - pkg:nuget/Shiny.Mediator.Blazor@6.0.0-beta-0002
+- pkg:nuget/Shiny.Mediator.Blazor@6.0.2
