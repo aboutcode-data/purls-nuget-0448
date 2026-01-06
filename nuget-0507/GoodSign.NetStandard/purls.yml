@@ -16,6 +16,7 @@
 - pkg:nuget/GoodSign.NetStandard@1.5.3-benjimac93-inflo0042
 - pkg:nuget/GoodSign.NetStandard@2.0.0
 - pkg:nuget/GoodSign.NetStandard@2.0.10
+- pkg:nuget/GoodSign.NetStandard@2.0.12
 - pkg:nuget/GoodSign.NetStandard@2.0.2
 - pkg:nuget/GoodSign.NetStandard@2.0.3
 - pkg:nuget/GoodSign.NetStandard@2.0.4
