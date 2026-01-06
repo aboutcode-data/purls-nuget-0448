@@ -1267,3 +1267,4 @@
 - pkg:nuget/AWSSDK.SQS@4.0.1.2
 - pkg:nuget/AWSSDK.SQS@4.0.1.3
 - pkg:nuget/AWSSDK.SQS@4.0.1.6
+- pkg:nuget/AWSSDK.SQS@4.0.2.10

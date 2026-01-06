@@ -1189,6 +1189,7 @@
 - pkg:nuget/AWSSDK.Budgets@3.7.506.5
 - pkg:nuget/AWSSDK.Budgets@3.7.507.1
 - pkg:nuget/AWSSDK.Budgets@3.7.507.12
+- pkg:nuget/AWSSDK.Budgets@3.7.507.15
 - pkg:nuget/AWSSDK.Budgets@3.7.507.8
 - pkg:nuget/AWSSDK.Budgets@4.0.0
 - pkg:nuget/AWSSDK.Budgets@4.0.0-preview

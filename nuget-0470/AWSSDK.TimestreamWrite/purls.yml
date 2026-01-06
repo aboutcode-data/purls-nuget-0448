@@ -888,3 +888,4 @@
 - pkg:nuget/AWSSDK.TimestreamWrite@4.0.2.4
 - pkg:nuget/AWSSDK.TimestreamWrite@4.0.2.8
 - pkg:nuget/AWSSDK.TimestreamWrite@4.0.3
+- pkg:nuget/AWSSDK.TimestreamWrite@4.0.3.11

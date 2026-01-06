@@ -190,4 +190,5 @@
 - pkg:nuget/Microsoft.Identity.Client@4.8.1
 - pkg:nuget/Microsoft.Identity.Client@4.8.1-preview1
 - pkg:nuget/Microsoft.Identity.Client@4.8.2
+- pkg:nuget/Microsoft.Identity.Client@4.80.0
 - pkg:nuget/Microsoft.Identity.Client@4.9.0

@@ -481,6 +481,7 @@
 - pkg:nuget/AWSSDK.InternetMonitor@3.7.502.10
 - pkg:nuget/AWSSDK.InternetMonitor@3.7.502.12
 - pkg:nuget/AWSSDK.InternetMonitor@3.7.502.23
+- pkg:nuget/AWSSDK.InternetMonitor@3.7.502.26
 - pkg:nuget/AWSSDK.InternetMonitor@4.0.0
 - pkg:nuget/AWSSDK.InternetMonitor@4.0.0-preview
 - pkg:nuget/AWSSDK.InternetMonitor@4.0.0-preview.10
