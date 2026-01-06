@@ -130,3 +130,4 @@
 - pkg:nuget/A2v10.Workflow.SqlServer@10.1.8256
 - pkg:nuget/A2v10.Workflow.SqlServer@10.1.8257
 - pkg:nuget/A2v10.Workflow.SqlServer@10.1.8303
+- pkg:nuget/A2v10.Workflow.SqlServer@10.1.8314
