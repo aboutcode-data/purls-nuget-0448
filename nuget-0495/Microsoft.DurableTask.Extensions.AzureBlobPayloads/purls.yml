@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.DurableTask.Extensions.AzureBlobPayloads@1.17.0
+- pkg:nuget/Microsoft.DurableTask.Extensions.AzureBlobPayloads@1.17.1
+- pkg:nuget/Microsoft.DurableTask.Extensions.AzureBlobPayloads@1.17.2
+- pkg:nuget/Microsoft.DurableTask.Extensions.AzureBlobPayloads@1.18.0
+- pkg:nuget/Microsoft.DurableTask.Extensions.AzureBlobPayloads@1.18.1
+- pkg:nuget/Microsoft.DurableTask.Extensions.AzureBlobPayloads@1.18.2
