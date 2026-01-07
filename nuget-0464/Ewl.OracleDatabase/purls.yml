@@ -114,3 +114,4 @@
 - pkg:nuget/Ewl.OracleDatabase@85.0.0-pr00522
 - pkg:nuget/Ewl.OracleDatabase@85.0.0-pr00527
 - pkg:nuget/Ewl.OracleDatabase@85.0.0-pr00532
+- pkg:nuget/Ewl.OracleDatabase@85.0.0-pr00542
