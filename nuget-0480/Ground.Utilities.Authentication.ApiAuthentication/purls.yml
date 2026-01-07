@@ -1,1 +1,2 @@
 - pkg:nuget/Ground.Utilities.Authentication.ApiAuthentication@3.0.0
+- pkg:nuget/Ground.Utilities.Authentication.ApiAuthentication@9.0.2
