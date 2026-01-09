@@ -919,6 +919,8 @@
 - pkg:nuget/Credfeto.Database.Pgsql@1.2.201.1873-main
 - pkg:nuget/Credfeto.Database.Pgsql@1.2.201.1938-main
 - pkg:nuget/Credfeto.Database.Pgsql@1.2.202.1943-main
+- pkg:nuget/Credfeto.Database.Pgsql@1.2.202.1946-main
+- pkg:nuget/Credfeto.Database.Pgsql@1.2.202.1947-main
 - pkg:nuget/Credfeto.Database.Pgsql@1.2.21.572-main
 - pkg:nuget/Credfeto.Database.Pgsql@1.2.21.573-main
 - pkg:nuget/Credfeto.Database.Pgsql@1.2.21.574
