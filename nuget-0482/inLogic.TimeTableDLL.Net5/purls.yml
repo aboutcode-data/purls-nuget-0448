@@ -11,3 +11,7 @@
 - pkg:nuget/inLogic.TimeTableDLL.Net5@2025.6.11.1
 - pkg:nuget/inLogic.TimeTableDLL.Net5@2025.7.14.1
 - pkg:nuget/inLogic.TimeTableDLL.Net5@2025.8.1.2
+- pkg:nuget/inLogic.TimeTableDLL.Net5@2026.1.9.1
+- pkg:nuget/inLogic.TimeTableDLL.Net5@2026.1.9.2
+- pkg:nuget/inLogic.TimeTableDLL.Net5@2026.1.9.3
+- pkg:nuget/inLogic.TimeTableDLL.Net5@2026.1.9.4
