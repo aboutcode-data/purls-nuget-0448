@@ -138,3 +138,4 @@
 - pkg:nuget/Soenneker.SemanticKernel.Pool.OpenAi@4.0.191
 - pkg:nuget/Soenneker.SemanticKernel.Pool.OpenAi@4.0.234
 - pkg:nuget/Soenneker.SemanticKernel.Pool.OpenAi@4.0.246
+- pkg:nuget/Soenneker.SemanticKernel.Pool.OpenAi@4.0.256
