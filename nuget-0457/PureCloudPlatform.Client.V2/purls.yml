@@ -212,6 +212,7 @@
 - pkg:nuget/PureCloudPlatform.Client.V2@241.0.0
 - pkg:nuget/PureCloudPlatform.Client.V2@243.0.0
 - pkg:nuget/PureCloudPlatform.Client.V2@25.0.0
+- pkg:nuget/PureCloudPlatform.Client.V2@253.0.0
 - pkg:nuget/PureCloudPlatform.Client.V2@26.0.0
 - pkg:nuget/PureCloudPlatform.Client.V2@27.0.0
 - pkg:nuget/PureCloudPlatform.Client.V2@27.0.1
