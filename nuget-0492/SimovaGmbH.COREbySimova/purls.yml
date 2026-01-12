@@ -1,8 +1,10 @@
 - pkg:nuget/SimovaGmbH.COREbySimova@24.9.19
 - pkg:nuget/SimovaGmbH.COREbySimova@25.12.12
 - pkg:nuget/SimovaGmbH.COREbySimova@25.12.13
+- pkg:nuget/SimovaGmbH.COREbySimova@26.10.7
 - pkg:nuget/SimovaGmbH.COREbySimova@26.6.0
 - pkg:nuget/SimovaGmbH.COREbySimova@26.6.1
 - pkg:nuget/SimovaGmbH.COREbySimova@26.6.2
 - pkg:nuget/SimovaGmbH.COREbySimova@26.6.3
 - pkg:nuget/SimovaGmbH.COREbySimova@26.7.0
+- pkg:nuget/SimovaGmbH.COREbySimova@27.1.8
