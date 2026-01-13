@@ -1,1 +1,2 @@
 - pkg:nuget/StateleSSE.AspNetCore@1.0.0
+- pkg:nuget/StateleSSE.AspNetCore@2.3.0
