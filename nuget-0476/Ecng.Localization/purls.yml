@@ -115,6 +115,7 @@
 - pkg:nuget/Ecng.Localization@1.0.215
 - pkg:nuget/Ecng.Localization@1.0.22
 - pkg:nuget/Ecng.Localization@1.0.23
+- pkg:nuget/Ecng.Localization@1.0.238
 - pkg:nuget/Ecng.Localization@1.0.24
 - pkg:nuget/Ecng.Localization@1.0.25
 - pkg:nuget/Ecng.Localization@1.0.26
