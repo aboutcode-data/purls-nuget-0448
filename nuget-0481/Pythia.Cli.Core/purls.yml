@@ -9,3 +9,4 @@
 - pkg:nuget/Pythia.Cli.Core@5.1.0
 - pkg:nuget/Pythia.Cli.Core@5.1.2
 - pkg:nuget/Pythia.Cli.Core@5.1.5
+- pkg:nuget/Pythia.Cli.Core@6.0.2
