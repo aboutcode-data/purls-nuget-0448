@@ -45,6 +45,7 @@
 - pkg:nuget/CryptoExchange.Net@1.0.0
 - pkg:nuget/CryptoExchange.Net@1.0.1
 - pkg:nuget/CryptoExchange.Net@1.0.2
+- pkg:nuget/CryptoExchange.Net@10.2.5
 - pkg:nuget/CryptoExchange.Net@2.0.0
 - pkg:nuget/CryptoExchange.Net@2.0.1
 - pkg:nuget/CryptoExchange.Net@2.0.10
