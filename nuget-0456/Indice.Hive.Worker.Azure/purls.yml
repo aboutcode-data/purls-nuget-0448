@@ -138,3 +138,4 @@
 - pkg:nuget/Indice.Hive.Worker.Azure@1.6.0-dev4
 - pkg:nuget/Indice.Hive.Worker.Azure@2.0.0-dev5
 - pkg:nuget/Indice.Hive.Worker.Azure@2.1.5
+- pkg:nuget/Indice.Hive.Worker.Azure@2.2.0

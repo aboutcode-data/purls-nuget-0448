@@ -1,4 +1,5 @@
 - pkg:nuget/FSharp.DependencyManager.Paket@10.0.0-alpha002
+- pkg:nuget/FSharp.DependencyManager.Paket@10.2.1
 - pkg:nuget/FSharp.DependencyManager.Paket@6.0.0
 - pkg:nuget/FSharp.DependencyManager.Paket@6.0.0-alpha047
 - pkg:nuget/FSharp.DependencyManager.Paket@6.0.0-alpha048
