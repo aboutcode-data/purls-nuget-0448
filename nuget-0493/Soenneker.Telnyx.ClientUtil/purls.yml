@@ -211,3 +211,5 @@
 - pkg:nuget/Soenneker.Telnyx.ClientUtil@4.0.366
 - pkg:nuget/Soenneker.Telnyx.ClientUtil@4.0.367
 - pkg:nuget/Soenneker.Telnyx.ClientUtil@4.0.400
+- pkg:nuget/Soenneker.Telnyx.ClientUtil@4.0.410
+- pkg:nuget/Soenneker.Telnyx.ClientUtil@4.0.411
