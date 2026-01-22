@@ -1,1 +1,2 @@
 - pkg:nuget/EntglDb.Persistence.Sqlite@0.5.0
+- pkg:nuget/EntglDb.Persistence.Sqlite@0.8.4
