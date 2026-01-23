@@ -21,3 +21,5 @@
 - pkg:nuget/NurApi@1.9.29
 - pkg:nuget/NurApi@1.9.29-staging43
 - pkg:nuget/NurApi@1.9.29-staging44
+- pkg:nuget/NurApi@1.9.31
+- pkg:nuget/NurApi@1.9.31-staging-ID29
