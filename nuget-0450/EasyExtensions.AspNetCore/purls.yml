@@ -149,3 +149,4 @@
 - pkg:nuget/EasyExtensions.AspNetCore@3.0.11
 - pkg:nuget/EasyExtensions.AspNetCore@3.0.12
 - pkg:nuget/EasyExtensions.AspNetCore@3.0.33
+- pkg:nuget/EasyExtensions.AspNetCore@3.0.39
