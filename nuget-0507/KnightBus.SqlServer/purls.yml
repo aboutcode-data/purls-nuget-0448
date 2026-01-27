@@ -12,6 +12,7 @@
 - pkg:nuget/KnightBus.SqlServer@15.0.0
 - pkg:nuget/KnightBus.SqlServer@15.0.1
 - pkg:nuget/KnightBus.SqlServer@16.0.0
+- pkg:nuget/KnightBus.SqlServer@17.0.0-alpha-ff7a73ac
 - pkg:nuget/KnightBus.SqlServer@2.0.0
 - pkg:nuget/KnightBus.SqlServer@3.0.0
 - pkg:nuget/KnightBus.SqlServer@4.0.0

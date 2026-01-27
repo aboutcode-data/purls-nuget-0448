@@ -39,6 +39,7 @@
 - pkg:nuget/KnightBus.Azure.ServiceBus@21.0.2
 - pkg:nuget/KnightBus.Azure.ServiceBus@22.0.0
 - pkg:nuget/KnightBus.Azure.ServiceBus@22.1.0
+- pkg:nuget/KnightBus.Azure.ServiceBus@24.0.0-alpha-ff7a73ac
 - pkg:nuget/KnightBus.Azure.ServiceBus@3.0.0
 - pkg:nuget/KnightBus.Azure.ServiceBus@3.1.0
 - pkg:nuget/KnightBus.Azure.ServiceBus@4.0.0
