@@ -5,3 +5,4 @@
 - pkg:nuget/Hitachi.APM.Models.API@7.1.0-testpush01
 - pkg:nuget/Hitachi.APM.Models.API@7.1.0-testpush02
 - pkg:nuget/Hitachi.APM.Models.API@7.2.0
+- pkg:nuget/Hitachi.APM.Models.API@8.0.0
