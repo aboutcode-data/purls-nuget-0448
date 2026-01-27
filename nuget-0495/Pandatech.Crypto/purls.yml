@@ -49,3 +49,4 @@
 - pkg:nuget/Pandatech.Crypto@5.0.2
 - pkg:nuget/Pandatech.Crypto@5.0.3
 - pkg:nuget/Pandatech.Crypto@6.0.0
+- pkg:nuget/Pandatech.Crypto@7.1.0
