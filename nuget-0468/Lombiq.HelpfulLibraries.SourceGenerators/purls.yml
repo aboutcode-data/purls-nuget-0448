@@ -36,6 +36,8 @@
 - pkg:nuget/Lombiq.HelpfulLibraries.SourceGenerators@12.2.1-alpha.9.olys-4
 - pkg:nuget/Lombiq.HelpfulLibraries.SourceGenerators@12.3.0
 - pkg:nuget/Lombiq.HelpfulLibraries.SourceGenerators@12.3.1-alpha.1.osoe-1171
+- pkg:nuget/Lombiq.HelpfulLibraries.SourceGenerators@12.5.1
+- pkg:nuget/Lombiq.HelpfulLibraries.SourceGenerators@12.6.0
 - pkg:nuget/Lombiq.HelpfulLibraries.SourceGenerators@9.1.1-alpha.15.osoe-819
 - pkg:nuget/Lombiq.HelpfulLibraries.SourceGenerators@9.1.1-alpha.16.osoe-859
 - pkg:nuget/Lombiq.HelpfulLibraries.SourceGenerators@9.1.1-alpha.9.osoe-859
