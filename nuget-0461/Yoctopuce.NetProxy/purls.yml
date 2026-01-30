@@ -13,4 +13,5 @@
 - pkg:nuget/Yoctopuce.NetProxy@1.10.52094
 - pkg:nuget/Yoctopuce.NetProxy@1.10.54037
 - pkg:nuget/Yoctopuce.NetProxy@1.10.60394
+- pkg:nuget/Yoctopuce.NetProxy@2.1.11632
 - pkg:nuget/Yoctopuce.NetProxy@2.1.5996

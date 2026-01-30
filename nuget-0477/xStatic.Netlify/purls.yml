@@ -28,6 +28,7 @@
 - pkg:nuget/xStatic.Netlify@15.1.0-beta1
 - pkg:nuget/xStatic.Netlify@16.0.0-alpha1
 - pkg:nuget/xStatic.Netlify@16.0.0-alpha2
+- pkg:nuget/xStatic.Netlify@17.0.0-beta5
 - pkg:nuget/xStatic.Netlify@2.0.1-alpha
 - pkg:nuget/xStatic.Netlify@2.0.2-alpha
 - pkg:nuget/xStatic.Netlify@2.0.3-beta
