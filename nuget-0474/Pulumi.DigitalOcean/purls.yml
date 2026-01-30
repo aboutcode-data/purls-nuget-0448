@@ -591,6 +591,7 @@
 - pkg:nuget/Pulumi.DigitalOcean@4.55.0-alpha.1760593739
 - pkg:nuget/Pulumi.DigitalOcean@4.57.0-alpha.1767139944
 - pkg:nuget/Pulumi.DigitalOcean@4.57.0-alpha.1768433068
+- pkg:nuget/Pulumi.DigitalOcean@4.57.0-alpha.1769791892
 - pkg:nuget/Pulumi.DigitalOcean@4.6.0
 - pkg:nuget/Pulumi.DigitalOcean@4.6.0-alpha.1628764455%2Bdbf99fa4
 - pkg:nuget/Pulumi.DigitalOcean@4.6.1
