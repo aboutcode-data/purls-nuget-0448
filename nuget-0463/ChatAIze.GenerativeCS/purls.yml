@@ -47,6 +47,7 @@
 - pkg:nuget/ChatAIze.GenerativeCS@0.14.6
 - pkg:nuget/ChatAIze.GenerativeCS@0.16.0
 - pkg:nuget/ChatAIze.GenerativeCS@0.17.0
+- pkg:nuget/ChatAIze.GenerativeCS@0.19.1
 - pkg:nuget/ChatAIze.GenerativeCS@0.2.0
 - pkg:nuget/ChatAIze.GenerativeCS@0.2.1
 - pkg:nuget/ChatAIze.GenerativeCS@0.3.0
