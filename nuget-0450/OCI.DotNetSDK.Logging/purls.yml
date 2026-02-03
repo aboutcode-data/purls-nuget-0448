@@ -44,6 +44,7 @@
 - pkg:nuget/OCI.DotNetSDK.Logging@12.0.0
 - pkg:nuget/OCI.DotNetSDK.Logging@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Logging@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Logging@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Logging@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Logging@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Logging@14.1.0

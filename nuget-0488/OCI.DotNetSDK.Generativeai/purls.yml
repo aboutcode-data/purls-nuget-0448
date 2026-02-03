@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Generativeai@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Generativeai@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Generativeai@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Generativeai@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Generativeai@78.1.0
 - pkg:nuget/OCI.DotNetSDK.Generativeai@78.2.0
 - pkg:nuget/OCI.DotNetSDK.Generativeai@79.0.0

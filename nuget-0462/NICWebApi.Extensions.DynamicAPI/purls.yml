@@ -12,6 +12,8 @@
 - pkg:nuget/NICWebApi.Extensions.DynamicAPI@1.0.19
 - pkg:nuget/NICWebApi.Extensions.DynamicAPI@1.0.2
 - pkg:nuget/NICWebApi.Extensions.DynamicAPI@1.0.20
+- pkg:nuget/NICWebApi.Extensions.DynamicAPI@1.0.25
+- pkg:nuget/NICWebApi.Extensions.DynamicAPI@1.0.26
 - pkg:nuget/NICWebApi.Extensions.DynamicAPI@1.0.7
 - pkg:nuget/NICWebApi.Extensions.DynamicAPI@1.0.8
 - pkg:nuget/NICWebApi.Extensions.DynamicAPI@1.0.9

@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Apmcontrolplane@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Apmcontrolplane@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Apmcontrolplane@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Apmcontrolplane@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Apmcontrolplane@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Apmcontrolplane@15.2.0
 - pkg:nuget/OCI.DotNetSDK.Apmcontrolplane@16.0.0

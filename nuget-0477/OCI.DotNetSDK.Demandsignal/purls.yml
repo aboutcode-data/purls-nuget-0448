@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Demandsignal@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Demandsignal@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Demandsignal@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Demandsignal@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Demandsignal@88.0.0
 - pkg:nuget/OCI.DotNetSDK.Demandsignal@89.0.0
 - pkg:nuget/OCI.DotNetSDK.Demandsignal@89.1.0
