@@ -23,6 +23,7 @@
 - pkg:nuget/ktsu.SingleAppInstance@1.1.1-pre.2
 - pkg:nuget/ktsu.SingleAppInstance@1.2.0
 - pkg:nuget/ktsu.SingleAppInstance@1.2.1
+- pkg:nuget/ktsu.SingleAppInstance@1.2.12-pre.10
 - pkg:nuget/ktsu.SingleAppInstance@1.2.2
 - pkg:nuget/ktsu.SingleAppInstance@1.2.2-pre.1
 - pkg:nuget/ktsu.SingleAppInstance@1.2.2-pre.2
