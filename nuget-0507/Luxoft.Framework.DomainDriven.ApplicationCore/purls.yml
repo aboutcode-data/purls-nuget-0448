@@ -18,3 +18,4 @@
 - pkg:nuget/Luxoft.Framework.DomainDriven.ApplicationCore@23.2.9.3
 - pkg:nuget/Luxoft.Framework.DomainDriven.ApplicationCore@24.1.3
 - pkg:nuget/Luxoft.Framework.DomainDriven.ApplicationCore@25.3.0
+- pkg:nuget/Luxoft.Framework.DomainDriven.ApplicationCore@25.4.1
