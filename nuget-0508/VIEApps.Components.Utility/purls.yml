@@ -31,6 +31,7 @@
 - pkg:nuget/VIEApps.Components.Utility@10.1.9.1802-beta
 - pkg:nuget/VIEApps.Components.Utility@10.1.9.1802-rc
 - pkg:nuget/VIEApps.Components.Utility@10.10.2512.2
+- pkg:nuget/VIEApps.Components.Utility@10.10.2602.1
 - pkg:nuget/VIEApps.Components.Utility@10.2.0.1805
 - pkg:nuget/VIEApps.Components.Utility@10.2.1.1805
 - pkg:nuget/VIEApps.Components.Utility@10.2.1810.1
