@@ -69,3 +69,4 @@
 - pkg:nuget/CdIts.Caffoa.System.Text.Json@4.9.1
 - pkg:nuget/CdIts.Caffoa.System.Text.Json@5.0.0-pre.1
 - pkg:nuget/CdIts.Caffoa.System.Text.Json@5.0.0-pre.2
+- pkg:nuget/CdIts.Caffoa.System.Text.Json@5.1.1
