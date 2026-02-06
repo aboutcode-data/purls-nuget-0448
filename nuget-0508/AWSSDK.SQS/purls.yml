@@ -1223,6 +1223,7 @@
 - pkg:nuget/AWSSDK.SQS@3.7.502.13
 - pkg:nuget/AWSSDK.SQS@3.7.502.20
 - pkg:nuget/AWSSDK.SQS@3.7.502.21
+- pkg:nuget/AWSSDK.SQS@3.7.502.37
 - pkg:nuget/AWSSDK.SQS@3.7.502.7
 - pkg:nuget/AWSSDK.SQS@3.7.502.9
 - pkg:nuget/AWSSDK.SQS@4.0.0

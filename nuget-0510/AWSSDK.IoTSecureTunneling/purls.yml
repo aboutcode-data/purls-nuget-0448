@@ -988,6 +988,7 @@
 - pkg:nuget/AWSSDK.IoTSecureTunneling@3.7.502.24
 - pkg:nuget/AWSSDK.IoTSecureTunneling@3.7.502.26
 - pkg:nuget/AWSSDK.IoTSecureTunneling@3.7.502.34
+- pkg:nuget/AWSSDK.IoTSecureTunneling@3.7.502.41
 - pkg:nuget/AWSSDK.IoTSecureTunneling@4.0.0
 - pkg:nuget/AWSSDK.IoTSecureTunneling@4.0.0-preview
 - pkg:nuget/AWSSDK.IoTSecureTunneling@4.0.0-preview.10
