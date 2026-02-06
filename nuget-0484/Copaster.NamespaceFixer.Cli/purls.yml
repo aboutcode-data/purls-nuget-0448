@@ -1,1 +1,3 @@
 - pkg:nuget/Copaster.NamespaceFixer.Cli@2026.102.106.2
+- pkg:nuget/Copaster.NamespaceFixer.Cli@2026.102.106.3-copaster-cli-initial-take
+- pkg:nuget/Copaster.NamespaceFixer.Cli@2026.102.106.4
