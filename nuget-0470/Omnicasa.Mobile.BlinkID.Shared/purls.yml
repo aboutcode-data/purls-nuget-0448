@@ -23,3 +23,6 @@
 - pkg:nuget/Omnicasa.Mobile.BlinkID.Shared@2024.7.9.54-preview
 - pkg:nuget/Omnicasa.Mobile.BlinkID.Shared@2024.8.16.59-preview
 - pkg:nuget/Omnicasa.Mobile.BlinkID.Shared@2024.8.16.60-preview
+- pkg:nuget/Omnicasa.Mobile.BlinkID.Shared@2026.2.12.74-alpha
+- pkg:nuget/Omnicasa.Mobile.BlinkID.Shared@2026.2.12.78-alpha
+- pkg:nuget/Omnicasa.Mobile.BlinkID.Shared@2026.2.12.79-alpha

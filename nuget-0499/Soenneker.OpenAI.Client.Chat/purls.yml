@@ -1086,3 +1086,5 @@
 - pkg:nuget/Soenneker.OpenAI.Client.Chat@4.0.1112
 - pkg:nuget/Soenneker.OpenAI.Client.Chat@4.0.1118
 - pkg:nuget/Soenneker.OpenAI.Client.Chat@4.0.1156
+- pkg:nuget/Soenneker.OpenAI.Client.Chat@4.0.1159
+- pkg:nuget/Soenneker.OpenAI.Client.Chat@4.0.1160

@@ -437,3 +437,4 @@
 - pkg:nuget/Soenneker.Utils.RateLimiting.Executor@4.0.446
 - pkg:nuget/Soenneker.Utils.RateLimiting.Executor@4.0.454
 - pkg:nuget/Soenneker.Utils.RateLimiting.Executor@4.0.480
+- pkg:nuget/Soenneker.Utils.RateLimiting.Executor@4.0.484
