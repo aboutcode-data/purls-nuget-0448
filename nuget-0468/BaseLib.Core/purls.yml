@@ -21,5 +21,6 @@
 - pkg:nuget/BaseLib.Core@3.0.0-beta-003
 - pkg:nuget/BaseLib.Core@3.0.0-beta-004
 - pkg:nuget/BaseLib.Core@3.1.0
+- pkg:nuget/BaseLib.Core@3.1.1
 - pkg:nuget/BaseLib.Core@3.1.1-alpha-001
 - pkg:nuget/BaseLib.Core@3.1.1-alpha-003
