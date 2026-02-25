@@ -6,6 +6,7 @@
 - pkg:nuget/MJ.Akka.Projections@0.14.0
 - pkg:nuget/MJ.Akka.Projections@0.15.0
 - pkg:nuget/MJ.Akka.Projections@0.2.0
+- pkg:nuget/MJ.Akka.Projections@0.20.0
 - pkg:nuget/MJ.Akka.Projections@0.3.0
 - pkg:nuget/MJ.Akka.Projections@0.5.0
 - pkg:nuget/MJ.Akka.Projections@0.6.0

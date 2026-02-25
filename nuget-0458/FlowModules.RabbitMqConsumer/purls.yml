@@ -1,3 +1,4 @@
 - pkg:nuget/FlowModules.RabbitMqConsumer@0.0.1
 - pkg:nuget/FlowModules.RabbitMqConsumer@2.0.0
 - pkg:nuget/FlowModules.RabbitMqConsumer@5.0.0
+- pkg:nuget/FlowModules.RabbitMqConsumer@5.0.3
