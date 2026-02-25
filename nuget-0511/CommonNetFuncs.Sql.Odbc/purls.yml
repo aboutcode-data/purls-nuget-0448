@@ -72,3 +72,5 @@
 - pkg:nuget/CommonNetFuncs.Sql.Odbc@3.8.13
 - pkg:nuget/CommonNetFuncs.Sql.Odbc@3.8.14
 - pkg:nuget/CommonNetFuncs.Sql.Odbc@3.8.15
+- pkg:nuget/CommonNetFuncs.Sql.Odbc@3.8.38
+- pkg:nuget/CommonNetFuncs.Sql.Odbc@4.0.17

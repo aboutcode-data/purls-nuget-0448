@@ -9,3 +9,4 @@
 - pkg:nuget/SatorImaging.StaticMemberAnalyzer@2.0.0-beta.1
 - pkg:nuget/SatorImaging.StaticMemberAnalyzer@2.0.0-beta.2
 - pkg:nuget/SatorImaging.StaticMemberAnalyzer@2.0.0-rc.1
+- pkg:nuget/SatorImaging.StaticMemberAnalyzer@3.3.1

@@ -45,3 +45,5 @@
 - pkg:nuget/Rescope.Commerce.StaticAssets@15.0.1
 - pkg:nuget/Rescope.Commerce.StaticAssets@16.0.0
 - pkg:nuget/Rescope.Commerce.StaticAssets@16.1.0
+- pkg:nuget/Rescope.Commerce.StaticAssets@17.1.46
+- pkg:nuget/Rescope.Commerce.StaticAssets@17.1.47

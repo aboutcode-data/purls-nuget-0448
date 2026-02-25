@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.Abstractions@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.Abstractions@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.Abstractions@10.0.1
+- pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.Abstractions@11.0.0-preview.1.26104.118
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.Abstractions@8.0.0
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.Abstractions@8.0.0-preview.2.23128.3
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.Abstractions@8.0.0-preview.3.23174.2
@@ -47,6 +48,7 @@
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.Abstractions@9.0.0-rc.1.24451.1
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.Abstractions@9.0.0-rc.2.24474.1
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.Abstractions@9.0.1
+- pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.Abstractions@9.0.13
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.Abstractions@9.0.2
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.Abstractions@9.0.3
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.Abstractions@9.0.4
