@@ -1,1 +1,2 @@
 - pkg:nuget/TUnit.FsCheck@1.12.125
+- pkg:nuget/TUnit.FsCheck@1.13.24
