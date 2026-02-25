@@ -23,3 +23,5 @@
 - pkg:nuget/BccCode.PdfService.Client@1.0.0.7-beta
 - pkg:nuget/BccCode.PdfService.Client@1.0.0.8
 - pkg:nuget/BccCode.PdfService.Client@1.0.0.9
+- pkg:nuget/BccCode.PdfService.Client@1.0.1.3
+- pkg:nuget/BccCode.PdfService.Client@1.0.1.4
