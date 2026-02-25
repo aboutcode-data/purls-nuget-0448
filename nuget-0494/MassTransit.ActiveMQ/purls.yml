@@ -1298,3 +1298,5 @@
 - pkg:nuget/MassTransit.ActiveMQ@8.5.7-develop.2403
 - pkg:nuget/MassTransit.ActiveMQ@8.5.7-develop.2404
 - pkg:nuget/MassTransit.ActiveMQ@8.5.8-develop.2411
+- pkg:nuget/MassTransit.ActiveMQ@8.5.8-develop.2416
+- pkg:nuget/MassTransit.ActiveMQ@9.1.0-develop.71

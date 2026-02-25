@@ -90,3 +90,4 @@
 - pkg:nuget/aerospike-client-c-libuv@7.0.3
 - pkg:nuget/aerospike-client-c-libuv@7.1.0
 - pkg:nuget/aerospike-client-c-libuv@7.2.0
+- pkg:nuget/aerospike-client-c-libuv@7.3.0

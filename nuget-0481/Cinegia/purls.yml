@@ -103,3 +103,5 @@
 - pkg:nuget/Cinegia@2.24.7.5
 - pkg:nuget/Cinegia@2.25.7.10
 - pkg:nuget/Cinegia@2.25.7.8
+- pkg:nuget/Cinegia@3.26.2.1
+- pkg:nuget/Cinegia@3.26.2.4

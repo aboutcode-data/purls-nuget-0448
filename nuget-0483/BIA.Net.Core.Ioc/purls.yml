@@ -37,3 +37,4 @@
 - pkg:nuget/BIA.Net.Core.Ioc@5.0.1
 - pkg:nuget/BIA.Net.Core.Ioc@5.0.2
 - pkg:nuget/BIA.Net.Core.Ioc@5.1.0
+- pkg:nuget/BIA.Net.Core.Ioc@6.1.0

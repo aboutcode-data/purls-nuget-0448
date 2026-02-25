@@ -1,4 +1,5 @@
 - pkg:nuget/DotNetCore.CAP.PostgreSql@1.2.0-preview-00019208119
+- pkg:nuget/DotNetCore.CAP.PostgreSql@10.0.2-preview-287480508
 - pkg:nuget/DotNetCore.CAP.PostgreSql@2.0.0
 - pkg:nuget/DotNetCore.CAP.PostgreSql@2.0.0-preview-19793485
 - pkg:nuget/DotNetCore.CAP.PostgreSql@2.0.0-preview-20091963
