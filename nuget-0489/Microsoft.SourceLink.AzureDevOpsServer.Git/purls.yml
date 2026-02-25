@@ -3,4 +3,5 @@
 - pkg:nuget/Microsoft.SourceLink.AzureDevOpsServer.Git@1.1.0
 - pkg:nuget/Microsoft.SourceLink.AzureDevOpsServer.Git@1.1.0-beta-20204-02
 - pkg:nuget/Microsoft.SourceLink.AzureDevOpsServer.Git@1.1.1
+- pkg:nuget/Microsoft.SourceLink.AzureDevOpsServer.Git@11.0.100-preview.1.26104.118
 - pkg:nuget/Microsoft.SourceLink.AzureDevOpsServer.Git@8.0.0
