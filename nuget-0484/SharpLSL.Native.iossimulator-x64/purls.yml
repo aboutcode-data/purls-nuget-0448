@@ -1,1 +1,2 @@
 - pkg:nuget/SharpLSL.Native.iossimulator-x64@1.16.2.6
+- pkg:nuget/SharpLSL.Native.iossimulator-x64@1.17.4
