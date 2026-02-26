@@ -21,6 +21,7 @@
 - pkg:nuget/DNV.OAuth.Api.HttpClient@1.14.6
 - pkg:nuget/DNV.OAuth.Api.HttpClient@1.14.7
 - pkg:nuget/DNV.OAuth.Api.HttpClient@1.15.0
+- pkg:nuget/DNV.OAuth.Api.HttpClient@1.17.0
 - pkg:nuget/DNV.OAuth.Api.HttpClient@1.5.0
 - pkg:nuget/DNV.OAuth.Api.HttpClient@1.5.1
 - pkg:nuget/DNV.OAuth.Api.HttpClient@1.6.0
