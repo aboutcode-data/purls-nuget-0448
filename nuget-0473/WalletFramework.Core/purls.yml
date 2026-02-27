@@ -1,5 +1,6 @@
 - pkg:nuget/WalletFramework.Core@2.0.0
 - pkg:nuget/WalletFramework.Core@2.0.0-dev.959
+- pkg:nuget/WalletFramework.Core@2.0.0-dev.976
 - pkg:nuget/WalletFramework.Core@2.0.0-pr.128.10
 - pkg:nuget/WalletFramework.Core@2.0.0-pr.128.8
 - pkg:nuget/WalletFramework.Core@2.0.0-pr.128.9
@@ -312,3 +313,4 @@
 - pkg:nuget/WalletFramework.Core@2.0.0-rc.307
 - pkg:nuget/WalletFramework.Core@2.0.0-rc.308
 - pkg:nuget/WalletFramework.Core@2.0.0-rc.312
+- pkg:nuget/WalletFramework.Core@3.0.0-rc.1
