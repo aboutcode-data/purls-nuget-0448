@@ -46,6 +46,7 @@
 - pkg:nuget/HZY.Framework.Repository.EntityFramework@0.0.0.7
 - pkg:nuget/HZY.Framework.Repository.EntityFramework@0.0.0.8
 - pkg:nuget/HZY.Framework.Repository.EntityFramework@0.0.0.9
+- pkg:nuget/HZY.Framework.Repository.EntityFramework@10.0.8
 - pkg:nuget/HZY.Framework.Repository.EntityFramework@5.0.0
 - pkg:nuget/HZY.Framework.Repository.EntityFramework@5.0.1
 - pkg:nuget/HZY.Framework.Repository.EntityFramework@5.0.2
