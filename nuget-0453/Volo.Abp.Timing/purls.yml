@@ -34,6 +34,7 @@
 - pkg:nuget/Volo.Abp.Timing@1.1.0
 - pkg:nuget/Volo.Abp.Timing@1.1.1
 - pkg:nuget/Volo.Abp.Timing@1.1.2
+- pkg:nuget/Volo.Abp.Timing@10.1.1
 - pkg:nuget/Volo.Abp.Timing@2.0.0
 - pkg:nuget/Volo.Abp.Timing@2.0.1
 - pkg:nuget/Volo.Abp.Timing@2.1.0

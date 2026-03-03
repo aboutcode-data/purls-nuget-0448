@@ -18,6 +18,7 @@
 - pkg:nuget/XAML.MapControl.SQLiteCache@13.4.0
 - pkg:nuget/XAML.MapControl.SQLiteCache@13.5.0
 - pkg:nuget/XAML.MapControl.SQLiteCache@13.6.0
+- pkg:nuget/XAML.MapControl.SQLiteCache@16.1.0
 - pkg:nuget/XAML.MapControl.SQLiteCache@6.0.0
 - pkg:nuget/XAML.MapControl.SQLiteCache@6.0.1
 - pkg:nuget/XAML.MapControl.SQLiteCache@7.0.0
