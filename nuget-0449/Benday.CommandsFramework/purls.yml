@@ -24,6 +24,7 @@
 - pkg:nuget/Benday.CommandsFramework@4.10.0
 - pkg:nuget/Benday.CommandsFramework@4.11.0
 - pkg:nuget/Benday.CommandsFramework@4.12.0
+- pkg:nuget/Benday.CommandsFramework@4.14.0
 - pkg:nuget/Benday.CommandsFramework@4.2.0
 - pkg:nuget/Benday.CommandsFramework@4.3.0
 - pkg:nuget/Benday.CommandsFramework@4.4.0
