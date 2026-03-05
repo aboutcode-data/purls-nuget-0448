@@ -1,1 +1,2 @@
 - pkg:nuget/Soenneker.Deduplication.SlidingWindow@4.0.3
+- pkg:nuget/Soenneker.Deduplication.SlidingWindow@4.0.4
