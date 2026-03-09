@@ -28,3 +28,4 @@
 - pkg:nuget/EPost.PrimitiveTypes.AspNetCore.Utils@1.0.7
 - pkg:nuget/EPost.PrimitiveTypes.AspNetCore.Utils@1.0.8
 - pkg:nuget/EPost.PrimitiveTypes.AspNetCore.Utils@1.0.9
+- pkg:nuget/EPost.PrimitiveTypes.AspNetCore.Utils@2.0.4
