@@ -162,6 +162,7 @@
 - pkg:nuget/Marten.AspNetCore@8.15.2
 - pkg:nuget/Marten.AspNetCore@8.2.0
 - pkg:nuget/Marten.AspNetCore@8.2.1
+- pkg:nuget/Marten.AspNetCore@8.23.0
 - pkg:nuget/Marten.AspNetCore@8.3.0
 - pkg:nuget/Marten.AspNetCore@8.3.1
 - pkg:nuget/Marten.AspNetCore@8.3.2
