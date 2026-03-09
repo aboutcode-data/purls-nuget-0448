@@ -27,3 +27,4 @@
 - pkg:nuget/VertiGIS.Workflow.Runtime@5.45.0.2
 - pkg:nuget/VertiGIS.Workflow.Runtime@5.46.0.3
 - pkg:nuget/VertiGIS.Workflow.Runtime@5.47.0.2
+- pkg:nuget/VertiGIS.Workflow.Runtime@5.50.0.5
