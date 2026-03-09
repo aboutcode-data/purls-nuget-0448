@@ -1,1 +1,2 @@
 - pkg:nuget/NOF.Hosting.AspNetCore@6.3.0
+- pkg:nuget/NOF.Hosting.AspNetCore@7.1.0-nightly.1150087.067890f
