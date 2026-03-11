@@ -18,3 +18,4 @@
 - pkg:nuget/Shuttle.Access.AspNetCore@8.1.1
 - pkg:nuget/Shuttle.Access.AspNetCore@8.1.3
 - pkg:nuget/Shuttle.Access.AspNetCore@8.1.4
+- pkg:nuget/Shuttle.Access.AspNetCore@9.0.0-rc3
