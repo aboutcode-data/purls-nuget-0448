@@ -87,3 +87,4 @@
 - pkg:nuget/Svg.CodeGen.Skia@3.0.4-beta.3
 - pkg:nuget/Svg.CodeGen.Skia@3.0.5
 - pkg:nuget/Svg.CodeGen.Skia@3.0.6
+- pkg:nuget/Svg.CodeGen.Skia@3.6.0
