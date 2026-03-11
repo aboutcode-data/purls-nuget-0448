@@ -19,3 +19,4 @@
 - pkg:nuget/Umbraco.Engage.StaticAssets@16.0.0-rc2
 - pkg:nuget/Umbraco.Engage.StaticAssets@16.0.1
 - pkg:nuget/Umbraco.Engage.StaticAssets@17.0.0-rc3
+- pkg:nuget/Umbraco.Engage.StaticAssets@17.1.1
