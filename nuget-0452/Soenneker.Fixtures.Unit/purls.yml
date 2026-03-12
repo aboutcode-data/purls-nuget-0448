@@ -658,3 +658,5 @@
 - pkg:nuget/Soenneker.Fixtures.Unit@4.0.636
 - pkg:nuget/Soenneker.Fixtures.Unit@4.0.650
 - pkg:nuget/Soenneker.Fixtures.Unit@4.0.656
+- pkg:nuget/Soenneker.Fixtures.Unit@4.0.658
+- pkg:nuget/Soenneker.Fixtures.Unit@4.0.660
