@@ -75,3 +75,4 @@
 - pkg:nuget/Cynosura.Studio.CliTool@0.4.0-b480
 - pkg:nuget/Cynosura.Studio.CliTool@0.4.0-b485
 - pkg:nuget/Cynosura.Studio.CliTool@0.4.1
+- pkg:nuget/Cynosura.Studio.CliTool@0.5.1
