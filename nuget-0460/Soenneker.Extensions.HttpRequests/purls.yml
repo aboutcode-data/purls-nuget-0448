@@ -5,6 +5,7 @@
 - pkg:nuget/Soenneker.Extensions.HttpRequests@4.0.15
 - pkg:nuget/Soenneker.Extensions.HttpRequests@4.0.20
 - pkg:nuget/Soenneker.Extensions.HttpRequests@4.0.22
+- pkg:nuget/Soenneker.Extensions.HttpRequests@4.0.24
 - pkg:nuget/Soenneker.Extensions.HttpRequests@4.0.5
 - pkg:nuget/Soenneker.Extensions.HttpRequests@4.0.6
 - pkg:nuget/Soenneker.Extensions.HttpRequests@4.0.9
