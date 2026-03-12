@@ -1,2 +1,3 @@
 - pkg:nuget/Incursa.Integrations.Cloudflare.CustomDomains@6.0.1
 - pkg:nuget/Incursa.Integrations.Cloudflare.CustomDomains@6.0.3
+- pkg:nuget/Incursa.Integrations.Cloudflare.CustomDomains@6.0.4
