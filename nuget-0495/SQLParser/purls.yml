@@ -39,3 +39,4 @@
 - pkg:nuget/SQLParser@4.0.0
 - pkg:nuget/SQLParser@4.0.1
 - pkg:nuget/SQLParser@4.0.2
+- pkg:nuget/SQLParser@4.0.4
