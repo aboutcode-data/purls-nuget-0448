@@ -53,6 +53,7 @@
 - pkg:nuget/Managed.System.Drawing@3.5.3-preview.4
 - pkg:nuget/Managed.System.Drawing@3.5.3-preview.5
 - pkg:nuget/Managed.System.Drawing@3.5.3-preview.7
+- pkg:nuget/Managed.System.Drawing@3.5.31
 - pkg:nuget/Managed.System.Drawing@3.5.4
 - pkg:nuget/Managed.System.Drawing@3.5.4-preview.1
 - pkg:nuget/Managed.System.Drawing@3.5.4-preview.3
@@ -95,6 +96,7 @@
 - pkg:nuget/Managed.System.Drawing@4.0.1
 - pkg:nuget/Managed.System.Drawing@4.0.1-preview.10
 - pkg:nuget/Managed.System.Drawing@4.0.1-preview.9
+- pkg:nuget/Managed.System.Drawing@4.0.10
 - pkg:nuget/Managed.System.Drawing@4.0.2
 - pkg:nuget/Managed.System.Drawing@4.0.2-preview.18
 - pkg:nuget/Managed.System.Drawing@4.0.3-preview.7
