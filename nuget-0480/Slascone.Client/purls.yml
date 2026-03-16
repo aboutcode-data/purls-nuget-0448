@@ -26,6 +26,7 @@
 - pkg:nuget/Slascone.Client@2.0.68
 - pkg:nuget/Slascone.Client@2.0.71
 - pkg:nuget/Slascone.Client@2.0.75
+- pkg:nuget/Slascone.Client@2.1.1050
 - pkg:nuget/Slascone.Client@2.1.111
 - pkg:nuget/Slascone.Client@2.1.118
 - pkg:nuget/Slascone.Client@2.1.122
