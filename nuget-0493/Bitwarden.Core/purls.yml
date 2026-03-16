@@ -1,1 +1,2 @@
 - pkg:nuget/Bitwarden.Core@0.3.0
+- pkg:nuget/Bitwarden.Core@0.4.0-beta.1
