@@ -36,3 +36,4 @@
 - pkg:nuget/NetEvolve.HealthChecks.Dapr@4.15.1
 - pkg:nuget/NetEvolve.HealthChecks.Dapr@4.20.61
 - pkg:nuget/NetEvolve.HealthChecks.Dapr@4.3.0
+- pkg:nuget/NetEvolve.HealthChecks.Dapr@5.13.51
