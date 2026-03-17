@@ -1,4 +1,5 @@
 - pkg:nuget/CoveredUp@1.0.1
+- pkg:nuget/CoveredUp@10.0.6
 - pkg:nuget/CoveredUp@2.0.1
 - pkg:nuget/CoveredUp@2.0.2
 - pkg:nuget/CoveredUp@7.0.1

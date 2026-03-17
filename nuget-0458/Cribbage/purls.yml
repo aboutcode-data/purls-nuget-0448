@@ -1,4 +1,5 @@
 - pkg:nuget/Cribbage@1.0.1
+- pkg:nuget/Cribbage@10.0.5
 - pkg:nuget/Cribbage@2.0.1
 - pkg:nuget/Cribbage@2.0.2
 - pkg:nuget/Cribbage@7.0.1
