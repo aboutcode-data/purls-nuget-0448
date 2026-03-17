@@ -1,4 +1,5 @@
 - pkg:nuget/BasicGameFrameworkLibrary@1.0.1
+- pkg:nuget/BasicGameFrameworkLibrary@10.0.20
 - pkg:nuget/BasicGameFrameworkLibrary@2.0.1
 - pkg:nuget/BasicGameFrameworkLibrary@2.0.2
 - pkg:nuget/BasicGameFrameworkLibrary@2.0.3
