@@ -32,3 +32,4 @@
 - pkg:nuget/libpfapi@4.0.2-alpha3
 - pkg:nuget/libpfapi@4.1.0
 - pkg:nuget/libpfapi@4.1.1-alpha0
+- pkg:nuget/libpfapi@4.3.0-rc0
