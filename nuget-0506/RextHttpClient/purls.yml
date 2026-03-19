@@ -25,3 +25,5 @@
 - pkg:nuget/RextHttpClient@1.0.8
 - pkg:nuget/RextHttpClient@1.0.8-beta1
 - pkg:nuget/RextHttpClient@1.0.9
+- pkg:nuget/RextHttpClient@2.0.0-beta.1
+- pkg:nuget/RextHttpClient@2.0.0-beta.2
