@@ -666,3 +666,4 @@
 - pkg:nuget/AWSSDK.MainframeModernization@4.0.1.8
 - pkg:nuget/AWSSDK.MainframeModernization@4.0.2.11
 - pkg:nuget/AWSSDK.MainframeModernization@4.0.2.18
+- pkg:nuget/AWSSDK.MainframeModernization@4.0.2.19
