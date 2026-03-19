@@ -50,6 +50,7 @@
 - pkg:nuget/FluentCommand.SqlServer@13.3.1
 - pkg:nuget/FluentCommand.SqlServer@13.3.3
 - pkg:nuget/FluentCommand.SqlServer@13.4.0
+- pkg:nuget/FluentCommand.SqlServer@15.0.0
 - pkg:nuget/FluentCommand.SqlServer@3.0.0.49
 - pkg:nuget/FluentCommand.SqlServer@4.0.0.108
 - pkg:nuget/FluentCommand.SqlServer@4.0.0.148
