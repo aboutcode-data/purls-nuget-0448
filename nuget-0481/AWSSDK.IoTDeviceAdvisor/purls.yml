@@ -827,6 +827,7 @@
 - pkg:nuget/AWSSDK.IoTDeviceAdvisor@3.7.502.5
 - pkg:nuget/AWSSDK.IoTDeviceAdvisor@3.7.502.53
 - pkg:nuget/AWSSDK.IoTDeviceAdvisor@3.7.502.54
+- pkg:nuget/AWSSDK.IoTDeviceAdvisor@3.7.502.57
 - pkg:nuget/AWSSDK.IoTDeviceAdvisor@4.0.0
 - pkg:nuget/AWSSDK.IoTDeviceAdvisor@4.0.0-preview
 - pkg:nuget/AWSSDK.IoTDeviceAdvisor@4.0.0-preview.10

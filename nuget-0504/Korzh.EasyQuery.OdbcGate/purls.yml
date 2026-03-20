@@ -208,3 +208,4 @@
 - pkg:nuget/Korzh.EasyQuery.OdbcGate@7.4.0-rc06
 - pkg:nuget/Korzh.EasyQuery.OdbcGate@7.4.0-rc07
 - pkg:nuget/Korzh.EasyQuery.OdbcGate@7.4.1-rc01
+- pkg:nuget/Korzh.EasyQuery.OdbcGate@7.4.2-rc02

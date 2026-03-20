@@ -1585,3 +1585,5 @@
 - pkg:nuget/Soenneker.ServiceBus.Admin@4.0.1534
 - pkg:nuget/Soenneker.ServiceBus.Admin@4.0.1539
 - pkg:nuget/Soenneker.ServiceBus.Admin@4.0.1543
+- pkg:nuget/Soenneker.ServiceBus.Admin@4.0.1560
+- pkg:nuget/Soenneker.ServiceBus.Admin@4.0.1561

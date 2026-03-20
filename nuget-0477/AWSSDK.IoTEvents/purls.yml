@@ -1075,6 +1075,7 @@
 - pkg:nuget/AWSSDK.IoTEvents@3.7.502.44
 - pkg:nuget/AWSSDK.IoTEvents@3.7.502.51
 - pkg:nuget/AWSSDK.IoTEvents@3.7.502.52
+- pkg:nuget/AWSSDK.IoTEvents@3.7.502.55
 - pkg:nuget/AWSSDK.IoTEvents@4.0.0
 - pkg:nuget/AWSSDK.IoTEvents@4.0.0-preview
 - pkg:nuget/AWSSDK.IoTEvents@4.0.0-preview.10
