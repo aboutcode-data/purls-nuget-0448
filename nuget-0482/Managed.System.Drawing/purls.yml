@@ -97,6 +97,7 @@
 - pkg:nuget/Managed.System.Drawing@4.0.1-preview.10
 - pkg:nuget/Managed.System.Drawing@4.0.1-preview.9
 - pkg:nuget/Managed.System.Drawing@4.0.10
+- pkg:nuget/Managed.System.Drawing@4.0.11
 - pkg:nuget/Managed.System.Drawing@4.0.2
 - pkg:nuget/Managed.System.Drawing@4.0.2-preview.18
 - pkg:nuget/Managed.System.Drawing@4.0.3-preview.7
