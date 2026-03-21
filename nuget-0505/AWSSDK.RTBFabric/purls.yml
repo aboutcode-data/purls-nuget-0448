@@ -6,5 +6,6 @@
 - pkg:nuget/AWSSDK.RTBFabric@3.7.502.33
 - pkg:nuget/AWSSDK.RTBFabric@3.7.502.45
 - pkg:nuget/AWSSDK.RTBFabric@3.7.502.48
+- pkg:nuget/AWSSDK.RTBFabric@3.7.502.49
 - pkg:nuget/AWSSDK.RTBFabric@3.7.502.5
 - pkg:nuget/AWSSDK.RTBFabric@4.0.2.7
