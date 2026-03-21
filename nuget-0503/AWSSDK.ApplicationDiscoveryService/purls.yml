@@ -1206,6 +1206,7 @@
 - pkg:nuget/AWSSDK.ApplicationDiscoveryService@3.7.502.44
 - pkg:nuget/AWSSDK.ApplicationDiscoveryService@3.7.502.52
 - pkg:nuget/AWSSDK.ApplicationDiscoveryService@3.7.502.55
+- pkg:nuget/AWSSDK.ApplicationDiscoveryService@3.7.502.56
 - pkg:nuget/AWSSDK.ApplicationDiscoveryService@4.0.0
 - pkg:nuget/AWSSDK.ApplicationDiscoveryService@4.0.0-preview
 - pkg:nuget/AWSSDK.ApplicationDiscoveryService@4.0.0-preview.10

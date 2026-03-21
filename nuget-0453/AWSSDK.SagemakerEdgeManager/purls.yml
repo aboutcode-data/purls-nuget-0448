@@ -826,6 +826,7 @@
 - pkg:nuget/AWSSDK.SagemakerEdgeManager@3.7.501.45
 - pkg:nuget/AWSSDK.SagemakerEdgeManager@3.7.501.52
 - pkg:nuget/AWSSDK.SagemakerEdgeManager@3.7.501.55
+- pkg:nuget/AWSSDK.SagemakerEdgeManager@3.7.501.56
 - pkg:nuget/AWSSDK.SagemakerEdgeManager@4.0.0
 - pkg:nuget/AWSSDK.SagemakerEdgeManager@4.0.0-preview
 - pkg:nuget/AWSSDK.SagemakerEdgeManager@4.0.0-preview.10

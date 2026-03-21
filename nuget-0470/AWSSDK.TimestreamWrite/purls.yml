@@ -853,6 +853,7 @@
 - pkg:nuget/AWSSDK.TimestreamWrite@3.7.502.5
 - pkg:nuget/AWSSDK.TimestreamWrite@3.7.502.54
 - pkg:nuget/AWSSDK.TimestreamWrite@3.7.502.57
+- pkg:nuget/AWSSDK.TimestreamWrite@3.7.502.58
 - pkg:nuget/AWSSDK.TimestreamWrite@4.0.0
 - pkg:nuget/AWSSDK.TimestreamWrite@4.0.0-preview
 - pkg:nuget/AWSSDK.TimestreamWrite@4.0.0-preview.10

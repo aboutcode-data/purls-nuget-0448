@@ -1002,6 +1002,7 @@
 - pkg:nuget/AWSSDK.ComputeOptimizer@3.7.503.32
 - pkg:nuget/AWSSDK.ComputeOptimizer@3.7.503.39
 - pkg:nuget/AWSSDK.ComputeOptimizer@3.7.503.42
+- pkg:nuget/AWSSDK.ComputeOptimizer@3.7.503.43
 - pkg:nuget/AWSSDK.ComputeOptimizer@4.0.0
 - pkg:nuget/AWSSDK.ComputeOptimizer@4.0.0-preview
 - pkg:nuget/AWSSDK.ComputeOptimizer@4.0.0-preview.10
