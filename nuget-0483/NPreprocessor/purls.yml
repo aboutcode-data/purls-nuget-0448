@@ -19,3 +19,4 @@
 - pkg:nuget/NPreprocessor@1.0.0-beta-03
 - pkg:nuget/NPreprocessor@1.0.0-beta-04
 - pkg:nuget/NPreprocessor@1.0.0-beta-05
+- pkg:nuget/NPreprocessor@1.0.1
