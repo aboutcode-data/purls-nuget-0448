@@ -9,6 +9,7 @@
 - pkg:nuget/IronRure.Batteries-Windows@1111.0.6-v-
 - pkg:nuget/IronRure.Batteries-Windows@1111.0.7
 - pkg:nuget/IronRure.Batteries-Windows@1111.0.8
+- pkg:nuget/IronRure.Batteries-Windows@1111.0.9
 - pkg:nuget/IronRure.Batteries-Windows@154.0.0
 - pkg:nuget/IronRure.Batteries-Windows@154.0.1
 - pkg:nuget/IronRure.Batteries-Windows@2.5.0
