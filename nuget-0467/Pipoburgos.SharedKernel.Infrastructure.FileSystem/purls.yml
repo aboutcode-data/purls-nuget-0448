@@ -1,3 +1,4 @@
+- pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.FileSystem@10.0.5.2
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.FileSystem@7.2.10.2
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.FileSystem@7.2.10.3
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.FileSystem@7.3.10.1
