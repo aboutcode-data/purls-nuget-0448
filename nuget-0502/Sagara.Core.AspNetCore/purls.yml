@@ -68,3 +68,4 @@
 - pkg:nuget/Sagara.Core.AspNetCore@5.0.0
 - pkg:nuget/Sagara.Core.AspNetCore@5.1.9
 - pkg:nuget/Sagara.Core.AspNetCore@5.3.3
+- pkg:nuget/Sagara.Core.AspNetCore@5.3.4
