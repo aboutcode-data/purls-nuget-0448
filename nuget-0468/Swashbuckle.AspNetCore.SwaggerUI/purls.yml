@@ -3,6 +3,7 @@
 - pkg:nuget/Swashbuckle.AspNetCore.SwaggerUI@1.0.0-rc3
 - pkg:nuget/Swashbuckle.AspNetCore.SwaggerUI@1.1.0
 - pkg:nuget/Swashbuckle.AspNetCore.SwaggerUI@1.2.0
+- pkg:nuget/Swashbuckle.AspNetCore.SwaggerUI@10.1.7
 - pkg:nuget/Swashbuckle.AspNetCore.SwaggerUI@2.0.0
 - pkg:nuget/Swashbuckle.AspNetCore.SwaggerUI@2.1.0
 - pkg:nuget/Swashbuckle.AspNetCore.SwaggerUI@2.1.1
