@@ -1,1 +1,4 @@
 - pkg:nuget/Soenneker.Nws.OpenApiClientUtil@4.0.1
+- pkg:nuget/Soenneker.Nws.OpenApiClientUtil@4.0.6
+- pkg:nuget/Soenneker.Nws.OpenApiClientUtil@4.0.7
+- pkg:nuget/Soenneker.Nws.OpenApiClientUtil@4.0.8
