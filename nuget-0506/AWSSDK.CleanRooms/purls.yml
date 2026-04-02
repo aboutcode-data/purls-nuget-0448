@@ -521,6 +521,7 @@
 - pkg:nuget/AWSSDK.CleanRooms@3.7.513
 - pkg:nuget/AWSSDK.CleanRooms@3.7.513.11
 - pkg:nuget/AWSSDK.CleanRooms@3.7.513.12
+- pkg:nuget/AWSSDK.CleanRooms@3.7.513.13
 - pkg:nuget/AWSSDK.CleanRooms@4.0.0
 - pkg:nuget/AWSSDK.CleanRooms@4.0.0-preview
 - pkg:nuget/AWSSDK.CleanRooms@4.0.0-preview.10
@@ -550,6 +551,10 @@
 - pkg:nuget/AWSSDK.CleanRooms@4.0.1.7
 - pkg:nuget/AWSSDK.CleanRooms@4.0.1.8
 - pkg:nuget/AWSSDK.CleanRooms@4.0.1.9
+- pkg:nuget/AWSSDK.CleanRooms@4.0.15.5
+- pkg:nuget/AWSSDK.CleanRooms@4.0.15.6
+- pkg:nuget/AWSSDK.CleanRooms@4.0.15.7
+- pkg:nuget/AWSSDK.CleanRooms@4.0.15.8
 - pkg:nuget/AWSSDK.CleanRooms@4.0.2
 - pkg:nuget/AWSSDK.CleanRooms@4.0.2.1
 - pkg:nuget/AWSSDK.CleanRooms@4.0.2.2

@@ -1299,4 +1299,10 @@
 - pkg:nuget/MassTransit.ActiveMQ@8.5.7-develop.2404
 - pkg:nuget/MassTransit.ActiveMQ@8.5.8-develop.2411
 - pkg:nuget/MassTransit.ActiveMQ@8.5.8-develop.2416
+- pkg:nuget/MassTransit.ActiveMQ@9.1.0
+- pkg:nuget/MassTransit.ActiveMQ@9.1.0-develop.100
 - pkg:nuget/MassTransit.ActiveMQ@9.1.0-develop.71
+- pkg:nuget/MassTransit.ActiveMQ@9.1.0-develop.94
+- pkg:nuget/MassTransit.ActiveMQ@9.1.0-develop.96
+- pkg:nuget/MassTransit.ActiveMQ@9.1.0-develop.98
+- pkg:nuget/MassTransit.ActiveMQ@9.1.0-develop.99

@@ -15,6 +15,7 @@
 - pkg:nuget/BoldReports.JavaScript@11.1.11
 - pkg:nuget/BoldReports.JavaScript@11.1.15
 - pkg:nuget/BoldReports.JavaScript@12.2.9
+- pkg:nuget/BoldReports.JavaScript@13.1.26
 - pkg:nuget/BoldReports.JavaScript@2.1.14
 - pkg:nuget/BoldReports.JavaScript@2.1.23
 - pkg:nuget/BoldReports.JavaScript@2.2.23

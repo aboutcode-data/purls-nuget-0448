@@ -2,3 +2,4 @@
 - pkg:nuget/SunamoTextIndexing@24.12.24.1
 - pkg:nuget/SunamoTextIndexing@25.12.21.1
 - pkg:nuget/SunamoTextIndexing@25.3.29.1
+- pkg:nuget/SunamoTextIndexing@26.3.28.3

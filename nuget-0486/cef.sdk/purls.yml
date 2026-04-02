@@ -75,6 +75,7 @@
 - pkg:nuget/cef.sdk@138.0.34
 - pkg:nuget/cef.sdk@139.0.28
 - pkg:nuget/cef.sdk@140.1.14
+- pkg:nuget/cef.sdk@146.0.7
 - pkg:nuget/cef.sdk@3.1650.1562-pre2
 - pkg:nuget/cef.sdk@3.1750.1738
 - pkg:nuget/cef.sdk@3.2062.1898

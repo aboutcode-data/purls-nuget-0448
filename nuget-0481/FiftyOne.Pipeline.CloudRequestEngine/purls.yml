@@ -202,3 +202,5 @@
 - pkg:nuget/FiftyOne.Pipeline.CloudRequestEngine@4.5.0-alpha.8
 - pkg:nuget/FiftyOne.Pipeline.CloudRequestEngine@4.5.13
 - pkg:nuget/FiftyOne.Pipeline.CloudRequestEngine@4.5.20
+- pkg:nuget/FiftyOne.Pipeline.CloudRequestEngine@4.5.28
+- pkg:nuget/FiftyOne.Pipeline.CloudRequestEngine@4.5.29

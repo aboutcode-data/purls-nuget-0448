@@ -1222,6 +1222,7 @@
 - pkg:nuget/AWSSDK.CodePipeline@3.7.502.51
 - pkg:nuget/AWSSDK.CodePipeline@3.7.502.54
 - pkg:nuget/AWSSDK.CodePipeline@3.7.502.55
+- pkg:nuget/AWSSDK.CodePipeline@3.7.502.56
 - pkg:nuget/AWSSDK.CodePipeline@3.7.502.9
 - pkg:nuget/AWSSDK.CodePipeline@4.0.0
 - pkg:nuget/AWSSDK.CodePipeline@4.0.0-preview
@@ -1265,3 +1266,7 @@
 - pkg:nuget/AWSSDK.CodePipeline@4.0.3.5
 - pkg:nuget/AWSSDK.CodePipeline@4.0.4.17
 - pkg:nuget/AWSSDK.CodePipeline@4.0.4.18
+- pkg:nuget/AWSSDK.CodePipeline@4.0.4.19
+- pkg:nuget/AWSSDK.CodePipeline@4.0.4.20
+- pkg:nuget/AWSSDK.CodePipeline@4.0.4.21
+- pkg:nuget/AWSSDK.CodePipeline@4.0.4.22

@@ -1,1 +1,3 @@
 - pkg:nuget/Dapplo.Windows.InstallerManager@2.0.81
+- pkg:nuget/Dapplo.Windows.InstallerManager@2.0.85
+- pkg:nuget/Dapplo.Windows.InstallerManager@2.0.89

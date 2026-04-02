@@ -43,6 +43,7 @@
 - pkg:nuget/OCI.DotNetSDK.Goldengate@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Goldengate@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Goldengate@129.1.0
+- pkg:nuget/OCI.DotNetSDK.Goldengate@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Goldengate@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Goldengate@15.2.0
 - pkg:nuget/OCI.DotNetSDK.Goldengate@16.0.0

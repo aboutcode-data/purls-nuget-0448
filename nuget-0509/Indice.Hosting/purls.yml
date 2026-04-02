@@ -244,6 +244,7 @@
 - pkg:nuget/Indice.Hosting@8.27.0
 - pkg:nuget/Indice.Hosting@8.3.0
 - pkg:nuget/Indice.Hosting@8.4.0
+- pkg:nuget/Indice.Hosting@8.42.0
 - pkg:nuget/Indice.Hosting@8.5.0
 - pkg:nuget/Indice.Hosting@8.6.0
 - pkg:nuget/Indice.Hosting@8.7.0

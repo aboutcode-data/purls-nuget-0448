@@ -17,3 +17,5 @@
 - pkg:nuget/Ramstack.FileProviders@2.5.3
 - pkg:nuget/Ramstack.FileProviders@2.5.4
 - pkg:nuget/Ramstack.FileProviders@2.6.0
+- pkg:nuget/Ramstack.FileProviders@2.7.1
+- pkg:nuget/Ramstack.FileProviders@2.7.2

@@ -11,6 +11,7 @@
 - pkg:nuget/Wdsf.Api.Client@2.1.1
 - pkg:nuget/Wdsf.Api.Client@2.10.0
 - pkg:nuget/Wdsf.Api.Client@2.11.0
+- pkg:nuget/Wdsf.Api.Client@2.13.0
 - pkg:nuget/Wdsf.Api.Client@2.2.0
 - pkg:nuget/Wdsf.Api.Client@2.3.0
 - pkg:nuget/Wdsf.Api.Client@2.3.1

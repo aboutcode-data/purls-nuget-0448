@@ -5,3 +5,5 @@
 - pkg:nuget/AutoDomain.Modules.MES.Blazor@4.2.30
 - pkg:nuget/AutoDomain.Modules.MES.Blazor@4.2.31
 - pkg:nuget/AutoDomain.Modules.MES.Blazor@4.2.33
+- pkg:nuget/AutoDomain.Modules.MES.Blazor@4.2.40
+- pkg:nuget/AutoDomain.Modules.MES.Blazor@4.2.41

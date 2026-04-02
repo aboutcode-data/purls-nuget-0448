@@ -156,6 +156,7 @@
 - pkg:nuget/Indigina.IntegrationHub.ApiClient@1.1.226
 - pkg:nuget/Indigina.IntegrationHub.ApiClient@1.1.23
 - pkg:nuget/Indigina.IntegrationHub.ApiClient@1.1.24
+- pkg:nuget/Indigina.IntegrationHub.ApiClient@1.1.240
 - pkg:nuget/Indigina.IntegrationHub.ApiClient@1.1.25
 - pkg:nuget/Indigina.IntegrationHub.ApiClient@1.1.26
 - pkg:nuget/Indigina.IntegrationHub.ApiClient@1.1.27

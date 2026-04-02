@@ -80,4 +80,6 @@
 - pkg:nuget/Soenneker.GitHub.OpenApiClient@4.0.146
 - pkg:nuget/Soenneker.GitHub.OpenApiClient@4.0.151
 - pkg:nuget/Soenneker.GitHub.OpenApiClient@4.0.162
+- pkg:nuget/Soenneker.GitHub.OpenApiClient@4.0.167
+- pkg:nuget/Soenneker.GitHub.OpenApiClient@4.0.168
 - pkg:nuget/Soenneker.GitHub.OpenApiClient@4.0.93

@@ -156,3 +156,4 @@
 - pkg:nuget/SampleBrowser.Maui.Base@32.2.4
 - pkg:nuget/SampleBrowser.Maui.Base@32.2.9
 - pkg:nuget/SampleBrowser.Maui.Base@33.1.45
+- pkg:nuget/SampleBrowser.Maui.Base@33.1.46

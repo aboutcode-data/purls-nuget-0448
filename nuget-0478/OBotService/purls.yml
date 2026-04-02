@@ -50,6 +50,12 @@
 - pkg:nuget/OBotService@25.9.0
 - pkg:nuget/OBotService@25.9.1
 - pkg:nuget/OBotService@26.1.10
+- pkg:nuget/OBotService@26.3.26
+- pkg:nuget/OBotService@26.3.27
+- pkg:nuget/OBotService@26.3.28
+- pkg:nuget/OBotService@26.3.29
+- pkg:nuget/OBotService@26.3.30
+- pkg:nuget/OBotService@26.3.31
 - pkg:nuget/OBotService@26.3.7
 - pkg:nuget/OBotService@3.0.0
 - pkg:nuget/OBotService@4.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/DotNetAnalyzer@1.1.2
+- pkg:nuget/DotNetAnalyzer@1.2.0
+- pkg:nuget/DotNetAnalyzer@1.3.0
+- pkg:nuget/DotNetAnalyzer@1.4.0
+- pkg:nuget/DotNetAnalyzer@1.5.0

@@ -291,6 +291,7 @@
 - pkg:nuget/AWSSDK.Artifact@3.7.503.31
 - pkg:nuget/AWSSDK.Artifact@3.7.503.34
 - pkg:nuget/AWSSDK.Artifact@3.7.503.35
+- pkg:nuget/AWSSDK.Artifact@3.7.503.36
 - pkg:nuget/AWSSDK.Artifact@4.0.0
 - pkg:nuget/AWSSDK.Artifact@4.0.0-preview
 - pkg:nuget/AWSSDK.Artifact@4.0.0-preview.10
@@ -328,5 +329,9 @@
 - pkg:nuget/AWSSDK.Artifact@4.0.1.1
 - pkg:nuget/AWSSDK.Artifact@4.0.1.2
 - pkg:nuget/AWSSDK.Artifact@4.0.1.4
+- pkg:nuget/AWSSDK.Artifact@4.0.3.10
+- pkg:nuget/AWSSDK.Artifact@4.0.3.11
+- pkg:nuget/AWSSDK.Artifact@4.0.3.12
+- pkg:nuget/AWSSDK.Artifact@4.0.3.13
 - pkg:nuget/AWSSDK.Artifact@4.0.3.8
 - pkg:nuget/AWSSDK.Artifact@4.0.3.9

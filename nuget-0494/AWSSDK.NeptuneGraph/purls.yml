@@ -327,6 +327,7 @@
 - pkg:nuget/AWSSDK.NeptuneGraph@3.7.502.43
 - pkg:nuget/AWSSDK.NeptuneGraph@3.7.502.53
 - pkg:nuget/AWSSDK.NeptuneGraph@3.7.502.54
+- pkg:nuget/AWSSDK.NeptuneGraph@3.7.502.55
 - pkg:nuget/AWSSDK.NeptuneGraph@3.7.502.8
 - pkg:nuget/AWSSDK.NeptuneGraph@4.0.0
 - pkg:nuget/AWSSDK.NeptuneGraph@4.0.0-preview
@@ -369,3 +370,7 @@
 - pkg:nuget/AWSSDK.NeptuneGraph@4.0.1.5
 - pkg:nuget/AWSSDK.NeptuneGraph@4.0.2.14
 - pkg:nuget/AWSSDK.NeptuneGraph@4.0.2.18
+- pkg:nuget/AWSSDK.NeptuneGraph@4.0.2.19
+- pkg:nuget/AWSSDK.NeptuneGraph@4.0.2.20
+- pkg:nuget/AWSSDK.NeptuneGraph@4.0.2.21
+- pkg:nuget/AWSSDK.NeptuneGraph@4.0.2.22

@@ -49,6 +49,7 @@
 - pkg:nuget/OCI.DotNetSDK.Mysql@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Mysql@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Mysql@13.0.0
+- pkg:nuget/OCI.DotNetSDK.Mysql@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Mysql@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Mysql@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Mysql@14.2.0

@@ -263,3 +263,5 @@
 - pkg:nuget/Shiny.Push.FirebaseMessaging@3.4.0-beta-0009
 - pkg:nuget/Shiny.Push.FirebaseMessaging@3.4.0-beta-0010
 - pkg:nuget/Shiny.Push.FirebaseMessaging@4.0.0-beta-0040
+- pkg:nuget/Shiny.Push.FirebaseMessaging@4.0.1
+- pkg:nuget/Shiny.Push.FirebaseMessaging@4.0.1-beta-0005

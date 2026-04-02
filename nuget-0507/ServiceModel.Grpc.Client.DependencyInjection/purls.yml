@@ -7,6 +7,7 @@
 - pkg:nuget/ServiceModel.Grpc.Client.DependencyInjection@1.15.0
 - pkg:nuget/ServiceModel.Grpc.Client.DependencyInjection@1.16.0
 - pkg:nuget/ServiceModel.Grpc.Client.DependencyInjection@1.17.0
+- pkg:nuget/ServiceModel.Grpc.Client.DependencyInjection@1.22.0
 - pkg:nuget/ServiceModel.Grpc.Client.DependencyInjection@1.7.0
 - pkg:nuget/ServiceModel.Grpc.Client.DependencyInjection@1.8.0
 - pkg:nuget/ServiceModel.Grpc.Client.DependencyInjection@1.8.1

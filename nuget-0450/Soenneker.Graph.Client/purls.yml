@@ -1500,3 +1500,5 @@
 - pkg:nuget/Soenneker.Graph.Client@4.0.1610
 - pkg:nuget/Soenneker.Graph.Client@4.0.1621
 - pkg:nuget/Soenneker.Graph.Client@4.0.1635
+- pkg:nuget/Soenneker.Graph.Client@4.0.1637
+- pkg:nuget/Soenneker.Graph.Client@4.0.1638

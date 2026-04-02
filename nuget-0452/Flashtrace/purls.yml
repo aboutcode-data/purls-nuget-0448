@@ -119,3 +119,6 @@
 - pkg:nuget/Flashtrace@2025.2.1-preview
 - pkg:nuget/Flashtrace@2025.2.2-preview
 - pkg:nuget/Flashtrace@2026.0.17
+- pkg:nuget/Flashtrace@2026.1.5-preview
+- pkg:nuget/Flashtrace@2026.1.6-preview
+- pkg:nuget/Flashtrace@2026.1.7-preview

@@ -63,6 +63,7 @@
 - pkg:nuget/DotStat.Common@25.0.0
 - pkg:nuget/DotStat.Common@26.0.0
 - pkg:nuget/DotStat.Common@27.0.0
+- pkg:nuget/DotStat.Common@28.1.0
 - pkg:nuget/DotStat.Common@3.0.1
 - pkg:nuget/DotStat.Common@3.0.2
 - pkg:nuget/DotStat.Common@3.0.4

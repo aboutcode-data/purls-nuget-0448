@@ -58,3 +58,6 @@
 - pkg:nuget/Kevin.Db.Net8@2.5.1
 - pkg:nuget/Kevin.Db.Net8@2.5.2
 - pkg:nuget/Kevin.Db.Net8@2.6.1
+- pkg:nuget/Kevin.Db.Net8@8.0.0
+- pkg:nuget/Kevin.Db.Net8@8.0.1
+- pkg:nuget/Kevin.Db.Net8@8.0.3

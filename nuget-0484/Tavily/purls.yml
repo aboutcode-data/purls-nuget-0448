@@ -1,4 +1,11 @@
 - pkg:nuget/Tavily@0.0.0-dev.1
 - pkg:nuget/Tavily@1.0.0
 - pkg:nuget/Tavily@1.0.1-dev.106
+- pkg:nuget/Tavily@1.0.1-dev.116
+- pkg:nuget/Tavily@1.0.1-dev.118
+- pkg:nuget/Tavily@1.0.1-dev.123
+- pkg:nuget/Tavily@1.0.1-dev.124
+- pkg:nuget/Tavily@1.0.1-dev.125
+- pkg:nuget/Tavily@1.0.1-dev.128
+- pkg:nuget/Tavily@1.0.1-dev.131
 - pkg:nuget/Tavily@1.0.1-dev.81

@@ -44,6 +44,7 @@
 - pkg:nuget/OCI.DotNetSDK.Networkfirewall@122.0.0
 - pkg:nuget/OCI.DotNetSDK.Networkfirewall@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Networkfirewall@129.1.0
+- pkg:nuget/OCI.DotNetSDK.Networkfirewall@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Networkfirewall@39.1.0
 - pkg:nuget/OCI.DotNetSDK.Networkfirewall@39.2.0
 - pkg:nuget/OCI.DotNetSDK.Networkfirewall@39.3.0

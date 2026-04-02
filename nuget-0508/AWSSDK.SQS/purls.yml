@@ -1228,6 +1228,7 @@
 - pkg:nuget/AWSSDK.SQS@3.7.502.49
 - pkg:nuget/AWSSDK.SQS@3.7.502.52
 - pkg:nuget/AWSSDK.SQS@3.7.502.53
+- pkg:nuget/AWSSDK.SQS@3.7.502.54
 - pkg:nuget/AWSSDK.SQS@3.7.502.7
 - pkg:nuget/AWSSDK.SQS@3.7.502.9
 - pkg:nuget/AWSSDK.SQS@4.0.0
@@ -1274,3 +1275,7 @@
 - pkg:nuget/AWSSDK.SQS@4.0.1.6
 - pkg:nuget/AWSSDK.SQS@4.0.2.10
 - pkg:nuget/AWSSDK.SQS@4.0.2.17
+- pkg:nuget/AWSSDK.SQS@4.0.2.19
+- pkg:nuget/AWSSDK.SQS@4.0.2.20
+- pkg:nuget/AWSSDK.SQS@4.0.2.21
+- pkg:nuget/AWSSDK.SQS@4.0.2.22

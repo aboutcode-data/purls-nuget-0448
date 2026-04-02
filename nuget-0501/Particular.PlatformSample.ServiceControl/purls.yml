@@ -134,6 +134,8 @@
 - pkg:nuget/Particular.PlatformSample.ServiceControl@6.1.1
 - pkg:nuget/Particular.PlatformSample.ServiceControl@6.1.2
 - pkg:nuget/Particular.PlatformSample.ServiceControl@6.10.0
+- pkg:nuget/Particular.PlatformSample.ServiceControl@6.13.1
+- pkg:nuget/Particular.PlatformSample.ServiceControl@6.14.0
 - pkg:nuget/Particular.PlatformSample.ServiceControl@6.2.0
 - pkg:nuget/Particular.PlatformSample.ServiceControl@6.2.1
 - pkg:nuget/Particular.PlatformSample.ServiceControl@6.3.0

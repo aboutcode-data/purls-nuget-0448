@@ -142,3 +142,5 @@
 - pkg:nuget/Indice.Hive.Server@2.0.0-dev5
 - pkg:nuget/Indice.Hive.Server@2.1.5
 - pkg:nuget/Indice.Hive.Server@2.2.0
+- pkg:nuget/Indice.Hive.Server@2.4.2
+- pkg:nuget/Indice.Hive.Server@2.4.3

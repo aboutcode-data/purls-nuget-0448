@@ -30,3 +30,5 @@
 - pkg:nuget/OneImlx.Test@6.2.2
 - pkg:nuget/OneImlx.Test@6.2.2-preview.11525214
 - pkg:nuget/OneImlx.Test@7.0.0-preview.27925221
+- pkg:nuget/OneImlx.Test@7.0.0-rc.1426224
+- pkg:nuget/OneImlx.Test@7.0.0-rc.2604012251

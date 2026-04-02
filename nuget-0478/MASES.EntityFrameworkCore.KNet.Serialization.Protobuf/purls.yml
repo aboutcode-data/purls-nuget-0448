@@ -21,3 +21,4 @@
 - pkg:nuget/MASES.EntityFrameworkCore.KNet.Serialization.Protobuf@2.6.1
 - pkg:nuget/MASES.EntityFrameworkCore.KNet.Serialization.Protobuf@2.6.2
 - pkg:nuget/MASES.EntityFrameworkCore.KNet.Serialization.Protobuf@2.6.4
+- pkg:nuget/MASES.EntityFrameworkCore.KNet.Serialization.Protobuf@3.0.0-rc

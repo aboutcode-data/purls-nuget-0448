@@ -116,6 +116,7 @@
 - pkg:nuget/AWSSDK.GameLiftStreams@3.7.506.2
 - pkg:nuget/AWSSDK.GameLiftStreams@3.7.507.2
 - pkg:nuget/AWSSDK.GameLiftStreams@3.7.507.3
+- pkg:nuget/AWSSDK.GameLiftStreams@3.7.507.4
 - pkg:nuget/AWSSDK.GameLiftStreams@4.0.0
 - pkg:nuget/AWSSDK.GameLiftStreams@4.0.0-preview.11
 - pkg:nuget/AWSSDK.GameLiftStreams@4.0.0-preview.12
@@ -149,3 +150,7 @@
 - pkg:nuget/AWSSDK.GameLiftStreams@4.0.2.5
 - pkg:nuget/AWSSDK.GameLiftStreams@4.0.6.2
 - pkg:nuget/AWSSDK.GameLiftStreams@4.0.7
+- pkg:nuget/AWSSDK.GameLiftStreams@4.0.7.2
+- pkg:nuget/AWSSDK.GameLiftStreams@4.0.7.3
+- pkg:nuget/AWSSDK.GameLiftStreams@4.0.7.4
+- pkg:nuget/AWSSDK.GameLiftStreams@4.0.7.5

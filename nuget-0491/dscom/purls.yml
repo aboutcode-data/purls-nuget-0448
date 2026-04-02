@@ -75,3 +75,4 @@
 - pkg:nuget/dscom@2.1.1
 - pkg:nuget/dscom@2.2.0
 - pkg:nuget/dscom@2.3.0
+- pkg:nuget/dscom@2.5.2

@@ -322,3 +322,5 @@
 - pkg:nuget/ThingsGateway.Plugin.Http@12.4.45
 - pkg:nuget/ThingsGateway.Plugin.Http@12.4.54
 - pkg:nuget/ThingsGateway.Plugin.Http@12.4.55
+- pkg:nuget/ThingsGateway.Plugin.Http@12.5.10
+- pkg:nuget/ThingsGateway.Plugin.Http@12.5.9

@@ -1115,3 +1115,6 @@
 - pkg:nuget/Soenneker.Stripe.Client@4.0.1315
 - pkg:nuget/Soenneker.Stripe.Client@4.0.1325
 - pkg:nuget/Soenneker.Stripe.Client@4.0.1327
+- pkg:nuget/Soenneker.Stripe.Client@4.0.1330
+- pkg:nuget/Soenneker.Stripe.Client@4.0.1331
+- pkg:nuget/Soenneker.Stripe.Client@4.0.1332

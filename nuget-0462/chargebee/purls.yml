@@ -89,6 +89,7 @@
 - pkg:nuget/chargebee@3.34.0
 - pkg:nuget/chargebee@3.35.0
 - pkg:nuget/chargebee@3.4.0
+- pkg:nuget/chargebee@3.44.0
 - pkg:nuget/chargebee@3.5.0
 - pkg:nuget/chargebee@3.6.0
 - pkg:nuget/chargebee@3.7.0

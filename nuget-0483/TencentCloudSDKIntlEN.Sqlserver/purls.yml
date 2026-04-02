@@ -155,6 +155,8 @@
 - pkg:nuget/TencentCloudSDKIntlEN.Sqlserver@3.0.1202
 - pkg:nuget/TencentCloudSDKIntlEN.Sqlserver@3.0.1203
 - pkg:nuget/TencentCloudSDKIntlEN.Sqlserver@3.0.1210
+- pkg:nuget/TencentCloudSDKIntlEN.Sqlserver@3.0.1281
+- pkg:nuget/TencentCloudSDKIntlEN.Sqlserver@3.0.1285
 - pkg:nuget/TencentCloudSDKIntlEN.Sqlserver@3.0.655
 - pkg:nuget/TencentCloudSDKIntlEN.Sqlserver@3.0.656
 - pkg:nuget/TencentCloudSDKIntlEN.Sqlserver@3.0.657

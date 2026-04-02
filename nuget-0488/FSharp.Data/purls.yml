@@ -113,3 +113,4 @@
 - pkg:nuget/FSharp.Data@6.6.0
 - pkg:nuget/FSharp.Data@8.1.0
 - pkg:nuget/FSharp.Data@8.1.2
+- pkg:nuget/FSharp.Data@8.1.4

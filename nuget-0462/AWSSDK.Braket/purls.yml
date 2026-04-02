@@ -878,6 +878,7 @@
 - pkg:nuget/AWSSDK.Braket@3.7.504.41
 - pkg:nuget/AWSSDK.Braket@3.7.504.44
 - pkg:nuget/AWSSDK.Braket@3.7.504.45
+- pkg:nuget/AWSSDK.Braket@3.7.504.46
 - pkg:nuget/AWSSDK.Braket@3.7.504.8
 - pkg:nuget/AWSSDK.Braket@4.0.0
 - pkg:nuget/AWSSDK.Braket@4.0.0-preview
@@ -919,3 +920,7 @@
 - pkg:nuget/AWSSDK.Braket@4.0.1.6
 - pkg:nuget/AWSSDK.Braket@4.0.3
 - pkg:nuget/AWSSDK.Braket@4.0.4.12
+- pkg:nuget/AWSSDK.Braket@4.0.4.14
+- pkg:nuget/AWSSDK.Braket@4.0.4.15
+- pkg:nuget/AWSSDK.Braket@4.0.4.16
+- pkg:nuget/AWSSDK.Braket@4.0.4.17

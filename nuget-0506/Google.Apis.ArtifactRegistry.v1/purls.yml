@@ -102,3 +102,4 @@
 - pkg:nuget/Google.Apis.ArtifactRegistry.v1@1.69.0.3767
 - pkg:nuget/Google.Apis.ArtifactRegistry.v1@1.69.0.3774
 - pkg:nuget/Google.Apis.ArtifactRegistry.v1@1.70.0.3837
+- pkg:nuget/Google.Apis.ArtifactRegistry.v1@1.73.0.4096

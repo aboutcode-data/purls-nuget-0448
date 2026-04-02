@@ -56,3 +56,7 @@
 - pkg:nuget/MsIot@1.3.7
 - pkg:nuget/MsIot@1.3.8
 - pkg:nuget/MsIot@1.3.9
+- pkg:nuget/MsIot@2.1.10
+- pkg:nuget/MsIot@2.1.7
+- pkg:nuget/MsIot@2.1.8
+- pkg:nuget/MsIot@2.1.9
