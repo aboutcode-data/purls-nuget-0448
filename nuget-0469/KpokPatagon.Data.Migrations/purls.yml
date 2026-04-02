@@ -2,6 +2,9 @@
 - pkg:nuget/KpokPatagon.Data.Migrations@10.0.25248.2
 - pkg:nuget/KpokPatagon.Data.Migrations@10.0.25249.1
 - pkg:nuget/KpokPatagon.Data.Migrations@10.0.25317.1
+- pkg:nuget/KpokPatagon.Data.Migrations@10.1.26091.1
+- pkg:nuget/KpokPatagon.Data.Migrations@10.1.26091.2
+- pkg:nuget/KpokPatagon.Data.Migrations@10.2.26091.3
 - pkg:nuget/KpokPatagon.Data.Migrations@9.0.24336.1
 - pkg:nuget/KpokPatagon.Data.Migrations@9.0.24356.2
 - pkg:nuget/KpokPatagon.Data.Migrations@9.0.25059.1

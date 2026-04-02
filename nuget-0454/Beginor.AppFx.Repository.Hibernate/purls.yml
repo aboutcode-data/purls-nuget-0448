@@ -4,6 +4,7 @@
 - pkg:nuget/Beginor.AppFx.Repository.Hibernate@1.2.1
 - pkg:nuget/Beginor.AppFx.Repository.Hibernate@1.2.2
 - pkg:nuget/Beginor.AppFx.Repository.Hibernate@1.2.3
+- pkg:nuget/Beginor.AppFx.Repository.Hibernate@10.0.3
 - pkg:nuget/Beginor.AppFx.Repository.Hibernate@2.0.0
 - pkg:nuget/Beginor.AppFx.Repository.Hibernate@2.1.0
 - pkg:nuget/Beginor.AppFx.Repository.Hibernate@2.2.0

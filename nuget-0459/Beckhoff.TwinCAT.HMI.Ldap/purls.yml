@@ -20,6 +20,7 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Ldap@14.1.205
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Ldap@14.1.209
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Ldap@14.1.214
+- pkg:nuget/Beckhoff.TwinCAT.HMI.Ldap@14.1.217
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Ldap@14.2.5973
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Ldap@14.2.6418
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Ldap@14.2.6818

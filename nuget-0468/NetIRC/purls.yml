@@ -10,5 +10,6 @@
 - pkg:nuget/NetIRC@1.1.0-preview.2
 - pkg:nuget/NetIRC@1.1.0-preview.3
 - pkg:nuget/NetIRC@1.1.1
+- pkg:nuget/NetIRC@1.1.2
 - pkg:nuget/NetIRC@1.1.2-preview.1
 - pkg:nuget/NetIRC@1.1.2-preview.2

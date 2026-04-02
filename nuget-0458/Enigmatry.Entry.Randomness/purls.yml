@@ -6,6 +6,7 @@
 - pkg:nuget/Enigmatry.Entry.Randomness@1.1.486
 - pkg:nuget/Enigmatry.Entry.Randomness@1.1.495
 - pkg:nuget/Enigmatry.Entry.Randomness@1.1.500
+- pkg:nuget/Enigmatry.Entry.Randomness@10.0.0
 - pkg:nuget/Enigmatry.Entry.Randomness@2.0.0
 - pkg:nuget/Enigmatry.Entry.Randomness@2.0.0-preview
 - pkg:nuget/Enigmatry.Entry.Randomness@2.0.0-preview.1

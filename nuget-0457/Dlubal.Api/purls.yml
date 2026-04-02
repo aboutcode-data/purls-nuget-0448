@@ -15,4 +15,5 @@
 - pkg:nuget/Dlubal.Api@2.11.7
 - pkg:nuget/Dlubal.Api@2.11.8
 - pkg:nuget/Dlubal.Api@2.11.9
+- pkg:nuget/Dlubal.Api@2.13.12
 - pkg:nuget/Dlubal.Api@2.13.9

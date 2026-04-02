@@ -2,6 +2,7 @@
 - pkg:nuget/Beginor.AppFx.Core@1.1.0
 - pkg:nuget/Beginor.AppFx.Core@1.1.1
 - pkg:nuget/Beginor.AppFx.Core@1.2.0
+- pkg:nuget/Beginor.AppFx.Core@10.0.3
 - pkg:nuget/Beginor.AppFx.Core@2.0.0
 - pkg:nuget/Beginor.AppFx.Core@2.1.0
 - pkg:nuget/Beginor.AppFx.Core@2.2.0

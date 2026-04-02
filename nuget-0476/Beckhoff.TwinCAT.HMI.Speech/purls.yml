@@ -20,6 +20,7 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Speech@13.8.205
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Speech@13.8.209
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Speech@13.8.214
+- pkg:nuget/Beckhoff.TwinCAT.HMI.Speech@13.8.217
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Speech@13.9.5973
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Speech@13.9.6418
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Speech@13.9.6818
