@@ -3,3 +3,4 @@
 - pkg:nuget/FastCloner.SourceGenerator@1.0.3
 - pkg:nuget/FastCloner.SourceGenerator@1.1.4
 - pkg:nuget/FastCloner.SourceGenerator@1.1.8
+- pkg:nuget/FastCloner.SourceGenerator@1.1.9

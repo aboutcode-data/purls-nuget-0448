@@ -15,3 +15,5 @@
 - pkg:nuget/Monq.Core.Redis@2.0.0-rev-11718527325
 - pkg:nuget/Monq.Core.Redis@2.0.1
 - pkg:nuget/Monq.Core.Redis@2.0.1-rev-20461147936
+- pkg:nuget/Monq.Core.Redis@2.1.0
+- pkg:nuget/Monq.Core.Redis@2.1.0-rev-23744977489

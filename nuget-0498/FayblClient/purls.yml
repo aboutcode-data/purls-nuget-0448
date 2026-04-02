@@ -8,7 +8,9 @@
 - pkg:nuget/FayblClient@2.0.0-rc.12
 - pkg:nuget/FayblClient@2.0.0-rc.13
 - pkg:nuget/FayblClient@2.0.0-rc.14
+- pkg:nuget/FayblClient@2.0.0-rc.19
 - pkg:nuget/FayblClient@2.0.0-rc.2
+- pkg:nuget/FayblClient@2.0.0-rc.20
 - pkg:nuget/FayblClient@2.0.0-rc.3
 - pkg:nuget/FayblClient@2.0.0-rc.4
 - pkg:nuget/FayblClient@2.0.0-rc.5
