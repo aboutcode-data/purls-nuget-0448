@@ -1,1 +1,2 @@
 - pkg:nuget/Akka.Discovery.Dns@1.5.48
+- pkg:nuget/Akka.Discovery.Dns@1.5.63
