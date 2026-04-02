@@ -1,2 +1,4 @@
 - pkg:nuget/Mudbase.SDK@1.2.1
+- pkg:nuget/Mudbase.SDK@1.2.11
+- pkg:nuget/Mudbase.SDK@1.2.12
 - pkg:nuget/Mudbase.SDK@1.2.2
