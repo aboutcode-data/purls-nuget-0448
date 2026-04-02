@@ -1,2 +1,4 @@
 - pkg:nuget/MapXML@0.1.0-Alpha
 - pkg:nuget/MapXML@0.2.0-Beta
+- pkg:nuget/MapXML@0.5.3-Beta
+- pkg:nuget/MapXML@0.5.3-Beta-debug

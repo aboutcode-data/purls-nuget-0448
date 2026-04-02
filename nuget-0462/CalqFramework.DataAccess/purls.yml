@@ -1,2 +1,4 @@
 - pkg:nuget/CalqFramework.DataAccess@0.46.3
 - pkg:nuget/CalqFramework.DataAccess@0.46.4
+- pkg:nuget/CalqFramework.DataAccess@1.0.0
+- pkg:nuget/CalqFramework.DataAccess@1.0.1
