@@ -1,4 +1,6 @@
 - pkg:nuget/AtomUI.Native@0.1.0
 - pkg:nuget/AtomUI.Native@0.1.1
 - pkg:nuget/AtomUI.Native@0.1.2
+- pkg:nuget/AtomUI.Native@5.1.5-build.12
 - pkg:nuget/AtomUI.Native@5.1.5-build.2
+- pkg:nuget/AtomUI.Native@5.2.0-build.1

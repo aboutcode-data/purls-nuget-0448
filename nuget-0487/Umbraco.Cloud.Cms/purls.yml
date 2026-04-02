@@ -16,3 +16,4 @@
 - pkg:nuget/Umbraco.Cloud.Cms@16.0.0-rc2
 - pkg:nuget/Umbraco.Cloud.Cms@16.0.0-rc3
 - pkg:nuget/Umbraco.Cloud.Cms@16.0.0-rc4
+- pkg:nuget/Umbraco.Cloud.Cms@17.1.0

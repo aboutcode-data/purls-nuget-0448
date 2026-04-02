@@ -4,3 +4,5 @@
 - pkg:nuget/ToolBX.Eloquentest.AutoFixture@3.0.0-beta3
 - pkg:nuget/ToolBX.Eloquentest.AutoFixture@3.0.0-beta3a
 - pkg:nuget/ToolBX.Eloquentest.AutoFixture@3.0.0-beta4
+- pkg:nuget/ToolBX.Eloquentest.AutoFixture@4.0.0-beta.1
+- pkg:nuget/ToolBX.Eloquentest.AutoFixture@4.0.0-beta.2

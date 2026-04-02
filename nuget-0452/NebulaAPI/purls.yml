@@ -9,3 +9,4 @@
 - pkg:nuget/NebulaAPI@3.3.0
 - pkg:nuget/NebulaAPI@3.4.0
 - pkg:nuget/NebulaAPI@4.1.0
+- pkg:nuget/NebulaAPI@7.2.0
