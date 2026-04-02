@@ -9,6 +9,7 @@
 - pkg:nuget/Imageflow.Net@0.13.2
 - pkg:nuget/Imageflow.Net@0.14.0-rc01
 - pkg:nuget/Imageflow.Net@0.14.1
+- pkg:nuget/Imageflow.Net@0.15.1
 - pkg:nuget/Imageflow.Net@0.2.1
 - pkg:nuget/Imageflow.Net@0.2.2
 - pkg:nuget/Imageflow.Net@0.2.3

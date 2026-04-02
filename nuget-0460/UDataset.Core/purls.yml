@@ -5,6 +5,7 @@
 - pkg:nuget/UDataset.Core@0.1.4
 - pkg:nuget/UDataset.Core@0.10.1
 - pkg:nuget/UDataset.Core@0.10.3
+- pkg:nuget/UDataset.Core@0.10.4
 - pkg:nuget/UDataset.Core@0.2.0
 - pkg:nuget/UDataset.Core@0.3.0
 - pkg:nuget/UDataset.Core@0.3.1

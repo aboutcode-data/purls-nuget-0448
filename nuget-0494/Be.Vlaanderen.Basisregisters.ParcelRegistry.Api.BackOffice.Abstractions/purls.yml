@@ -171,3 +171,4 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.ParcelRegistry.Api.BackOffice.Abstractions@6.0.6
 - pkg:nuget/Be.Vlaanderen.Basisregisters.ParcelRegistry.Api.BackOffice.Abstractions@6.1.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.ParcelRegistry.Api.BackOffice.Abstractions@6.2.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.ParcelRegistry.Api.BackOffice.Abstractions@6.5.2

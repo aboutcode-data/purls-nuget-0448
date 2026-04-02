@@ -53,3 +53,5 @@
 - pkg:nuget/OnAim.Shared.IntegrationEvents@1.4.8
 - pkg:nuget/OnAim.Shared.IntegrationEvents@1.4.9
 - pkg:nuget/OnAim.Shared.IntegrationEvents@1.5.0
+- pkg:nuget/OnAim.Shared.IntegrationEvents@1.5.5
+- pkg:nuget/OnAim.Shared.IntegrationEvents@1.5.6

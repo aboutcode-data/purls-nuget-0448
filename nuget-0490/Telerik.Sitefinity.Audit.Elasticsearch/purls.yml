@@ -359,6 +359,7 @@
 - pkg:nuget/Telerik.Sitefinity.Audit.Elasticsearch@15.3.8526
 - pkg:nuget/Telerik.Sitefinity.Audit.Elasticsearch@15.3.8528
 - pkg:nuget/Telerik.Sitefinity.Audit.Elasticsearch@15.4.8627
+- pkg:nuget/Telerik.Sitefinity.Audit.Elasticsearch@15.4.8628
 - pkg:nuget/Telerik.Sitefinity.Audit.Elasticsearch@7.1.5200
 - pkg:nuget/Telerik.Sitefinity.Audit.Elasticsearch@7.2.5300
 - pkg:nuget/Telerik.Sitefinity.Audit.Elasticsearch@7.2.5310

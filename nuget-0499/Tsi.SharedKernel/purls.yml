@@ -103,3 +103,5 @@
 - pkg:nuget/Tsi.SharedKernel@4.5.8
 - pkg:nuget/Tsi.SharedKernel@4.6.1
 - pkg:nuget/Tsi.SharedKernel@4.6.5
+- pkg:nuget/Tsi.SharedKernel@4.6.8
+- pkg:nuget/Tsi.SharedKernel@4.6.9

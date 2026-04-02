@@ -31,3 +31,4 @@
 - pkg:nuget/Avalonia.Controls.ItemsRepeater@11.1.3
 - pkg:nuget/Avalonia.Controls.ItemsRepeater@11.1.4
 - pkg:nuget/Avalonia.Controls.ItemsRepeater@11.1.5
+- pkg:nuget/Avalonia.Controls.ItemsRepeater@12.0.0-rc2

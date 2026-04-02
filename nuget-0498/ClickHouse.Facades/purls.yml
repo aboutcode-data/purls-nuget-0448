@@ -35,3 +35,4 @@
 - pkg:nuget/ClickHouse.Facades@2.7.1
 - pkg:nuget/ClickHouse.Facades@2.8.1
 - pkg:nuget/ClickHouse.Facades@2.9.1
+- pkg:nuget/ClickHouse.Facades@3.1.2
