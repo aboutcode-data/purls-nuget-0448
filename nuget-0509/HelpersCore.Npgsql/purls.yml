@@ -1,3 +1,4 @@
 - pkg:nuget/HelpersCore.Npgsql@1.11.1
 - pkg:nuget/HelpersCore.Npgsql@1.12.2
 - pkg:nuget/HelpersCore.Npgsql@1.13.2
+- pkg:nuget/HelpersCore.Npgsql@1.13.4

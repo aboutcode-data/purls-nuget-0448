@@ -1,4 +1,5 @@
 - pkg:nuget/WebSharper.AnimeJs@10.0.0.604-beta1
+- pkg:nuget/WebSharper.AnimeJs@10.1.0.667
 - pkg:nuget/WebSharper.AnimeJs@7.0.1.347-beta2
 - pkg:nuget/WebSharper.AnimeJs@7.0.1.364-beta3
 - pkg:nuget/WebSharper.AnimeJs@7.0.4.454-beta5

@@ -10,3 +10,5 @@
 - pkg:nuget/RESPite@2.9.56-gcf3f83b3cb
 - pkg:nuget/RESPite@2.9.88-gcc3558f411
 - pkg:nuget/RESPite@2.9.99-gfe04f9c406
+- pkg:nuget/RESPite@3.0.15-preview.g4f313ac133
+- pkg:nuget/RESPite@3.0.2-preview

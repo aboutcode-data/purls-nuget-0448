@@ -3,6 +3,7 @@
 - pkg:nuget/D20Tek.BlazorComponent.Core@1.0.12
 - pkg:nuget/D20Tek.BlazorComponent.Core@1.0.13
 - pkg:nuget/D20Tek.BlazorComponent.Core@1.10.1
+- pkg:nuget/D20Tek.BlazorComponent.Core@1.10.14
 - pkg:nuget/D20Tek.BlazorComponent.Core@1.10.9
 - pkg:nuget/D20Tek.BlazorComponent.Core@1.9.1
 - pkg:nuget/D20Tek.BlazorComponent.Core@1.9.2
