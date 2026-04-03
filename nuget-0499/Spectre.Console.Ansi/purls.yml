@@ -1,3 +1,5 @@
 - pkg:nuget/Spectre.Console.Ansi@0.54.1-alpha.0.74
 - pkg:nuget/Spectre.Console.Ansi@0.54.1-alpha.0.76
 - pkg:nuget/Spectre.Console.Ansi@0.54.1-alpha.0.81
+- pkg:nuget/Spectre.Console.Ansi@0.54.1-alpha.0.92
+- pkg:nuget/Spectre.Console.Ansi@0.55.0
