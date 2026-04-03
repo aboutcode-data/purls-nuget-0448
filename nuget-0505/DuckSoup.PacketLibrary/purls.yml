@@ -12,3 +12,4 @@
 - pkg:nuget/DuckSoup.PacketLibrary@2.1.4-ALPHA
 - pkg:nuget/DuckSoup.PacketLibrary@2.1.5-ALPHA
 - pkg:nuget/DuckSoup.PacketLibrary@2.2.0-RELEASE
+- pkg:nuget/DuckSoup.PacketLibrary@2.2.3-RELEASE
