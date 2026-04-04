@@ -1302,3 +1302,4 @@
 - pkg:nuget/AWSSDK.CloudFormation@4.0.8.14
 - pkg:nuget/AWSSDK.CloudFormation@4.0.8.15
 - pkg:nuget/AWSSDK.CloudFormation@4.0.8.16
+- pkg:nuget/AWSSDK.CloudFormation@4.0.8.17
