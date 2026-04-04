@@ -42,3 +42,5 @@
 - pkg:nuget/Yusr.Storage@1.0.44
 - pkg:nuget/Yusr.Storage@1.0.44-alpha.0.1
 - pkg:nuget/Yusr.Storage@1.0.45-alpha.0.1
+- pkg:nuget/Yusr.Storage@1.0.50
+- pkg:nuget/Yusr.Storage@1.0.50-alpha.0.1
