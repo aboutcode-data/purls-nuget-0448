@@ -6,3 +6,6 @@
 - pkg:nuget/TestTrackingDiagrams.PlantUml.Ikvm@1.24.8
 - pkg:nuget/TestTrackingDiagrams.PlantUml.Ikvm@1.24.9
 - pkg:nuget/TestTrackingDiagrams.PlantUml.Ikvm@2.0.13-alpha
+- pkg:nuget/TestTrackingDiagrams.PlantUml.Ikvm@2.0.24-alpha
+- pkg:nuget/TestTrackingDiagrams.PlantUml.Ikvm@2.0.25-alpha
+- pkg:nuget/TestTrackingDiagrams.PlantUml.Ikvm@2.0.26-alpha

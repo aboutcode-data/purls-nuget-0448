@@ -1,1 +1,4 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.Redis@2.0.13-alpha
+- pkg:nuget/TestTrackingDiagrams.Extensions.Redis@2.0.24-alpha
+- pkg:nuget/TestTrackingDiagrams.Extensions.Redis@2.0.25-alpha
+- pkg:nuget/TestTrackingDiagrams.Extensions.Redis@2.0.26-alpha
