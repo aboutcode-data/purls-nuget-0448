@@ -38,5 +38,6 @@
 - pkg:nuget/Corsinvest.ProxmoxVE.Api.Shared@8.3.3
 - pkg:nuget/Corsinvest.ProxmoxVE.Api.Shared@8.4.0
 - pkg:nuget/Corsinvest.ProxmoxVE.Api.Shared@8.4.1
+- pkg:nuget/Corsinvest.ProxmoxVE.Api.Shared@9.1.12
 - pkg:nuget/Corsinvest.ProxmoxVE.Api.Shared@9.1.5
 - pkg:nuget/Corsinvest.ProxmoxVE.Api.Shared@9.1.9
