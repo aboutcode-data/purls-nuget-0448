@@ -1103,3 +1103,4 @@
 - pkg:nuget/ThinkGeo.Core@14.5.0-beta136
 - pkg:nuget/ThinkGeo.Core@14.5.0-beta137
 - pkg:nuget/ThinkGeo.Core@15.0.0-beta001
+- pkg:nuget/ThinkGeo.Core@15.0.0-beta005
