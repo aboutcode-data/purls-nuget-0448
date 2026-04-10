@@ -8,6 +8,7 @@
 - pkg:nuget/ParkSquare.ConfigDump.AspNetCore@1.0.5
 - pkg:nuget/ParkSquare.ConfigDump.AspNetCore@1.0.8
 - pkg:nuget/ParkSquare.ConfigDump.AspNetCore@1.0.9
+- pkg:nuget/ParkSquare.ConfigDump.AspNetCore@10.0.0
 - pkg:nuget/ParkSquare.ConfigDump.AspNetCore@8.0.1
 - pkg:nuget/ParkSquare.ConfigDump.AspNetCore@8.0.2
 - pkg:nuget/ParkSquare.ConfigDump.AspNetCore@8.0.3
