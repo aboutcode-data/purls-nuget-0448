@@ -1040,6 +1040,7 @@
 - pkg:nuget/HoBO.API.Client@6.0.5.97
 - pkg:nuget/HoBO.API.Client@6.0.5.98
 - pkg:nuget/HoBO.API.Client@6.0.5.99
+- pkg:nuget/HoBO.API.Client@6.0.6.109
 - pkg:nuget/HoBO.API.Client@6.0.6.15
 - pkg:nuget/HoBO.API.Client@6.0.6.20
 - pkg:nuget/HoBO.API.Client@6.0.6.29
