@@ -13,6 +13,7 @@
 - pkg:nuget/WixSharp-wix4.WPF@2.1.6
 - pkg:nuget/WixSharp-wix4.WPF@2.1.7
 - pkg:nuget/WixSharp-wix4.WPF@2.12.0
+- pkg:nuget/WixSharp-wix4.WPF@2.13.0
 - pkg:nuget/WixSharp-wix4.WPF@2.2.0
 - pkg:nuget/WixSharp-wix4.WPF@2.2.1
 - pkg:nuget/WixSharp-wix4.WPF@2.3.0
