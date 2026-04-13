@@ -1,3 +1,9 @@
 - pkg:nuget/DH.MySql@4.19.2026.303-beta1208
 - pkg:nuget/DH.MySql@4.21.2026.329-beta1143
 - pkg:nuget/DH.MySql@4.21.2026.329-beta1145
+- pkg:nuget/DH.MySql@4.21.2026.413-beta0513
+- pkg:nuget/DH.MySql@4.21.2026.413-beta0518
+- pkg:nuget/DH.MySql@4.21.2026.413-beta0526
+- pkg:nuget/DH.MySql@4.21.2026.413-beta0555
+- pkg:nuget/DH.MySql@4.21.2026.413-beta0602
+- pkg:nuget/DH.MySql@4.21.2026.413-beta0610
