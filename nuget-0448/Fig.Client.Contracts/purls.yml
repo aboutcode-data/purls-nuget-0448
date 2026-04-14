@@ -2,3 +2,4 @@
 - pkg:nuget/Fig.Client.Contracts@2.0.0
 - pkg:nuget/Fig.Client.Contracts@2.0.1
 - pkg:nuget/Fig.Client.Contracts@3.4.0
+- pkg:nuget/Fig.Client.Contracts@3.4.2
