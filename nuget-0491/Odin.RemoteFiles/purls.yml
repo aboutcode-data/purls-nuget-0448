@@ -126,4 +126,5 @@
 - pkg:nuget/Odin.RemoteFiles@0.2.1
 - pkg:nuget/Odin.RemoteFiles@0.2.10
 - pkg:nuget/Odin.RemoteFiles@0.9.1
+- pkg:nuget/Odin.RemoteFiles@0.9.53
 - pkg:nuget/Odin.RemoteFiles@1.0.0
