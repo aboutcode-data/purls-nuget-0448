@@ -1,1 +1,3 @@
 - pkg:nuget/FerreiraCodecraft.Commons.Web@1.0.20
+- pkg:nuget/FerreiraCodecraft.Commons.Web@2.0.26
+- pkg:nuget/FerreiraCodecraft.Commons.Web@2.0.28
