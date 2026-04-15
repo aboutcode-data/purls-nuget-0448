@@ -44,6 +44,7 @@
 - pkg:nuget/Soenneker.Extensions.Strings.Templating@4.0.146
 - pkg:nuget/Soenneker.Extensions.Strings.Templating@4.0.161
 - pkg:nuget/Soenneker.Extensions.Strings.Templating@4.0.162
+- pkg:nuget/Soenneker.Extensions.Strings.Templating@4.0.164
 - pkg:nuget/Soenneker.Extensions.Strings.Templating@4.0.41
 - pkg:nuget/Soenneker.Extensions.Strings.Templating@4.0.46
 - pkg:nuget/Soenneker.Extensions.Strings.Templating@4.0.57
