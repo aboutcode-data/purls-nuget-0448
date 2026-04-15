@@ -1,1 +1,2 @@
 - pkg:nuget/ZibStack.NET.EntityFramework@2.0.0
+- pkg:nuget/ZibStack.NET.EntityFramework@2.3.0
