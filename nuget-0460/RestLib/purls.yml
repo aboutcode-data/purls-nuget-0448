@@ -4,3 +4,4 @@
 - pkg:nuget/RestLib@0.6.0
 - pkg:nuget/RestLib@0.7.0
 - pkg:nuget/RestLib@0.8.0
+- pkg:nuget/RestLib@2.3.0
