@@ -13,6 +13,7 @@
 - pkg:nuget/vmlapis@1.1.7
 - pkg:nuget/vmlapis@1.1.8
 - pkg:nuget/vmlapis@1.1.9
+- pkg:nuget/vmlapis@1.10.0
 - pkg:nuget/vmlapis@1.2.0
 - pkg:nuget/vmlapis@1.2.1
 - pkg:nuget/vmlapis@1.2.3
