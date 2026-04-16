@@ -482,3 +482,5 @@
 - pkg:nuget/Microsoft.VSSDK.BuildTools@17.9.3173
 - pkg:nuget/Microsoft.VSSDK.BuildTools@17.9.3174
 - pkg:nuget/Microsoft.VSSDK.BuildTools@17.9.3184
+- pkg:nuget/Microsoft.VSSDK.BuildTools@18.5.40005
+- pkg:nuget/Microsoft.VSSDK.BuildTools@18.5.40034
