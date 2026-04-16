@@ -198,6 +198,7 @@
 - pkg:nuget/Foundatio.Parsers.LuceneQueries@7.17.7
 - pkg:nuget/Foundatio.Parsers.LuceneQueries@7.17.8
 - pkg:nuget/Foundatio.Parsers.LuceneQueries@7.17.9
+- pkg:nuget/Foundatio.Parsers.LuceneQueries@7.18.0-beta5
 - pkg:nuget/Foundatio.Parsers.LuceneQueries@7.5.0
 - pkg:nuget/Foundatio.Parsers.LuceneQueries@7.5.0-rc1
 - pkg:nuget/Foundatio.Parsers.LuceneQueries@7.5.1

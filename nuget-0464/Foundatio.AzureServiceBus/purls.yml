@@ -138,6 +138,7 @@
 - pkg:nuget/Foundatio.AzureServiceBus@11.0.8
 - pkg:nuget/Foundatio.AzureServiceBus@11.1.0
 - pkg:nuget/Foundatio.AzureServiceBus@12.0.0
+- pkg:nuget/Foundatio.AzureServiceBus@13.0.0-beta6
 - pkg:nuget/Foundatio.AzureServiceBus@2.0.361
 - pkg:nuget/Foundatio.AzureServiceBus@2.0.363
 - pkg:nuget/Foundatio.AzureServiceBus@2.0.365
