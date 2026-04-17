@@ -673,6 +673,7 @@
 - pkg:nuget/Ahsoka.Core.Drawing@5.14.1-zzz-develop.8
 - pkg:nuget/Ahsoka.Core.Drawing@5.15.0
 - pkg:nuget/Ahsoka.Core.Drawing@5.15.1-zzz-develop.15
+- pkg:nuget/Ahsoka.Core.Drawing@5.15.1-zzz-develop.19
 - pkg:nuget/Ahsoka.Core.Drawing@5.15.1-zzz-develop.7
 - pkg:nuget/Ahsoka.Core.Drawing@5.2.0
 - pkg:nuget/Ahsoka.Core.Drawing@5.2.1-zzz-develop.1
