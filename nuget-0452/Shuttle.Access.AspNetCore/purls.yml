@@ -20,3 +20,4 @@
 - pkg:nuget/Shuttle.Access.AspNetCore@8.1.4
 - pkg:nuget/Shuttle.Access.AspNetCore@9.0.0-rc3
 - pkg:nuget/Shuttle.Access.AspNetCore@9.0.0-rc7
+- pkg:nuget/Shuttle.Access.AspNetCore@9.0.6
