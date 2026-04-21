@@ -51,6 +51,7 @@
 - pkg:nuget/CK.ActivityMonitor@24.0.0
 - pkg:nuget/CK.ActivityMonitor@25.0.0
 - pkg:nuget/CK.ActivityMonitor@25.0.1
+- pkg:nuget/CK.ActivityMonitor@26.0.0
 - pkg:nuget/CK.ActivityMonitor@5.0.0
 - pkg:nuget/CK.ActivityMonitor@5.0.0-d
 - pkg:nuget/CK.ActivityMonitor@5.0.0-d01

@@ -49,6 +49,7 @@
 - pkg:nuget/CK.SqlServer.Parser.Model@21.0.0
 - pkg:nuget/CK.SqlServer.Parser.Model@22.0.0
 - pkg:nuget/CK.SqlServer.Parser.Model@22.0.1
+- pkg:nuget/CK.SqlServer.Parser.Model@23.0.0
 - pkg:nuget/CK.SqlServer.Parser.Model@3.0.0
 - pkg:nuget/CK.SqlServer.Parser.Model@3.0.0-a
 - pkg:nuget/CK.SqlServer.Parser.Model@3.0.0-b
