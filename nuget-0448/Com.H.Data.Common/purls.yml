@@ -1,4 +1,6 @@
 - pkg:nuget/Com.H.Data.Common@10.1.0
+- pkg:nuget/Com.H.Data.Common@10.1.0.5
+- pkg:nuget/Com.H.Data.Common@10.1.0.7
 - pkg:nuget/Com.H.Data.Common@2.0.0
 - pkg:nuget/Com.H.Data.Common@7.0.0
 - pkg:nuget/Com.H.Data.Common@7.0.0.1
