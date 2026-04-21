@@ -27,3 +27,4 @@
 - pkg:nuget/UvA.TermTime.Client@1.7.1
 - pkg:nuget/UvA.TermTime.Client@1.8.0
 - pkg:nuget/UvA.TermTime.Client@1.9.0
+- pkg:nuget/UvA.TermTime.Client@2.1.2
