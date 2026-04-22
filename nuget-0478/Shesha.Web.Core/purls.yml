@@ -182,6 +182,7 @@
 - pkg:nuget/Shesha.Web.Core@0.43.7
 - pkg:nuget/Shesha.Web.Core@0.43.8
 - pkg:nuget/Shesha.Web.Core@0.44.0
+- pkg:nuget/Shesha.Web.Core@0.45.0
 - pkg:nuget/Shesha.Web.Core@0.6.0
 - pkg:nuget/Shesha.Web.Core@0.6.1
 - pkg:nuget/Shesha.Web.Core@0.7.0
