@@ -5,3 +5,4 @@
 - pkg:nuget/Axiom.Assertions@0.9.0
 - pkg:nuget/Axiom.Assertions@1.0.0
 - pkg:nuget/Axiom.Assertions@1.1.0
+- pkg:nuget/Axiom.Assertions@2.1.0
