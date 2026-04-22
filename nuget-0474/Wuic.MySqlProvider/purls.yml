@@ -1,1 +1,2 @@
 - pkg:nuget/Wuic.MySqlProvider@0.7.4
+- pkg:nuget/Wuic.MySqlProvider@0.8.1
