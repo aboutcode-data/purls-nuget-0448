@@ -1,1 +1,2 @@
 - pkg:nuget/Galosys.Foundation.AspNetCore.MultiTenancy@25.11.21.1-rc
+- pkg:nuget/Galosys.Foundation.AspNetCore.MultiTenancy@26.4.22.2-rc7
