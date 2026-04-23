@@ -428,3 +428,4 @@
 - pkg:nuget/Pulumi.Opsgenie@1.4.0-alpha.1769445054
 - pkg:nuget/Pulumi.Opsgenie@1.4.0-alpha.1774890352
 - pkg:nuget/Pulumi.Opsgenie@1.4.0-alpha.1776753490
+- pkg:nuget/Pulumi.Opsgenie@1.4.0-alpha.1776926428
