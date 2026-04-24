@@ -1,5 +1,6 @@
 - pkg:nuget/OdooDotNet@0.10.0
 - pkg:nuget/OdooDotNet@0.11.0
 - pkg:nuget/OdooDotNet@0.12.0
+- pkg:nuget/OdooDotNet@0.15.0
 - pkg:nuget/OdooDotNet@0.4.0-alpha1
 - pkg:nuget/OdooDotNet@0.7.0
