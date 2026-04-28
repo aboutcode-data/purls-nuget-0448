@@ -65,3 +65,4 @@
 - pkg:nuget/Orc.Notifications@5.0.0-alpha0420
 - pkg:nuget/Orc.Notifications@5.1.0
 - pkg:nuget/Orc.Notifications@5.2.0
+- pkg:nuget/Orc.Notifications@6.0.0-alpha0103
