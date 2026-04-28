@@ -25,3 +25,4 @@
 - pkg:nuget/DogStatsD-CSharp-Client@7.0.1
 - pkg:nuget/DogStatsD-CSharp-Client@8.0.0
 - pkg:nuget/DogStatsD-CSharp-Client@9.0.0
+- pkg:nuget/DogStatsD-CSharp-Client@9.1.0
