@@ -6,6 +6,7 @@
 - pkg:nuget/Ccf.Ck.SysPlugins.Support.ParameterExpression@1.0.41
 - pkg:nuget/Ccf.Ck.SysPlugins.Support.ParameterExpression@1.0.5
 - pkg:nuget/Ccf.Ck.SysPlugins.Support.ParameterExpression@1.0.6
+- pkg:nuget/Ccf.Ck.SysPlugins.Support.ParameterExpression@10.0.3
 - pkg:nuget/Ccf.Ck.SysPlugins.Support.ParameterExpression@5.0.0
 - pkg:nuget/Ccf.Ck.SysPlugins.Support.ParameterExpression@5.0.1
 - pkg:nuget/Ccf.Ck.SysPlugins.Support.ParameterExpression@5.0.2
