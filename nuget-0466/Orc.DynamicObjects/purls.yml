@@ -26,3 +26,4 @@
 - pkg:nuget/Orc.DynamicObjects@5.0.0-alpha0211
 - pkg:nuget/Orc.DynamicObjects@5.0.0-alpha0371
 - pkg:nuget/Orc.DynamicObjects@5.0.0-alpha0414
+- pkg:nuget/Orc.DynamicObjects@6.0.0-alpha0091
