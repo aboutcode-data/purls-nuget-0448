@@ -360,6 +360,7 @@
 - pkg:nuget/Telerik.Sitefinity.SiteSync@15.3.8528
 - pkg:nuget/Telerik.Sitefinity.SiteSync@15.4.8627
 - pkg:nuget/Telerik.Sitefinity.SiteSync@15.4.8628
+- pkg:nuget/Telerik.Sitefinity.SiteSync@15.4.8629
 - pkg:nuget/Telerik.Sitefinity.SiteSync@7.0.5100
 - pkg:nuget/Telerik.Sitefinity.SiteSync@7.0.5101
 - pkg:nuget/Telerik.Sitefinity.SiteSync@7.0.5102
