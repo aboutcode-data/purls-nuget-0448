@@ -3,6 +3,7 @@
 - pkg:nuget/DotNetNuke.Web@10.0.1
 - pkg:nuget/DotNetNuke.Web@10.1.0
 - pkg:nuget/DotNetNuke.Web@10.1.1
+- pkg:nuget/DotNetNuke.Web@10.3.2-rc.1
 - pkg:nuget/DotNetNuke.Web@6.0.0
 - pkg:nuget/DotNetNuke.Web@7.0.0
 - pkg:nuget/DotNetNuke.Web@7.0.6.121
