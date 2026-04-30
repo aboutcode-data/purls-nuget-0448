@@ -10,3 +10,5 @@
 - pkg:nuget/LiterLlm@1.0.0-rc.9
 - pkg:nuget/LiterLlm@1.1.0
 - pkg:nuget/LiterLlm@1.1.1
+- pkg:nuget/LiterLlm@1.4.0-rc.25
+- pkg:nuget/LiterLlm@1.4.0-rc.26
