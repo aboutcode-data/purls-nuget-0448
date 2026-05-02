@@ -31,6 +31,7 @@
 - pkg:nuget/NUnit.Analyzers@4.0.1
 - pkg:nuget/NUnit.Analyzers@4.1.0
 - pkg:nuget/NUnit.Analyzers@4.10.0
+- pkg:nuget/NUnit.Analyzers@4.13.0
 - pkg:nuget/NUnit.Analyzers@4.2.0
 - pkg:nuget/NUnit.Analyzers@4.3.0
 - pkg:nuget/NUnit.Analyzers@4.4.0
