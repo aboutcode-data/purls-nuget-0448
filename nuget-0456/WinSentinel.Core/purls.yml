@@ -1,5 +1,6 @@
 - pkg:nuget/WinSentinel.Core@1.0.0
 - pkg:nuget/WinSentinel.Core@1.12.0
 - pkg:nuget/WinSentinel.Core@1.13.0
+- pkg:nuget/WinSentinel.Core@1.15.1
 - pkg:nuget/WinSentinel.Core@1.4.1
 - pkg:nuget/WinSentinel.Core@1.8.0
