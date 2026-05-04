@@ -9,3 +9,5 @@
 - pkg:nuget/mostlylucid.botdetection@5.0.1
 - pkg:nuget/mostlylucid.botdetection@5.6.29
 - pkg:nuget/mostlylucid.botdetection@6.0.4-rc1
+- pkg:nuget/mostlylucid.botdetection@6.1.8
+- pkg:nuget/mostlylucid.botdetection@6.1.9
