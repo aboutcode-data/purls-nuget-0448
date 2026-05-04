@@ -58,3 +58,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Ds18b20@1.0.815
 - pkg:nuget/nanoFramework.Iot.Device.Ds18b20@1.0.820
 - pkg:nuget/nanoFramework.Iot.Device.Ds18b20@1.0.840
+- pkg:nuget/nanoFramework.Iot.Device.Ds18b20@2.0.0-preview.49

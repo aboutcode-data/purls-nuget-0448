@@ -81,3 +81,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Mbi5027@1.2.869
 - pkg:nuget/nanoFramework.Iot.Device.Mbi5027@1.2.87
 - pkg:nuget/nanoFramework.Iot.Device.Mbi5027@1.2.95
+- pkg:nuget/nanoFramework.Iot.Device.Mbi5027@2.0.0-preview.49

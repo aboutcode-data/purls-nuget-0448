@@ -100,3 +100,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Pn532@1.2.883
 - pkg:nuget/nanoFramework.Iot.Device.Pn532@1.2.89
 - pkg:nuget/nanoFramework.Iot.Device.Pn532@1.2.95
+- pkg:nuget/nanoFramework.Iot.Device.Pn532@2.0.0-preview.49
