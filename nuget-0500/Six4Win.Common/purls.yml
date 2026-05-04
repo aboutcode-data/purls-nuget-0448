@@ -1,5 +1,6 @@
 - pkg:nuget/Six4Win.Common@1.0.0
 - pkg:nuget/Six4Win.Common@1.0.1
+- pkg:nuget/Six4Win.Common@10.0.0
 - pkg:nuget/Six4Win.Common@4.0.2
 - pkg:nuget/Six4Win.Common@8.0.2
 - pkg:nuget/Six4Win.Common@8.0.3
