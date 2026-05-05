@@ -34,3 +34,4 @@
 - pkg:nuget/NServiceBus.AmazonSQS.CommandLine@7.2.0
 - pkg:nuget/NServiceBus.AmazonSQS.CommandLine@7.3.0
 - pkg:nuget/NServiceBus.AmazonSQS.CommandLine@8.0.0
+- pkg:nuget/NServiceBus.AmazonSQS.CommandLine@9.0.1
