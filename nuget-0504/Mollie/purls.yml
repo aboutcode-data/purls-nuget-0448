@@ -36,3 +36,4 @@
 - pkg:nuget/Mollie@0.9.1
 - pkg:nuget/Mollie@0.9.3
 - pkg:nuget/Mollie@0.9.8
+- pkg:nuget/Mollie@1.0.3
