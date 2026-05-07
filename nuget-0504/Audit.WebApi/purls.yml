@@ -251,6 +251,7 @@
 - pkg:nuget/Audit.WebApi@30.1.3
 - pkg:nuget/Audit.WebApi@31.0.0
 - pkg:nuget/Audit.WebApi@31.0.1
+- pkg:nuget/Audit.WebApi@32.1.0
 - pkg:nuget/Audit.WebApi@4.0.0
 - pkg:nuget/Audit.WebApi@4.0.1
 - pkg:nuget/Audit.WebApi@4.1.0
