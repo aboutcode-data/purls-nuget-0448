@@ -142,3 +142,4 @@
 - pkg:nuget/nanoFramework.TestFramework@4.0.0-preview.43
 - pkg:nuget/nanoFramework.TestFramework@4.0.0-preview.44
 - pkg:nuget/nanoFramework.TestFramework@4.0.0-preview.49
+- pkg:nuget/nanoFramework.TestFramework@4.0.0-preview.52
