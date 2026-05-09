@@ -28,3 +28,4 @@
 - pkg:nuget/CSharpInteractive@1.1.8
 - pkg:nuget/CSharpInteractive@1.1.9
 - pkg:nuget/CSharpInteractive@1.1.9-beta1
+- pkg:nuget/CSharpInteractive@1.2.3
