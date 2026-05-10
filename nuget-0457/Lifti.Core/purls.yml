@@ -45,3 +45,5 @@
 - pkg:nuget/Lifti.Core@6.3.0
 - pkg:nuget/Lifti.Core@6.4.0
 - pkg:nuget/Lifti.Core@7.0.0-CI-20250226-201059
+- pkg:nuget/Lifti.Core@8.0.0-ci.32
+- pkg:nuget/Lifti.Core@8.0.0-pr-135-20260510-1018
