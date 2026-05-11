@@ -237,3 +237,4 @@
 - pkg:nuget/Z.Dapper.Plus@8.0.0
 - pkg:nuget/Z.Dapper.Plus@8.0.1
 - pkg:nuget/Z.Dapper.Plus@8.0.2
+- pkg:nuget/Z.Dapper.Plus@9.3.1
