@@ -7,3 +7,4 @@
 - pkg:nuget/Nuve.DataStore.Serializer.JsonNet@1.2.7
 - pkg:nuget/Nuve.DataStore.Serializer.JsonNet@1.2.8
 - pkg:nuget/Nuve.DataStore.Serializer.JsonNet@1.2.9
+- pkg:nuget/Nuve.DataStore.Serializer.JsonNet@2.0.6
