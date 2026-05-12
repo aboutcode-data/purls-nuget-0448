@@ -5,6 +5,7 @@
 - pkg:nuget/PetaPoco.Repository@1.0.12
 - pkg:nuget/PetaPoco.Repository@1.0.13
 - pkg:nuget/PetaPoco.Repository@1.0.14
+- pkg:nuget/PetaPoco.Repository@1.0.17
 - pkg:nuget/PetaPoco.Repository@1.0.2
 - pkg:nuget/PetaPoco.Repository@1.0.5
 - pkg:nuget/PetaPoco.Repository@1.0.6
