@@ -3,3 +3,5 @@
 - pkg:nuget/Apigen.PaperlessNgx.Client@2.20.0
 - pkg:nuget/Apigen.PaperlessNgx.Client@2.20.1
 - pkg:nuget/Apigen.PaperlessNgx.Client@2.20.2
+- pkg:nuget/Apigen.PaperlessNgx.Client@2.20.5
+- pkg:nuget/Apigen.PaperlessNgx.Client@2.20.6
