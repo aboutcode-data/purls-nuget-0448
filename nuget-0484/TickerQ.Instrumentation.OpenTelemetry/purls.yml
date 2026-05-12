@@ -1,5 +1,6 @@
 - pkg:nuget/TickerQ.Instrumentation.OpenTelemetry@10.0.1
 - pkg:nuget/TickerQ.Instrumentation.OpenTelemetry@10.0.2
+- pkg:nuget/TickerQ.Instrumentation.OpenTelemetry@10.4.0
 - pkg:nuget/TickerQ.Instrumentation.OpenTelemetry@8.0.1
 - pkg:nuget/TickerQ.Instrumentation.OpenTelemetry@8.2.3
 - pkg:nuget/TickerQ.Instrumentation.OpenTelemetry@9.0.0-beta.12
