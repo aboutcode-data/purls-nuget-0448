@@ -9,6 +9,7 @@
 - pkg:nuget/Microsoft.Windows.Compatibility@10.0.1
 - pkg:nuget/Microsoft.Windows.Compatibility@10.0.7
 - pkg:nuget/Microsoft.Windows.Compatibility@11.0.0-preview.1.26104.118
+- pkg:nuget/Microsoft.Windows.Compatibility@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.Windows.Compatibility@2.0.0
 - pkg:nuget/Microsoft.Windows.Compatibility@2.0.0-preview1-25914-04
 - pkg:nuget/Microsoft.Windows.Compatibility@2.0.0-preview1-26216-02
