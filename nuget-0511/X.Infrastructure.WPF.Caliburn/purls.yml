@@ -1,1 +1,2 @@
 - pkg:nuget/X.Infrastructure.WPF.Caliburn@1.0.0
+- pkg:nuget/X.Infrastructure.WPF.Caliburn@2.0.3
