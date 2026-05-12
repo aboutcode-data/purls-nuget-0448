@@ -182,3 +182,4 @@
 - pkg:nuget/Finbourne.Identity.Sdk@2.3.8
 - pkg:nuget/Finbourne.Identity.Sdk@2.3.9
 - pkg:nuget/Finbourne.Identity.Sdk@2.4.3
+- pkg:nuget/Finbourne.Identity.Sdk@2.4.9
