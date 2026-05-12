@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.TemplateLocalizer.Core@10.0.100-rc.1.25451.107
 - pkg:nuget/Microsoft.TemplateEngine.TemplateLocalizer.Core@10.0.101
 - pkg:nuget/Microsoft.TemplateEngine.TemplateLocalizer.Core@10.0.107
+- pkg:nuget/Microsoft.TemplateEngine.TemplateLocalizer.Core@10.0.108
 - pkg:nuget/Microsoft.TemplateEngine.TemplateLocalizer.Core@10.0.203
 - pkg:nuget/Microsoft.TemplateEngine.TemplateLocalizer.Core@11.0.100-preview.1.26104.118
 - pkg:nuget/Microsoft.TemplateEngine.TemplateLocalizer.Core@6.0.100
@@ -249,3 +250,4 @@
 - pkg:nuget/Microsoft.TemplateEngine.TemplateLocalizer.Core@9.0.304
 - pkg:nuget/Microsoft.TemplateEngine.TemplateLocalizer.Core@9.0.305
 - pkg:nuget/Microsoft.TemplateEngine.TemplateLocalizer.Core@9.0.306
+- pkg:nuget/Microsoft.TemplateEngine.TemplateLocalizer.Core@9.0.314
