@@ -1,1 +1,2 @@
 - pkg:nuget/Ptht365.Microservice.ServiceDiscovery.Consul@1.0.0
+- pkg:nuget/Ptht365.Microservice.ServiceDiscovery.Consul@1.0.2
