@@ -2002,6 +2002,7 @@
 - pkg:nuget/FunFair.BuildCheck@474.2.4.2134-main
 - pkg:nuget/FunFair.BuildCheck@474.2.4.2135-main
 - pkg:nuget/FunFair.BuildCheck@474.2.4.2174-main
+- pkg:nuget/FunFair.BuildCheck@474.2.4.2175-test-projects-m
 - pkg:nuget/FunFair.BuildCheck@6.0.0.852
 - pkg:nuget/FunFair.BuildCheck@6.0.1.855-main
 - pkg:nuget/FunFair.BuildCheck@6.0.1.858-main
