@@ -1,2 +1,3 @@
 - pkg:nuget/Elastic.Clients.AgentBuilder@0.41.0
 - pkg:nuget/Elastic.Clients.AgentBuilder@0.44.1
+- pkg:nuget/Elastic.Clients.AgentBuilder@0.45.0
