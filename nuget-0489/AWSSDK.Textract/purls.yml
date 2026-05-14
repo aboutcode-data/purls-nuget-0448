@@ -1105,6 +1105,7 @@
 - pkg:nuget/AWSSDK.Textract@3.7.502.47
 - pkg:nuget/AWSSDK.Textract@3.7.502.50
 - pkg:nuget/AWSSDK.Textract@3.7.502.52
+- pkg:nuget/AWSSDK.Textract@3.7.502.54
 - pkg:nuget/AWSSDK.Textract@3.7.502.7
 - pkg:nuget/AWSSDK.Textract@4.0.0
 - pkg:nuget/AWSSDK.Textract@4.0.0-preview
