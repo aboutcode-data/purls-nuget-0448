@@ -72,3 +72,4 @@
 - pkg:nuget/Google.Apis.FirebaseML.v2beta@1.70.0.3903
 - pkg:nuget/Google.Apis.FirebaseML.v2beta@1.71.0.3904
 - pkg:nuget/Google.Apis.FirebaseML.v2beta@1.72.0.3947
+- pkg:nuget/Google.Apis.FirebaseML.v2beta@1.74.0.4147
