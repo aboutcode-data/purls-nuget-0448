@@ -1,1 +1,2 @@
 - pkg:nuget/Fuxion.Analyzers.Abstractions@10.0.10
+- pkg:nuget/Fuxion.Analyzers.Abstractions@10.0.16
