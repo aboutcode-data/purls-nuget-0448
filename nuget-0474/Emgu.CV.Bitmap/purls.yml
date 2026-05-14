@@ -2,6 +2,7 @@
 - pkg:nuget/Emgu.CV.Bitmap@4.11.0.5746
 - pkg:nuget/Emgu.CV.Bitmap@4.12.0.5763
 - pkg:nuget/Emgu.CV.Bitmap@4.12.0.5764
+- pkg:nuget/Emgu.CV.Bitmap@4.13.0.5924
 - pkg:nuget/Emgu.CV.Bitmap@4.4.0.4061
 - pkg:nuget/Emgu.CV.Bitmap@4.4.0.4077
 - pkg:nuget/Emgu.CV.Bitmap@4.4.0.4099
