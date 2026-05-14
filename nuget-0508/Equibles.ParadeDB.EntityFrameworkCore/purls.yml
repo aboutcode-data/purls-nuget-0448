@@ -1,1 +1,2 @@
 - pkg:nuget/Equibles.ParadeDB.EntityFrameworkCore@1.0.0
+- pkg:nuget/Equibles.ParadeDB.EntityFrameworkCore@2.1.0
