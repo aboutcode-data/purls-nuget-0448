@@ -19,3 +19,4 @@
 - pkg:nuget/Devlead.Testing.MockHttp@2025.7.9.233
 - pkg:nuget/Devlead.Testing.MockHttp@2025.8.6.257
 - pkg:nuget/Devlead.Testing.MockHttp@2025.9.10.304
+- pkg:nuget/Devlead.Testing.MockHttp@2026.5.15.777
