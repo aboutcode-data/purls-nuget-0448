@@ -11,3 +11,4 @@
 - pkg:nuget/CP.Nuke.BuildTools@1.0.8
 - pkg:nuget/CP.Nuke.BuildTools@1.0.9
 - pkg:nuget/CP.Nuke.BuildTools@1.0.94
+- pkg:nuget/CP.Nuke.BuildTools@3.0.2
