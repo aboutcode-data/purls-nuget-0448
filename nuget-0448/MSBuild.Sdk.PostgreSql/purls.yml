@@ -1,0 +1,2 @@
+- pkg:nuget/MSBuild.Sdk.PostgreSql@1.0.0-preview10
+- pkg:nuget/MSBuild.Sdk.PostgreSql@1.0.0-preview9
