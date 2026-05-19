@@ -5,3 +5,4 @@
 - pkg:nuget/Sportradar.Mbs.Sdk@0.9.6
 - pkg:nuget/Sportradar.Mbs.Sdk@0.9.7
 - pkg:nuget/Sportradar.Mbs.Sdk@0.9.8
+- pkg:nuget/Sportradar.Mbs.Sdk@1.0.2
