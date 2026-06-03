@@ -37,6 +37,7 @@
 - pkg:nuget/SuperOffice.NetServer.Services@10.5.4.867
 - pkg:nuget/SuperOffice.NetServer.Services@10.5.4.878
 - pkg:nuget/SuperOffice.NetServer.Services@10.5.5.982
+- pkg:nuget/SuperOffice.NetServer.Services@11.13.1541
 - pkg:nuget/SuperOffice.NetServer.Services@8.0.5828.1101
 - pkg:nuget/SuperOffice.NetServer.Services@8.0.5893.1015
 - pkg:nuget/SuperOffice.NetServer.Services@8.0.6004.1310
