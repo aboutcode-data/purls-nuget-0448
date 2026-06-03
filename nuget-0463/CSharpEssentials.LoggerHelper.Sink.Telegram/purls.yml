@@ -5,3 +5,5 @@
 - pkg:nuget/CSharpEssentials.LoggerHelper.Sink.Telegram@3.1.5
 - pkg:nuget/CSharpEssentials.LoggerHelper.Sink.Telegram@4.0.0
 - pkg:nuget/CSharpEssentials.LoggerHelper.Sink.Telegram@4.0.2
+- pkg:nuget/CSharpEssentials.LoggerHelper.Sink.Telegram@5.0.2
+- pkg:nuget/CSharpEssentials.LoggerHelper.Sink.Telegram@5.0.3
