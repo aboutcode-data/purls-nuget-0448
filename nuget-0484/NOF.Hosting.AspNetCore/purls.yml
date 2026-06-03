@@ -1,4 +1,5 @@
 - pkg:nuget/NOF.Hosting.AspNetCore@10.5.0-nightly.1243093.937c7b3
+- pkg:nuget/NOF.Hosting.AspNetCore@10.6.0-nightly.1253375.5b42a45
 - pkg:nuget/NOF.Hosting.AspNetCore@6.3.0
 - pkg:nuget/NOF.Hosting.AspNetCore@7.1.0-nightly.1150087.067890f
 - pkg:nuget/NOF.Hosting.AspNetCore@8.0.0-nightly.1182812.d2b8f81
