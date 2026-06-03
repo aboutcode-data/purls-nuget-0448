@@ -107,6 +107,7 @@
 - pkg:nuget/MessagePack.ImmutableCollection@2.5.187
 - pkg:nuget/MessagePack.ImmutableCollection@2.5.192
 - pkg:nuget/MessagePack.ImmutableCollection@2.5.198
+- pkg:nuget/MessagePack.ImmutableCollection@2.5.205
 - pkg:nuget/MessagePack.ImmutableCollection@2.5.64-alpha
 - pkg:nuget/MessagePack.ImmutableCollection@2.5.94
 - pkg:nuget/MessagePack.ImmutableCollection@2.6.100-alpha
@@ -127,3 +128,4 @@
 - pkg:nuget/MessagePack.ImmutableCollection@3.1.2
 - pkg:nuget/MessagePack.ImmutableCollection@3.1.3
 - pkg:nuget/MessagePack.ImmutableCollection@3.1.4
+- pkg:nuget/MessagePack.ImmutableCollection@3.1.6
