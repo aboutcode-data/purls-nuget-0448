@@ -36,6 +36,7 @@
 - pkg:nuget/SuperOffice.Crm.Online.IntegrationServices@10.5.4.867
 - pkg:nuget/SuperOffice.Crm.Online.IntegrationServices@10.5.4.878
 - pkg:nuget/SuperOffice.Crm.Online.IntegrationServices@10.5.5.982
+- pkg:nuget/SuperOffice.Crm.Online.IntegrationServices@11.13.1541
 - pkg:nuget/SuperOffice.Crm.Online.IntegrationServices@8.0.6193.207
 - pkg:nuget/SuperOffice.Crm.Online.IntegrationServices@9.1.7584.1321
 - pkg:nuget/SuperOffice.Crm.Online.IntegrationServices@9.2.7598-preview
