@@ -393,3 +393,7 @@
 - pkg:nuget/Soenneker.Blazor.CallbackRegistry@4.0.760
 - pkg:nuget/Soenneker.Blazor.CallbackRegistry@4.0.765
 - pkg:nuget/Soenneker.Blazor.CallbackRegistry@4.0.774
+- pkg:nuget/Soenneker.Blazor.CallbackRegistry@4.0.786
+- pkg:nuget/Soenneker.Blazor.CallbackRegistry@4.0.790
+- pkg:nuget/Soenneker.Blazor.CallbackRegistry@4.0.800
+- pkg:nuget/Soenneker.Blazor.CallbackRegistry@4.0.801
