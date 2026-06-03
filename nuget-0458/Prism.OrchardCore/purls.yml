@@ -28,3 +28,4 @@
 - pkg:nuget/Prism.OrchardCore@2.1.7
 - pkg:nuget/Prism.OrchardCore@2.1.8
 - pkg:nuget/Prism.OrchardCore@2.2.0
+- pkg:nuget/Prism.OrchardCore@2.2.1
