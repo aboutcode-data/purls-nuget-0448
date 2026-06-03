@@ -1,6 +1,7 @@
 - pkg:nuget/ids-lib@1.0.10
 - pkg:nuget/ids-lib@1.0.104
 - pkg:nuget/ids-lib@1.0.112
+- pkg:nuget/ids-lib@1.0.118
 - pkg:nuget/ids-lib@1.0.12
 - pkg:nuget/ids-lib@1.0.14
 - pkg:nuget/ids-lib@1.0.15
