@@ -600,6 +600,11 @@
 - pkg:nuget/Pulumi.Linode@5.12.0-alpha.1778050251
 - pkg:nuget/Pulumi.Linode@5.12.0-alpha.1778568696
 - pkg:nuget/Pulumi.Linode@5.12.0-alpha.1778655347
+- pkg:nuget/Pulumi.Linode@5.13.0-alpha.1779347370
+- pkg:nuget/Pulumi.Linode@5.13.0-alpha.1779433801
+- pkg:nuget/Pulumi.Linode@5.14.0-alpha.1779866125
+- pkg:nuget/Pulumi.Linode@5.14.0-alpha.1779952574
+- pkg:nuget/Pulumi.Linode@5.15.0-alpha.1780471411
 - pkg:nuget/Pulumi.Linode@5.2.0
 - pkg:nuget/Pulumi.Linode@5.2.0-alpha.1752818961
 - pkg:nuget/Pulumi.Linode@5.2.0-alpha.1752905257
