@@ -182,3 +182,6 @@
 - pkg:nuget/Marten.AspNetCore@8.9.0-channels-alpha-1
 - pkg:nuget/Marten.AspNetCore@8.9.0-channels-alpha-2
 - pkg:nuget/Marten.AspNetCore@9.0.0-alpha.4
+- pkg:nuget/Marten.AspNetCore@9.0.2
+- pkg:nuget/Marten.AspNetCore@9.4.0
+- pkg:nuget/Marten.AspNetCore@9.5.0
