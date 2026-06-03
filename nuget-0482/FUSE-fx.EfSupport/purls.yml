@@ -53,3 +53,5 @@
 - pkg:nuget/FUSE-fx.EfSupport@0.5.9
 - pkg:nuget/FUSE-fx.EfSupport@0.8.0
 - pkg:nuget/FUSE-fx.EfSupport@0.9.5
+- pkg:nuget/FUSE-fx.EfSupport@1.0.1
+- pkg:nuget/FUSE-fx.EfSupport@1.0.2
