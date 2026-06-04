@@ -45,3 +45,4 @@
 - pkg:nuget/Dibix.Http.Server.AspNet@1.6.5
 - pkg:nuget/Dibix.Http.Server.AspNet@1.6.6
 - pkg:nuget/Dibix.Http.Server.AspNet@1.6.92
+- pkg:nuget/Dibix.Http.Server.AspNet@1.7.96
