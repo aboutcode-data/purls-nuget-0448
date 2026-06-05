@@ -138,6 +138,7 @@
 - pkg:nuget/Aquarius.ONE.Models.CSharp@7.21.0
 - pkg:nuget/Aquarius.ONE.Models.CSharp@7.22.0-pre-169
 - pkg:nuget/Aquarius.ONE.Models.CSharp@7.23.0
+- pkg:nuget/Aquarius.ONE.Models.CSharp@7.25.1-Pre-IH-1382-1
 - pkg:nuget/Aquarius.ONE.Models.CSharp@7.3.0
 - pkg:nuget/Aquarius.ONE.Models.CSharp@7.3.0-pre-25
 - pkg:nuget/Aquarius.ONE.Models.CSharp@7.3.0-pre-26
