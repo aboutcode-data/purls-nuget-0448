@@ -2026,6 +2026,9 @@
 - pkg:nuget/FunFair.BuildCheck@474.2.7.2297-main
 - pkg:nuget/FunFair.BuildCheck@474.2.8.2312-ban-warnings-no
 - pkg:nuget/FunFair.BuildCheck@474.2.8.2313-ban-warnings-no
+- pkg:nuget/FunFair.BuildCheck@474.2.9.2324-issue-409-solut
+- pkg:nuget/FunFair.BuildCheck@474.2.9.2325-issue-409-solut
+- pkg:nuget/FunFair.BuildCheck@474.2.9.2326-main
 - pkg:nuget/FunFair.BuildCheck@6.0.0.852
 - pkg:nuget/FunFair.BuildCheck@6.0.1.855-main
 - pkg:nuget/FunFair.BuildCheck@6.0.1.858-main
