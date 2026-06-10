@@ -48,3 +48,4 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Controls@14.3.210
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Controls@14.3.234
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Controls@14.4.64
+- pkg:nuget/Beckhoff.TwinCAT.HMI.Controls@14.6.20
