@@ -1264,3 +1264,4 @@
 - pkg:nuget/AWSSDK.Route53Domains@4.0.3.22
 - pkg:nuget/AWSSDK.Route53Domains@4.0.4.3
 - pkg:nuget/AWSSDK.Route53Domains@4.0.4.5
+- pkg:nuget/AWSSDK.Route53Domains@4.0.5.3
