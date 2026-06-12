@@ -1,4 +1,5 @@
 - pkg:nuget/JS.Abp.DynamicMenu.Application@10.0.2
+- pkg:nuget/JS.Abp.DynamicMenu.Application@10.4.1
 - pkg:nuget/JS.Abp.DynamicMenu.Application@6.0.2
 - pkg:nuget/JS.Abp.DynamicMenu.Application@7.0.0
 - pkg:nuget/JS.Abp.DynamicMenu.Application@7.2.1
