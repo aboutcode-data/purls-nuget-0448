@@ -1,3 +1,4 @@
+- pkg:nuget/DevWinUI@10.0.0-Preview4
 - pkg:nuget/DevWinUI@8.0.0
 - pkg:nuget/DevWinUI@8.0.0-Exp1
 - pkg:nuget/DevWinUI@8.0.0-Preview1
