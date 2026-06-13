@@ -268,3 +268,4 @@
 - pkg:nuget/Luxoft.Framework.Authorization.Events@25.5.0
 - pkg:nuget/Luxoft.Framework.Authorization.Events@27.1.2
 - pkg:nuget/Luxoft.Framework.Authorization.Events@27.2.1
+- pkg:nuget/Luxoft.Framework.Authorization.Events@27.3.1
