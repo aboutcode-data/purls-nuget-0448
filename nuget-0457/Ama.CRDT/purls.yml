@@ -36,3 +36,4 @@
 - pkg:nuget/Ama.CRDT@3.2.260506-ci1924
 - pkg:nuget/Ama.CRDT@3.2.260512-ci1716
 - pkg:nuget/Ama.CRDT@3.3.260512-ci1736
+- pkg:nuget/Ama.CRDT@4.0.0
