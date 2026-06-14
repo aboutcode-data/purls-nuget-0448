@@ -8,3 +8,6 @@
 - pkg:nuget/Lightsoft.MudBlazor@0.0.0.1-beta7
 - pkg:nuget/Lightsoft.MudBlazor@0.0.0.1-beta8
 - pkg:nuget/Lightsoft.MudBlazor@0.0.0.1-beta9
+- pkg:nuget/Lightsoft.MudBlazor@9.0.0-beta6
+- pkg:nuget/Lightsoft.MudBlazor@9.0.0-beta7
+- pkg:nuget/Lightsoft.MudBlazor@9.0.0-beta8
