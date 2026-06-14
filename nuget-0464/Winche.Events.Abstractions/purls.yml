@@ -1,0 +1,5 @@
+- pkg:nuget/Winche.Events.Abstractions@2.2.0
+- pkg:nuget/Winche.Events.Abstractions@3.2.0
+- pkg:nuget/Winche.Events.Abstractions@5.3.1
+- pkg:nuget/Winche.Events.Abstractions@5.3.2
+- pkg:nuget/Winche.Events.Abstractions@6.0.0
