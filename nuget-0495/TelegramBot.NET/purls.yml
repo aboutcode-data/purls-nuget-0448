@@ -43,6 +43,7 @@
 - pkg:nuget/TelegramBot.NET@1.0.35
 - pkg:nuget/TelegramBot.NET@1.0.36
 - pkg:nuget/TelegramBot.NET@1.0.4
+- pkg:nuget/TelegramBot.NET@1.0.41
 - pkg:nuget/TelegramBot.NET@1.0.5
 - pkg:nuget/TelegramBot.NET@1.0.6
 - pkg:nuget/TelegramBot.NET@1.0.7
