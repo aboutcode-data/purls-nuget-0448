@@ -103,6 +103,7 @@
 - pkg:nuget/fsxc@0.6.1--date20240905-0811.git-6158a3a
 - pkg:nuget/fsxc@0.6.1--date20241209-1054.git-02429b1
 - pkg:nuget/fsxc@0.6.1--date20250902-0201.git-78b90ac
+- pkg:nuget/fsxc@0.9.99--date20260615-1007.git-0e932e5
 - pkg:nuget/fsxc@22.12.26.709
 - pkg:nuget/fsxc@22.12.26.711
 - pkg:nuget/fsxc@22.12.26.866
