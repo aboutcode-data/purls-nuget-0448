@@ -214,3 +214,4 @@
 - pkg:nuget/Pulumi.AwsApiGateway@3.1.0-alpha.1780469535
 - pkg:nuget/Pulumi.AwsApiGateway@3.1.0-alpha.1780987151
 - pkg:nuget/Pulumi.AwsApiGateway@3.1.0-alpha.1781080673
+- pkg:nuget/Pulumi.AwsApiGateway@3.1.0-alpha.1781593467
