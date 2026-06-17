@@ -11,6 +11,7 @@
 - pkg:nuget/Selenium.FramesSearcher.Extensions@1.7.0
 - pkg:nuget/Selenium.FramesSearcher.Extensions@1.8.0
 - pkg:nuget/Selenium.FramesSearcher.Extensions@1.8.1
+- pkg:nuget/Selenium.FramesSearcher.Extensions@1.8.13
 - pkg:nuget/Selenium.FramesSearcher.Extensions@1.8.2
 - pkg:nuget/Selenium.FramesSearcher.Extensions@1.8.3
 - pkg:nuget/Selenium.FramesSearcher.Extensions@1.8.4
