@@ -21,6 +21,7 @@
 - pkg:nuget/Expecto@11.0.0-alpha6
 - pkg:nuget/Expecto@11.0.0-alpha7
 - pkg:nuget/Expecto@11.0.0-alpha8
+- pkg:nuget/Expecto@11.1.0
 - pkg:nuget/Expecto@2.0.0
 - pkg:nuget/Expecto@2.1.0
 - pkg:nuget/Expecto@2.1.1
