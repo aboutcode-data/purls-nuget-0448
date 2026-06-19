@@ -19,6 +19,7 @@
 - pkg:nuget/Havit.Data.EntityFrameworkCore.BusinessLayer@2.1.7
 - pkg:nuget/Havit.Data.EntityFrameworkCore.BusinessLayer@2.1.8
 - pkg:nuget/Havit.Data.EntityFrameworkCore.BusinessLayer@2.1.9
+- pkg:nuget/Havit.Data.EntityFrameworkCore.BusinessLayer@2.10.3
 - pkg:nuget/Havit.Data.EntityFrameworkCore.BusinessLayer@2.3.0
 - pkg:nuget/Havit.Data.EntityFrameworkCore.BusinessLayer@2.3.1
 - pkg:nuget/Havit.Data.EntityFrameworkCore.BusinessLayer@2.3.2
