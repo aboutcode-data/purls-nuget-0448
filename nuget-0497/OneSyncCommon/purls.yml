@@ -1,5 +1,6 @@
 - pkg:nuget/OneSyncCommon@1.0.1
 - pkg:nuget/OneSyncCommon@1.0.11-newtask4
+- pkg:nuget/OneSyncCommon@1.0.12-typelens
 - pkg:nuget/OneSyncCommon@1.0.2
 - pkg:nuget/OneSyncCommon@1.0.3
 - pkg:nuget/OneSyncCommon@1.0.4
