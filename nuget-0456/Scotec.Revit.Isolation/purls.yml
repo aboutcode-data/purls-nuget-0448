@@ -57,12 +57,15 @@
 - pkg:nuget/Scotec.Revit.Isolation@2025.3.2-dev.3
 - pkg:nuget/Scotec.Revit.Isolation@2025.3.2-dev.4
 - pkg:nuget/Scotec.Revit.Isolation@2025.3.3
+- pkg:nuget/Scotec.Revit.Isolation@2025.4.0-dev.3
 - pkg:nuget/Scotec.Revit.Isolation@2026.3.0-dev.39
 - pkg:nuget/Scotec.Revit.Isolation@2026.3.2-dev.3
 - pkg:nuget/Scotec.Revit.Isolation@2026.3.2-dev.4
 - pkg:nuget/Scotec.Revit.Isolation@2026.3.3
 - pkg:nuget/Scotec.Revit.Isolation@2026.3.4
+- pkg:nuget/Scotec.Revit.Isolation@2026.4.0-dev.3
 - pkg:nuget/Scotec.Revit.Isolation@2027.3.2-dev.3
 - pkg:nuget/Scotec.Revit.Isolation@2027.3.2-dev.4
 - pkg:nuget/Scotec.Revit.Isolation@2027.3.3
 - pkg:nuget/Scotec.Revit.Isolation@2027.3.4
+- pkg:nuget/Scotec.Revit.Isolation@2027.4.0-dev.3
