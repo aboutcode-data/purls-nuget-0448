@@ -1,4 +1,8 @@
 - pkg:nuget/Shaos.Sdk@0.1.0
+- pkg:nuget/Shaos.Sdk@0.10.0-beta
+- pkg:nuget/Shaos.Sdk@0.10.1-beta
+- pkg:nuget/Shaos.Sdk@0.10.2-beta
+- pkg:nuget/Shaos.Sdk@0.10.3-beta
 - pkg:nuget/Shaos.Sdk@0.2.0-beta
 - pkg:nuget/Shaos.Sdk@0.3.0-beta
 - pkg:nuget/Shaos.Sdk@0.4.0-beta
