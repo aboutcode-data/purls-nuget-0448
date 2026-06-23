@@ -117,6 +117,7 @@
 - pkg:nuget/TallComponents.PDFKit5@5.0.204
 - pkg:nuget/TallComponents.PDFKit5@5.0.21
 - pkg:nuget/TallComponents.PDFKit5@5.0.22
+- pkg:nuget/TallComponents.PDFKit5@5.0.220
 - pkg:nuget/TallComponents.PDFKit5@5.0.23
 - pkg:nuget/TallComponents.PDFKit5@5.0.24
 - pkg:nuget/TallComponents.PDFKit5@5.0.25
