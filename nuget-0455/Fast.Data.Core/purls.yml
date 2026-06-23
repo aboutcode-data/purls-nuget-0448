@@ -344,3 +344,6 @@
 - pkg:nuget/Fast.Data.Core@3.9.9
 - pkg:nuget/Fast.Data.Core@4.0.1
 - pkg:nuget/Fast.Data.Core@4.1.5
+- pkg:nuget/Fast.Data.Core@4.2.4
+- pkg:nuget/Fast.Data.Core@4.2.6
+- pkg:nuget/Fast.Data.Core@4.2.7
