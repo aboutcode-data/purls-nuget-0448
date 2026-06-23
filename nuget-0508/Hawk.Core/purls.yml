@@ -80,3 +80,5 @@
 - pkg:nuget/Hawk.Core@1.2.50328.1
 - pkg:nuget/Hawk.Core@1.2.50331.1
 - pkg:nuget/Hawk.Core@1.2.50901.1
+- pkg:nuget/Hawk.Core@1.2.60610.1
+- pkg:nuget/Hawk.Core@1.2.60623.1
