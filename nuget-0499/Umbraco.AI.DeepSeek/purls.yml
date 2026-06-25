@@ -1,2 +1,3 @@
 - pkg:nuget/Umbraco.AI.DeepSeek@1.0.0
 - pkg:nuget/Umbraco.AI.DeepSeek@1.0.5
+- pkg:nuget/Umbraco.AI.DeepSeek@18.0.0
