@@ -761,4 +761,5 @@
 - pkg:nuget/HotChocolate.AzureFunctions.IsolatedProcess@16.2.0-p.6
 - pkg:nuget/HotChocolate.AzureFunctions.IsolatedProcess@16.2.1
 - pkg:nuget/HotChocolate.AzureFunctions.IsolatedProcess@16.2.3
+- pkg:nuget/HotChocolate.AzureFunctions.IsolatedProcess@16.3.0
 - pkg:nuget/HotChocolate.AzureFunctions.IsolatedProcess@16.3.0-p.2
