@@ -63,4 +63,5 @@
 - pkg:nuget/Elvia.Telemetry.AspNetCore@7.2.1-preview.1-26
 - pkg:nuget/Elvia.Telemetry.AspNetCore@7.2.1-preview.1-27
 - pkg:nuget/Elvia.Telemetry.AspNetCore@7.2.1-preview.1-29
+- pkg:nuget/Elvia.Telemetry.AspNetCore@7.2.1-preview.1-32
 - pkg:nuget/Elvia.Telemetry.AspNetCore@7.2.1-preview.1-4
