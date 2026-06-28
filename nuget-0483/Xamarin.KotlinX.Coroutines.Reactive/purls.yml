@@ -1,5 +1,6 @@
 - pkg:nuget/Xamarin.KotlinX.Coroutines.Reactive@1.10.2
 - pkg:nuget/Xamarin.KotlinX.Coroutines.Reactive@1.10.2.1
+- pkg:nuget/Xamarin.KotlinX.Coroutines.Reactive@1.11.0.1
 - pkg:nuget/Xamarin.KotlinX.Coroutines.Reactive@1.4.1
 - pkg:nuget/Xamarin.KotlinX.Coroutines.Reactive@1.4.2
 - pkg:nuget/Xamarin.KotlinX.Coroutines.Reactive@1.4.3
