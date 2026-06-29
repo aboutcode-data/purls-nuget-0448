@@ -29,3 +29,4 @@
 - pkg:nuget/IX.Guaranteed@0.5.1.1
 - pkg:nuget/IX.Guaranteed@0.5.1.2
 - pkg:nuget/IX.Guaranteed@0.5.3
+- pkg:nuget/IX.Guaranteed@1.0.0
