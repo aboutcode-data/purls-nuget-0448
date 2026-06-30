@@ -759,3 +759,5 @@
 - pkg:nuget/DH.NMQTT@4.13.2025.926-beta1429
 - pkg:nuget/DH.NMQTT@4.18.2026.225-beta1220
 - pkg:nuget/DH.NMQTT@4.18.2026.412-beta1133
+- pkg:nuget/DH.NMQTT@4.18.2026.630-beta0653
+- pkg:nuget/DH.NMQTT@4.18.2026.630-beta0657
