@@ -28,6 +28,9 @@
 - pkg:nuget/Vintasoft.Imaging.Jbig2Codec@12.0.12.1
 - pkg:nuget/Vintasoft.Imaging.Jbig2Codec@12.0.14.1
 - pkg:nuget/Vintasoft.Imaging.Jbig2Codec@12.0.8.1
+- pkg:nuget/Vintasoft.Imaging.Jbig2Codec@12.1.0.1
+- pkg:nuget/Vintasoft.Imaging.Jbig2Codec@12.1.1.1
+- pkg:nuget/Vintasoft.Imaging.Jbig2Codec@12.1.2.1
 - pkg:nuget/Vintasoft.Imaging.Jbig2Codec@5.4.11.1
 - pkg:nuget/Vintasoft.Imaging.Jbig2Codec@5.4.12.1
 - pkg:nuget/Vintasoft.Imaging.Jbig2Codec@5.4.13.1
