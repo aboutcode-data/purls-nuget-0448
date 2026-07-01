@@ -214,3 +214,4 @@
 - pkg:nuget/Ark.Tools.AspNetCore.NestedStartup@5.5.0
 - pkg:nuget/Ark.Tools.AspNetCore.NestedStartup@6.0.0
 - pkg:nuget/Ark.Tools.AspNetCore.NestedStartup@6.0.4
+- pkg:nuget/Ark.Tools.AspNetCore.NestedStartup@6.0.6
