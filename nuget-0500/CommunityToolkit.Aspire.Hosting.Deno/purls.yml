@@ -8,6 +8,7 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Deno@13.1.2-beta.512
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Deno@13.4.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Deno@13.4.0-beta.651
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Deno@13.4.0-beta.671
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Deno@8.3.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Deno@8.3.0-beta.46
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Deno@8.3.0-beta.47
