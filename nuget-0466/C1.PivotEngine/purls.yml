@@ -1,3 +1,4 @@
+- pkg:nuget/C1.PivotEngine@10.0.20261.385
 - pkg:nuget/C1.PivotEngine@5.0.20211.208
 - pkg:nuget/C1.PivotEngine@5.0.20211.212
 - pkg:nuget/C1.PivotEngine@5.0.20212.221
