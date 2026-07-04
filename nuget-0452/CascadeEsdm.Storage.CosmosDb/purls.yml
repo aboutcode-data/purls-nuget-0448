@@ -1,0 +1,6 @@
+- pkg:nuget/CascadeEsdm.Storage.CosmosDb@1.0.101-alpha%2B9fd2f68
+- pkg:nuget/CascadeEsdm.Storage.CosmosDb@1.0.82-alpha%2B8eea626
+- pkg:nuget/CascadeEsdm.Storage.CosmosDb@1.0.84-alpha%2Bcce24bc
+- pkg:nuget/CascadeEsdm.Storage.CosmosDb@1.0.95
+- pkg:nuget/CascadeEsdm.Storage.CosmosDb@1.0.95-alpha%2Bbc66d38
+- pkg:nuget/CascadeEsdm.Storage.CosmosDb@1.0.96-alpha%2B0f3eed1
