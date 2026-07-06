@@ -152,3 +152,4 @@
 - pkg:nuget/Syncfusion.Blazor.FileManager.PhysicalFileProvider@33.2.3
 - pkg:nuget/Syncfusion.Blazor.FileManager.PhysicalFileProvider@33.2.6
 - pkg:nuget/Syncfusion.Blazor.FileManager.PhysicalFileProvider@33.2.7
+- pkg:nuget/Syncfusion.Blazor.FileManager.PhysicalFileProvider@34.1.29
