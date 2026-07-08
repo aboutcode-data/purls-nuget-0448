@@ -17,4 +17,5 @@
 - pkg:nuget/TestZ80Assembler@0.0.241
 - pkg:nuget/TestZ80Assembler@0.0.250
 - pkg:nuget/TestZ80Assembler@0.0.252
+- pkg:nuget/TestZ80Assembler@0.0.272
 - pkg:nuget/TestZ80Assembler@0.0.92
