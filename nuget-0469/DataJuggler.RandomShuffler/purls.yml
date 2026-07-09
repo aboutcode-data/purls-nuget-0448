@@ -1,5 +1,6 @@
 - pkg:nuget/DataJuggler.RandomShuffler@1.3.0
 - pkg:nuget/DataJuggler.RandomShuffler@10.0.8
+- pkg:nuget/DataJuggler.RandomShuffler@10.2.0
 - pkg:nuget/DataJuggler.RandomShuffler@6.0.0
 - pkg:nuget/DataJuggler.RandomShuffler@6.0.1
 - pkg:nuget/DataJuggler.RandomShuffler@6.0.2
