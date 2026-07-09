@@ -619,6 +619,7 @@
 - pkg:nuget/Pulumi.Cloudflare@6.18.0-alpha.1782891206
 - pkg:nuget/Pulumi.Cloudflare@6.18.0-alpha.1783062924
 - pkg:nuget/Pulumi.Cloudflare@6.18.0-alpha.1783235862
+- pkg:nuget/Pulumi.Cloudflare@6.18.0-alpha.1783582085
 - pkg:nuget/Pulumi.Cloudflare@6.2.0
 - pkg:nuget/Pulumi.Cloudflare@6.2.0-alpha.1745247109
 - pkg:nuget/Pulumi.Cloudflare@6.2.0-alpha.1745951138
