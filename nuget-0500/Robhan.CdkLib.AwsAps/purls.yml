@@ -46,6 +46,7 @@
 - pkg:nuget/Robhan.CdkLib.AwsAps@0.0.293
 - pkg:nuget/Robhan.CdkLib.AwsAps@0.0.3
 - pkg:nuget/Robhan.CdkLib.AwsAps@0.0.30
+- pkg:nuget/Robhan.CdkLib.AwsAps@0.0.305
 - pkg:nuget/Robhan.CdkLib.AwsAps@0.0.31
 - pkg:nuget/Robhan.CdkLib.AwsAps@0.0.32
 - pkg:nuget/Robhan.CdkLib.AwsAps@0.0.33
