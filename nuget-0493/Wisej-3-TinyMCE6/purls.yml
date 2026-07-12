@@ -30,3 +30,5 @@
 - pkg:nuget/Wisej-3-TinyMCE6@3.5.23
 - pkg:nuget/Wisej-3-TinyMCE6@3.5.31
 - pkg:nuget/Wisej-3-TinyMCE6@3.5.33-preview.1
+- pkg:nuget/Wisej-3-TinyMCE6@3.5.33-preview.2
+- pkg:nuget/Wisej-3-TinyMCE6@3.5.34
