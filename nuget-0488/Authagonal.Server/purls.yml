@@ -51,3 +51,5 @@
 - pkg:nuget/Authagonal.Server@0.4.36
 - pkg:nuget/Authagonal.Server@0.4.5
 - pkg:nuget/Authagonal.Server@0.4.7
+- pkg:nuget/Authagonal.Server@0.5.1
+- pkg:nuget/Authagonal.Server@0.6.1
