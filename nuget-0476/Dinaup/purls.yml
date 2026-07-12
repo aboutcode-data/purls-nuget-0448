@@ -4,6 +4,7 @@
 - pkg:nuget/Dinaup@10.14.0.12
 - pkg:nuget/Dinaup@10.15.0.15
 - pkg:nuget/Dinaup@10.15.0.17
+- pkg:nuget/Dinaup@10.15.0.25
 - pkg:nuget/Dinaup@10.5.0.7
 - pkg:nuget/Dinaup@2.0.1-beta
 - pkg:nuget/Dinaup@9.0.0.1
