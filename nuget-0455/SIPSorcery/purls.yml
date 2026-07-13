@@ -11,6 +11,7 @@
 - pkg:nuget/SIPSorcery@1.6.1
 - pkg:nuget/SIPSorcery@1.6.2
 - pkg:nuget/SIPSorcery@10.0.11
+- pkg:nuget/SIPSorcery@10.0.12
 - pkg:nuget/SIPSorcery@2.0.0
 - pkg:nuget/SIPSorcery@2.0.1
 - pkg:nuget/SIPSorcery@3.0.0
