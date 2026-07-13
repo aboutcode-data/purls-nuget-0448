@@ -121,4 +121,5 @@
 - pkg:nuget/CyberEye.Infrastructure.Dto@1.8.8
 - pkg:nuget/CyberEye.Infrastructure.Dto@1.8.9
 - pkg:nuget/CyberEye.Infrastructure.Dto@1.9.9
+- pkg:nuget/CyberEye.Infrastructure.Dto@3.0.17
 - pkg:nuget/CyberEye.Infrastructure.Dto@3.0.3
