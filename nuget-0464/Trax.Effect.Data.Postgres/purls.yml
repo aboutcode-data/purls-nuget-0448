@@ -11,3 +11,4 @@
 - pkg:nuget/Trax.Effect.Data.Postgres@1.33.0
 - pkg:nuget/Trax.Effect.Data.Postgres@1.34.0
 - pkg:nuget/Trax.Effect.Data.Postgres@1.37.0
+- pkg:nuget/Trax.Effect.Data.Postgres@1.41.1
