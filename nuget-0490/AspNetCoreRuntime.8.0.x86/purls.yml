@@ -21,6 +21,7 @@
 - pkg:nuget/AspNetCoreRuntime.8.0.x86@8.0.19
 - pkg:nuget/AspNetCoreRuntime.8.0.x86@8.0.2
 - pkg:nuget/AspNetCoreRuntime.8.0.x86@8.0.20
+- pkg:nuget/AspNetCoreRuntime.8.0.x86@8.0.29
 - pkg:nuget/AspNetCoreRuntime.8.0.x86@8.0.3
 - pkg:nuget/AspNetCoreRuntime.8.0.x86@8.0.4
 - pkg:nuget/AspNetCoreRuntime.8.0.x86@8.0.5
