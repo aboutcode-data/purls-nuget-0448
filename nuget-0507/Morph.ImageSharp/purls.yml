@@ -3,3 +3,5 @@
 - pkg:nuget/Morph.ImageSharp@0.5.3
 - pkg:nuget/Morph.ImageSharp@0.6.0
 - pkg:nuget/Morph.ImageSharp@0.7.0
+- pkg:nuget/Morph.ImageSharp@1.1.1
+- pkg:nuget/Morph.ImageSharp@1.1.2

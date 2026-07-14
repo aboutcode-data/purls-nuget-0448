@@ -1,1 +1,3 @@
 - pkg:nuget/XiansAi.Otel.Lib@1.0.0
+- pkg:nuget/XiansAi.Otel.Lib@3.30.0
+- pkg:nuget/XiansAi.Otel.Lib@3.33.0
