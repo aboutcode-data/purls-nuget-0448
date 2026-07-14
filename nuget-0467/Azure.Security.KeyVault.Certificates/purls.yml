@@ -10,6 +10,7 @@
 - pkg:nuget/Azure.Security.KeyVault.Certificates@4.1.0
 - pkg:nuget/Azure.Security.KeyVault.Certificates@4.1.0-preview.1
 - pkg:nuget/Azure.Security.KeyVault.Certificates@4.1.1
+- pkg:nuget/Azure.Security.KeyVault.Certificates@4.10.0-beta.2
 - pkg:nuget/Azure.Security.KeyVault.Certificates@4.2.0
 - pkg:nuget/Azure.Security.KeyVault.Certificates@4.2.0-beta.1
 - pkg:nuget/Azure.Security.KeyVault.Certificates@4.2.0-beta.2
