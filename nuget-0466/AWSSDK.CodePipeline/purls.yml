@@ -1243,6 +1243,7 @@
 - pkg:nuget/AWSSDK.CodePipeline@4.0.0.2
 - pkg:nuget/AWSSDK.CodePipeline@4.0.1
 - pkg:nuget/AWSSDK.CodePipeline@4.0.1.1
+- pkg:nuget/AWSSDK.CodePipeline@4.0.100.4
 - pkg:nuget/AWSSDK.CodePipeline@4.0.2
 - pkg:nuget/AWSSDK.CodePipeline@4.0.2.1
 - pkg:nuget/AWSSDK.CodePipeline@4.0.2.10
