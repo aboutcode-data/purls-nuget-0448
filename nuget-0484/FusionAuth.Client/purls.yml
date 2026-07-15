@@ -69,5 +69,6 @@
 - pkg:nuget/FusionAuth.Client@1.59.0
 - pkg:nuget/FusionAuth.Client@1.6.0
 - pkg:nuget/FusionAuth.Client@1.60.0
+- pkg:nuget/FusionAuth.Client@1.67.0
 - pkg:nuget/FusionAuth.Client@1.7.2
 - pkg:nuget/FusionAuth.Client@1.9.0
