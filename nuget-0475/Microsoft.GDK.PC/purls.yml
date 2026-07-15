@@ -7,3 +7,7 @@
 - pkg:nuget/Microsoft.GDK.PC@2504.1.4046
 - pkg:nuget/Microsoft.GDK.PC@2504.2.4061
 - pkg:nuget/Microsoft.GDK.PC@2504.3.4084
+- pkg:nuget/Microsoft.GDK.PC@2510.0.6194
+- pkg:nuget/Microsoft.GDK.PC@2510.1.6224
+- pkg:nuget/Microsoft.GDK.PC@2510.2.6247
+- pkg:nuget/Microsoft.GDK.PC@2510.3.6286
