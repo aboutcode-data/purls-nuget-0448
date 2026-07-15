@@ -41,3 +41,5 @@
 - pkg:nuget/AWSSDK.Extensions.CloudFront.Signers@4.0.0.8
 - pkg:nuget/AWSSDK.Extensions.CloudFront.Signers@4.0.0.9
 - pkg:nuget/AWSSDK.Extensions.CloudFront.Signers@4.0.1.12
+- pkg:nuget/AWSSDK.Extensions.CloudFront.Signers@4.0.100.1
+- pkg:nuget/AWSSDK.Extensions.CloudFront.Signers@4.0.100.4

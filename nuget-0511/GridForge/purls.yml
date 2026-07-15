@@ -16,3 +16,5 @@
 - pkg:nuget/GridForge@1.2.0
 - pkg:nuget/GridForge@1.3.0
 - pkg:nuget/GridForge@2.0.0
+- pkg:nuget/GridForge@7.0.0
+- pkg:nuget/GridForge@7.1.3
