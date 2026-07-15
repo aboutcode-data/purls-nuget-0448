@@ -1,0 +1,2 @@
+- pkg:nuget/Nexus.Pipeline.DependencyInjection@1.0.3
+- pkg:nuget/Nexus.Pipeline.DependencyInjection@2.0.0
