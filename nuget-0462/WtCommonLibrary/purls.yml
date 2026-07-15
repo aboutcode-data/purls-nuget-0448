@@ -1,3 +1,6 @@
+- pkg:nuget/WtCommonLibrary@10.2605.31201
+- pkg:nuget/WtCommonLibrary@10.2606.10101
+- pkg:nuget/WtCommonLibrary@10.2606.17197
 - pkg:nuget/WtCommonLibrary@9.0.0
 - pkg:nuget/WtCommonLibrary@9.0.1
 - pkg:nuget/WtCommonLibrary@9.0.2
