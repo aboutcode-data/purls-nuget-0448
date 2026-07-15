@@ -1,3 +1,6 @@
+- pkg:nuget/ZXing.Net.Maui.Controls@0.10.1
+- pkg:nuget/ZXing.Net.Maui.Controls@0.10.2
+- pkg:nuget/ZXing.Net.Maui.Controls@0.10.3
 - pkg:nuget/ZXing.Net.Maui.Controls@0.2.0-preview.2
 - pkg:nuget/ZXing.Net.Maui.Controls@0.3.0-preview.1
 - pkg:nuget/ZXing.Net.Maui.Controls@0.4.0
