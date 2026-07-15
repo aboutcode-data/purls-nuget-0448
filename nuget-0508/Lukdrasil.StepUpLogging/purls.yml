@@ -1,2 +1,5 @@
 - pkg:nuget/Lukdrasil.StepUpLogging@1.0.0
 - pkg:nuget/Lukdrasil.StepUpLogging@1.1.0
+- pkg:nuget/Lukdrasil.StepUpLogging@1.12.0
+- pkg:nuget/Lukdrasil.StepUpLogging@1.12.1
+- pkg:nuget/Lukdrasil.StepUpLogging@3.2.1
