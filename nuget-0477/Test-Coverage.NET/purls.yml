@@ -1,0 +1,5 @@
+- pkg:nuget/Test-Coverage.NET@1.0.1-ci.2
+- pkg:nuget/Test-Coverage.NET@1.0.1-ci.3
+- pkg:nuget/Test-Coverage.NET@1.0.2
+- pkg:nuget/Test-Coverage.NET@1.0.3-ci.1
+- pkg:nuget/Test-Coverage.NET@1.0.4
