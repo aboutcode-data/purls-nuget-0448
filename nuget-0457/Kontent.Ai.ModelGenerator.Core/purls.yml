@@ -1,3 +1,4 @@
+- pkg:nuget/Kontent.Ai.ModelGenerator.Core@10.3.0-beta-1
 - pkg:nuget/Kontent.Ai.ModelGenerator.Core@8.0.0
 - pkg:nuget/Kontent.Ai.ModelGenerator.Core@8.0.0-beta.1
 - pkg:nuget/Kontent.Ai.ModelGenerator.Core@8.0.0-beta.2
