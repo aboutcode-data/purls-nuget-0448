@@ -1,5 +1,9 @@
 - pkg:nuget/KardFinancial@1.0.0
 - pkg:nuget/KardFinancial@1.1.0
+- pkg:nuget/KardFinancial@11.0.0
+- pkg:nuget/KardFinancial@14.0.0
 - pkg:nuget/KardFinancial@3.0.0
 - pkg:nuget/KardFinancial@3.1.0
 - pkg:nuget/KardFinancial@3.2.0
+- pkg:nuget/KardFinancial@4.0.0
+- pkg:nuget/KardFinancial@9.0.0
