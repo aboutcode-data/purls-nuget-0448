@@ -90,3 +90,4 @@
 - pkg:nuget/GovUk.Frontend.AspNetCore@3.2.3
 - pkg:nuget/GovUk.Frontend.AspNetCore@3.3.0
 - pkg:nuget/GovUk.Frontend.AspNetCore@4.0.0%2Bbuild.23710355776.1
+- pkg:nuget/GovUk.Frontend.AspNetCore@4.2.1
