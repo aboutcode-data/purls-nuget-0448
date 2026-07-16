@@ -59,3 +59,4 @@
 - pkg:nuget/DataTables.MSBuild.Tasks@0.9.7
 - pkg:nuget/DataTables.MSBuild.Tasks@0.9.8
 - pkg:nuget/DataTables.MSBuild.Tasks@0.9.9
+- pkg:nuget/DataTables.MSBuild.Tasks@1.0.9
