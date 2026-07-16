@@ -186,5 +186,6 @@
 - pkg:nuget/EasyDotnet@3.4.10
 - pkg:nuget/EasyDotnet@3.4.11-alpha.1
 - pkg:nuget/EasyDotnet@3.4.11-alpha.2
+- pkg:nuget/EasyDotnet@3.4.12-alpha.1
 - pkg:nuget/EasyDotnet@3.4.3
 - pkg:nuget/EasyDotnet@3.4.7-alpha.2
