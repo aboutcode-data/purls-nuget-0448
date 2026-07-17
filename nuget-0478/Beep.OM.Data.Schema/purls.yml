@@ -15,6 +15,11 @@
 - pkg:nuget/Beep.OM.Data.Schema@1.0.1-build.10
 - pkg:nuget/Beep.OM.Data.Schema@1.0.1-build.16
 - pkg:nuget/Beep.OM.Data.Schema@1.0.1-build.2
+- pkg:nuget/Beep.OM.Data.Schema@1.0.1-build.32
+- pkg:nuget/Beep.OM.Data.Schema@1.0.1-build.33
+- pkg:nuget/Beep.OM.Data.Schema@1.0.1-build.34
+- pkg:nuget/Beep.OM.Data.Schema@1.0.1-build.35
+- pkg:nuget/Beep.OM.Data.Schema@1.0.1-build.36
 - pkg:nuget/Beep.OM.Data.Schema@1.0.1-build.6
 - pkg:nuget/Beep.OM.Data.Schema@1.0.1-build.8
 - pkg:nuget/Beep.OM.Data.Schema@1.0.1-build.9
