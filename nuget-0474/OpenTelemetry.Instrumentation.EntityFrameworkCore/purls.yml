@@ -13,3 +13,4 @@
 - pkg:nuget/OpenTelemetry.Instrumentation.EntityFrameworkCore@1.11.0-beta.2
 - pkg:nuget/OpenTelemetry.Instrumentation.EntityFrameworkCore@1.12.0-beta.1
 - pkg:nuget/OpenTelemetry.Instrumentation.EntityFrameworkCore@1.12.0-beta.2
+- pkg:nuget/OpenTelemetry.Instrumentation.EntityFrameworkCore@1.17.0-beta.1
