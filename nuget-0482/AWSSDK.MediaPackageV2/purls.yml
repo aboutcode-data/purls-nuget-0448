@@ -467,6 +467,7 @@
 - pkg:nuget/AWSSDK.MediaPackageV2@4.0.1.8
 - pkg:nuget/AWSSDK.MediaPackageV2@4.0.10.9
 - pkg:nuget/AWSSDK.MediaPackageV2@4.0.100.4
+- pkg:nuget/AWSSDK.MediaPackageV2@4.0.100.5
 - pkg:nuget/AWSSDK.MediaPackageV2@4.0.11.1
 - pkg:nuget/AWSSDK.MediaPackageV2@4.0.11.2
 - pkg:nuget/AWSSDK.MediaPackageV2@4.0.11.3
