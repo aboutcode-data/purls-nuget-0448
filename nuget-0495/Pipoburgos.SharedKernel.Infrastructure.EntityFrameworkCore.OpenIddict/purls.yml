@@ -1,5 +1,6 @@
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.EntityFrameworkCore.OpenIddict@10.0.7.2
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.EntityFrameworkCore.OpenIddict@10.0.8.2
+- pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.EntityFrameworkCore.OpenIddict@10.0.8.3
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.EntityFrameworkCore.OpenIddict@8.0.10.3
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.EntityFrameworkCore.OpenIddict@9.0.0.1
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.EntityFrameworkCore.OpenIddict@9.0.0.2
