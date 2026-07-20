@@ -1,3 +1,4 @@
+- pkg:nuget/Lombiq.Hosting.Tenants.FeaturesGuard.Tests.UI@10.0.0
 - pkg:nuget/Lombiq.Hosting.Tenants.FeaturesGuard.Tests.UI@2.2.1-alpha.osoe-46.6
 - pkg:nuget/Lombiq.Hosting.Tenants.FeaturesGuard.Tests.UI@2.2.2-alpha.nest-282.17
 - pkg:nuget/Lombiq.Hosting.Tenants.FeaturesGuard.Tests.UI@2.2.2-alpha.nest-282.18
