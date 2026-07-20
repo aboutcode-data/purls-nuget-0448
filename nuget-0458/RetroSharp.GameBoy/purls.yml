@@ -30,4 +30,5 @@
 - pkg:nuget/RetroSharp.GameBoy@0.0.342
 - pkg:nuget/RetroSharp.GameBoy@0.0.345
 - pkg:nuget/RetroSharp.GameBoy@0.0.350
+- pkg:nuget/RetroSharp.GameBoy@0.0.360
 - pkg:nuget/RetroSharp.GameBoy@0.0.92
