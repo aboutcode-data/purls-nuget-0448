@@ -55,6 +55,7 @@
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Emails@4.0.159
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Emails@4.0.160
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Emails@4.0.164
+- pkg:nuget/Soenneker.AutoFaker.Overrides.Emails@4.0.184
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Emails@4.0.52
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Emails@4.0.61
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Emails@4.0.85
