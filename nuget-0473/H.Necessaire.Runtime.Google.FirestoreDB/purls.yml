@@ -83,3 +83,4 @@
 - pkg:nuget/H.Necessaire.Runtime.Google.FirestoreDB@3.4.2
 - pkg:nuget/H.Necessaire.Runtime.Google.FirestoreDB@3.4.5
 - pkg:nuget/H.Necessaire.Runtime.Google.FirestoreDB@3.4.8
+- pkg:nuget/H.Necessaire.Runtime.Google.FirestoreDB@3.5.0
