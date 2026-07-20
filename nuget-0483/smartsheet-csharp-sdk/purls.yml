@@ -39,3 +39,4 @@
 - pkg:nuget/smartsheet-csharp-sdk@6.1.0
 - pkg:nuget/smartsheet-csharp-sdk@6.2.0
 - pkg:nuget/smartsheet-csharp-sdk@6.5.0
+- pkg:nuget/smartsheet-csharp-sdk@7.3.0
