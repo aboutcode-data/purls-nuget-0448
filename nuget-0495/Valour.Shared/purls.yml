@@ -58,4 +58,5 @@
 - pkg:nuget/Valour.Shared@0.5.25
 - pkg:nuget/Valour.Shared@0.5.40
 - pkg:nuget/Valour.Shared@0.5.42
+- pkg:nuget/Valour.Shared@0.7.2
 - pkg:nuget/Valour.Shared@1.0.0
