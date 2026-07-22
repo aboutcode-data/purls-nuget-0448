@@ -461,6 +461,7 @@
 - pkg:nuget/Pulumi.F5BigIP@3.24.0-alpha.1782198151
 - pkg:nuget/Pulumi.F5BigIP@3.24.0-alpha.1782803035
 - pkg:nuget/Pulumi.F5BigIP@3.24.0-alpha.1783052988
+- pkg:nuget/Pulumi.F5BigIP@3.25.0-alpha.1784702540
 - pkg:nuget/Pulumi.F5BigIP@3.3.0
 - pkg:nuget/Pulumi.F5BigIP@3.3.0-alpha.1626097818%2B92b78c30
 - pkg:nuget/Pulumi.F5BigIP@3.4.0
