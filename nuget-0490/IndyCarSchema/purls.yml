@@ -29,3 +29,4 @@
 - pkg:nuget/IndyCarSchema@2.4.5-beta
 - pkg:nuget/IndyCarSchema@2.4.6
 - pkg:nuget/IndyCarSchema@2.4.7
+- pkg:nuget/IndyCarSchema@2.5.0
