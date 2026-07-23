@@ -9,6 +9,7 @@
 - pkg:nuget/Plex.Extensions.DbContext@8.0.19
 - pkg:nuget/Plex.Extensions.DbContext@8.0.20
 - pkg:nuget/Plex.Extensions.DbContext@8.0.21
+- pkg:nuget/Plex.Extensions.DbContext@8.0.23
 - pkg:nuget/Plex.Extensions.DbContext@8.0.3
 - pkg:nuget/Plex.Extensions.DbContext@8.0.6
 - pkg:nuget/Plex.Extensions.DbContext@8.0.7
