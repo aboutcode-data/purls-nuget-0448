@@ -36,3 +36,6 @@
 - pkg:nuget/CodeName399Repository@1.1.5
 - pkg:nuget/CodeName399Repository@1.1.6
 - pkg:nuget/CodeName399Repository@1.1.7
+- pkg:nuget/CodeName399Repository@2.0.0
+- pkg:nuget/CodeName399Repository@2.0.2
+- pkg:nuget/CodeName399Repository@3.2.0
