@@ -15,3 +15,6 @@
 - pkg:nuget/Soenneker.Fastly.OpenApiClientUtil@4.0.7
 - pkg:nuget/Soenneker.Fastly.OpenApiClientUtil@4.0.79
 - pkg:nuget/Soenneker.Fastly.OpenApiClientUtil@4.0.8
+- pkg:nuget/Soenneker.Fastly.OpenApiClientUtil@4.0.88
+- pkg:nuget/Soenneker.Fastly.OpenApiClientUtil@4.0.91
+- pkg:nuget/Soenneker.Fastly.OpenApiClientUtil@4.0.96

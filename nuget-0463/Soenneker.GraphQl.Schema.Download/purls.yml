@@ -1,4 +1,8 @@
 - pkg:nuget/Soenneker.GraphQl.Schema.Download@4.0.15
+- pkg:nuget/Soenneker.GraphQl.Schema.Download@4.0.17
+- pkg:nuget/Soenneker.GraphQl.Schema.Download@4.0.19
+- pkg:nuget/Soenneker.GraphQl.Schema.Download@4.0.21
+- pkg:nuget/Soenneker.GraphQl.Schema.Download@4.0.29
 - pkg:nuget/Soenneker.GraphQl.Schema.Download@4.0.3
 - pkg:nuget/Soenneker.GraphQl.Schema.Download@4.0.6
 - pkg:nuget/Soenneker.GraphQl.Schema.Download@4.0.7
