@@ -1,3 +1,10 @@
 - pkg:nuget/Vion.Contracts@0.10.0
+- pkg:nuget/Vion.Contracts@0.11.0
+- pkg:nuget/Vion.Contracts@0.15.0
 - pkg:nuget/Vion.Contracts@0.6.0
 - pkg:nuget/Vion.Contracts@0.7.1
+- pkg:nuget/Vion.Contracts@3.3.1
+- pkg:nuget/Vion.Contracts@3.4.0
+- pkg:nuget/Vion.Contracts@3.7.0
+- pkg:nuget/Vion.Contracts@5.0.0
+- pkg:nuget/Vion.Contracts@6.0.0
