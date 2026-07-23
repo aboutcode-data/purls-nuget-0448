@@ -42,3 +42,6 @@
 - pkg:nuget/Konfidence.BaseClasses@2025.0.9
 - pkg:nuget/Konfidence.BaseClasses@2026.1.4
 - pkg:nuget/Konfidence.BaseClasses@2026.1.6
+- pkg:nuget/Konfidence.BaseClasses@2026.3.10
+- pkg:nuget/Konfidence.BaseClasses@2026.3.8
+- pkg:nuget/Konfidence.BaseClasses@2026.3.9
