@@ -1,2 +1,5 @@
+- pkg:nuget/DevExpress.Web.Visualization.es@25.1.12
 - pkg:nuget/DevExpress.Web.Visualization.es@25.1.6
 - pkg:nuget/DevExpress.Web.Visualization.es@25.1.9
+- pkg:nuget/DevExpress.Web.Visualization.es@25.2.8
+- pkg:nuget/DevExpress.Web.Visualization.es@26.1.2-beta
