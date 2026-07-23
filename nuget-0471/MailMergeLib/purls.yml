@@ -7,6 +7,7 @@
 - pkg:nuget/MailMergeLib@5.12.1
 - pkg:nuget/MailMergeLib@5.12.2
 - pkg:nuget/MailMergeLib@5.12.3
+- pkg:nuget/MailMergeLib@5.16.0
 - pkg:nuget/MailMergeLib@5.2.0
 - pkg:nuget/MailMergeLib@5.2.0.1
 - pkg:nuget/MailMergeLib@5.3.0
