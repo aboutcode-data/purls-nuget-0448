@@ -1,2 +1,3 @@
 - pkg:nuget/Gravity.Dsl.Emitter.CSharp@0.1.0-alpha2
 - pkg:nuget/Gravity.Dsl.Emitter.CSharp@0.1.0-alpha4
+- pkg:nuget/Gravity.Dsl.Emitter.CSharp@0.4.0
