@@ -1,2 +1,8 @@
 - pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.Google@8.7.1
 - pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.Google@8.8.0
+- pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.Google@9.0.2
+- pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.Google@9.0.3
+- pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.Google@9.0.5
+- pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.Google@9.0.6
+- pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.Google@9.0.7
+- pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.Google@9.0.8
