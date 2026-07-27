@@ -7,3 +7,4 @@
 - pkg:nuget/Dekaf.OpenTelemetry@0.0.1-ci.1948
 - pkg:nuget/Dekaf.OpenTelemetry@0.0.1-ci.2216
 - pkg:nuget/Dekaf.OpenTelemetry@1.4.0
+- pkg:nuget/Dekaf.OpenTelemetry@1.9.1
