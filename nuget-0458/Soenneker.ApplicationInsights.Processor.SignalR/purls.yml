@@ -373,3 +373,5 @@
 - pkg:nuget/Soenneker.ApplicationInsights.Processor.SignalR@3.0.99
 - pkg:nuget/Soenneker.ApplicationInsights.Processor.SignalR@4.0.387
 - pkg:nuget/Soenneker.ApplicationInsights.Processor.SignalR@4.0.395
+- pkg:nuget/Soenneker.ApplicationInsights.Processor.SignalR@4.0.399
+- pkg:nuget/Soenneker.ApplicationInsights.Processor.SignalR@4.0.400
