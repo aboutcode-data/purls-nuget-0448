@@ -110,3 +110,4 @@
 - pkg:nuget/Managed.System.Drawing@4.0.8
 - pkg:nuget/Managed.System.Drawing@4.1.0
 - pkg:nuget/Managed.System.Drawing@4.1.0-beta.44
+- pkg:nuget/Managed.System.Drawing@4.1.1-preview.4
