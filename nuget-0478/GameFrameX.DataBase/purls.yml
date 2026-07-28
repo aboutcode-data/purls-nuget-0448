@@ -17,6 +17,7 @@
 - pkg:nuget/GameFrameX.DataBase@1.1.1-beta9
 - pkg:nuget/GameFrameX.DataBase@1.10.1
 - pkg:nuget/GameFrameX.DataBase@1.11.0
+- pkg:nuget/GameFrameX.DataBase@1.13.1
 - pkg:nuget/GameFrameX.DataBase@1.2.0-beta1
 - pkg:nuget/GameFrameX.DataBase@1.2.0-beta10
 - pkg:nuget/GameFrameX.DataBase@1.2.0-beta11
