@@ -532,6 +532,7 @@
 - pkg:nuget/Soenneker.Zelos.Repository@3.0.97
 - pkg:nuget/Soenneker.Zelos.Repository@3.0.98
 - pkg:nuget/Soenneker.Zelos.Repository@3.0.99
+- pkg:nuget/Soenneker.Zelos.Repository@4.0.1009
 - pkg:nuget/Soenneker.Zelos.Repository@4.0.561
 - pkg:nuget/Soenneker.Zelos.Repository@4.0.565
 - pkg:nuget/Soenneker.Zelos.Repository@4.0.566
