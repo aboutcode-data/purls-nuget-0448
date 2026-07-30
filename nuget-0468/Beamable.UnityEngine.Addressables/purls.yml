@@ -694,6 +694,7 @@
 - pkg:nuget/Beamable.UnityEngine.Addressables@0.0.0-PREVIEW.NIGHTLY-202507162005
 - pkg:nuget/Beamable.UnityEngine.Addressables@0.0.0-PREVIEW.NIGHTLY-202508062000
 - pkg:nuget/Beamable.UnityEngine.Addressables@0.0.0-PREVIEW.NIGHTLY-202510010001
+- pkg:nuget/Beamable.UnityEngine.Addressables@0.0.0-PREVIEW.NIGHTLY-202607301355
 - pkg:nuget/Beamable.UnityEngine.Addressables@1.19.16
 - pkg:nuget/Beamable.UnityEngine.Addressables@1.19.16-PREVIEW.RC2
 - pkg:nuget/Beamable.UnityEngine.Addressables@1.19.17
