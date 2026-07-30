@@ -43,3 +43,4 @@
 - pkg:nuget/Microi.MongoDB@6.5.4
 - pkg:nuget/Microi.MongoDB@6.5.9
 - pkg:nuget/Microi.MongoDB@6.6.2
+- pkg:nuget/Microi.MongoDB@6.8.6
