@@ -66,3 +66,4 @@
 - pkg:nuget/UBIK.UCF@4.9.0-alpha1
 - pkg:nuget/UBIK.UCF@4.9.1
 - pkg:nuget/UBIK.UCF@5.0.0-alpha
+- pkg:nuget/UBIK.UCF@5.2.0
