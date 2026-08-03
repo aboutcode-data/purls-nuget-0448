@@ -3,4 +3,5 @@
 - pkg:nuget/DevExpress.ExpressApp.Security.AspNetCore.ja@25.1.13
 - pkg:nuget/DevExpress.ExpressApp.Security.AspNetCore.ja@25.1.8
 - pkg:nuget/DevExpress.ExpressApp.Security.AspNetCore.ja@25.1.9
+- pkg:nuget/DevExpress.ExpressApp.Security.AspNetCore.ja@25.2.9
 - pkg:nuget/DevExpress.ExpressApp.Security.AspNetCore.ja@26.1.2-beta
