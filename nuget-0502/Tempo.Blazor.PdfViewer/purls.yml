@@ -9,3 +9,4 @@
 - pkg:nuget/Tempo.Blazor.PdfViewer@2.5.3-ci-20260721185803
 - pkg:nuget/Tempo.Blazor.PdfViewer@2.7.1
 - pkg:nuget/Tempo.Blazor.PdfViewer@2.8.0
+- pkg:nuget/Tempo.Blazor.PdfViewer@2.8.7
