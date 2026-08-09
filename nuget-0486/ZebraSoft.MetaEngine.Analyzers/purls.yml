@@ -1,1 +1,5 @@
 - pkg:nuget/ZebraSoft.MetaEngine.Analyzers@1.0.0.14
+- pkg:nuget/ZebraSoft.MetaEngine.Analyzers@2.0.0.20
+- pkg:nuget/ZebraSoft.MetaEngine.Analyzers@2.0.0.25
+- pkg:nuget/ZebraSoft.MetaEngine.Analyzers@2.0.0.34
+- pkg:nuget/ZebraSoft.MetaEngine.Analyzers@2.0.0.38
