@@ -13,3 +13,9 @@
 - pkg:nuget/XMLDoc2Markdown@3.1.0
 - pkg:nuget/XMLDoc2Markdown@4.0.0
 - pkg:nuget/XMLDoc2Markdown@5.0.0
+- pkg:nuget/XMLDoc2Markdown@5.0.1-PullRequest46.16
+- pkg:nuget/XMLDoc2Markdown@5.0.1-PullRequest46.32
+- pkg:nuget/XMLDoc2Markdown@5.0.1-PullRequest46.48
+- pkg:nuget/XMLDoc2Markdown@5.0.1-PullRequest46.65
+- pkg:nuget/XMLDoc2Markdown@6.0.0
+- pkg:nuget/XMLDoc2Markdown@6.0.0-PullRequest46.19
