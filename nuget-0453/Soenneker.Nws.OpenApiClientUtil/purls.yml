@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Nws.OpenApiClientUtil@4.0.101
 - pkg:nuget/Soenneker.Nws.OpenApiClientUtil@4.0.102
 - pkg:nuget/Soenneker.Nws.OpenApiClientUtil@4.0.115
+- pkg:nuget/Soenneker.Nws.OpenApiClientUtil@4.0.116
 - pkg:nuget/Soenneker.Nws.OpenApiClientUtil@4.0.12
 - pkg:nuget/Soenneker.Nws.OpenApiClientUtil@4.0.13
 - pkg:nuget/Soenneker.Nws.OpenApiClientUtil@4.0.36
