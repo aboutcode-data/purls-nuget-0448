@@ -46,6 +46,7 @@
 - pkg:nuget/OCI.DotNetSDK.Emaildataplane@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Emaildataplane@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Emaildataplane@140.0.0
+- pkg:nuget/OCI.DotNetSDK.Emaildataplane@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Emaildataplane@84.0.0
 - pkg:nuget/OCI.DotNetSDK.Emaildataplane@85.0.0
 - pkg:nuget/OCI.DotNetSDK.Emaildataplane@85.1.0

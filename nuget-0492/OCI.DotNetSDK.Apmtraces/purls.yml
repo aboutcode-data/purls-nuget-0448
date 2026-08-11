@@ -45,6 +45,7 @@
 - pkg:nuget/OCI.DotNetSDK.Apmtraces@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Apmtraces@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Apmtraces@140.0.0
+- pkg:nuget/OCI.DotNetSDK.Apmtraces@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Apmtraces@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Apmtraces@15.2.0
 - pkg:nuget/OCI.DotNetSDK.Apmtraces@16.0.0
