@@ -94,3 +94,4 @@
 - pkg:nuget/XiHan.Framework.Caching@2.3.3-preview.2
 - pkg:nuget/XiHan.Framework.Caching@2.3.5
 - pkg:nuget/XiHan.Framework.Caching@3.10.0
+- pkg:nuget/XiHan.Framework.Caching@3.11.1
