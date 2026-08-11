@@ -20,6 +20,7 @@
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Word@10.0.2.5
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Word@10.0.2.52
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Word@10.0.2.6
+- pkg:nuget/OnBarcode.Barcode.Generator.Document.Word@10.0.2.63
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Word@10.0.2.7
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Word@10.0.2.8
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Word@10.0.2.9
