@@ -132,6 +132,7 @@
 - pkg:nuget/Microsoft.Windows.Compatibility@9.0.0-rc.1.24452.1
 - pkg:nuget/Microsoft.Windows.Compatibility@9.0.0-rc.2.24474.4
 - pkg:nuget/Microsoft.Windows.Compatibility@9.0.1
+- pkg:nuget/Microsoft.Windows.Compatibility@9.0.19
 - pkg:nuget/Microsoft.Windows.Compatibility@9.0.2
 - pkg:nuget/Microsoft.Windows.Compatibility@9.0.3
 - pkg:nuget/Microsoft.Windows.Compatibility@9.0.4
