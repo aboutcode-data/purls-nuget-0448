@@ -10,6 +10,7 @@
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.Json@1.1.0-preview3-35497
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.Json@1.2.0
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.Json@1.2.10
+- pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.Json@1.2.12
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.Json@10.0.0-preview.1.25120.3
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.Json@10.0.0-preview.2.25164.1
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.Json@10.0.0-preview.3.25172.1
@@ -216,6 +217,7 @@
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.Json@9.0.12
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.Json@9.0.14
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.Json@9.0.16
+- pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.Json@9.0.19
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.Json@9.0.2
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.Json@9.0.3
 - pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.Json@9.0.4
