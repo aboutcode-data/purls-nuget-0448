@@ -15,3 +15,5 @@
 - pkg:nuget/PaddleOCRSDK@2.1.1
 - pkg:nuget/PaddleOCRSDK@3.1.0
 - pkg:nuget/PaddleOCRSDK@4.4.0
+- pkg:nuget/PaddleOCRSDK@4.5.2
+- pkg:nuget/PaddleOCRSDK@4.5.3-beta01
