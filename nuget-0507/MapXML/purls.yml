@@ -2,3 +2,5 @@
 - pkg:nuget/MapXML@0.2.0-Beta
 - pkg:nuget/MapXML@0.5.3-Beta
 - pkg:nuget/MapXML@0.5.3-Beta-debug
+- pkg:nuget/MapXML@0.5.7-Beta
+- pkg:nuget/MapXML@0.5.7-Beta-debug
