@@ -1,5 +1,6 @@
 - pkg:nuget/Milvasoft.Components.Swagger@10.0.0
 - pkg:nuget/Milvasoft.Components.Swagger@10.1.3
+- pkg:nuget/Milvasoft.Components.Swagger@10.2.0
 - pkg:nuget/Milvasoft.Components.Swagger@8.1.0
 - pkg:nuget/Milvasoft.Components.Swagger@8.1.1
 - pkg:nuget/Milvasoft.Components.Swagger@8.1.10
