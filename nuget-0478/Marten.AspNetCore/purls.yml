@@ -187,6 +187,7 @@
 - pkg:nuget/Marten.AspNetCore@9.12.0-alpha.1
 - pkg:nuget/Marten.AspNetCore@9.17.1
 - pkg:nuget/Marten.AspNetCore@9.22.1
+- pkg:nuget/Marten.AspNetCore@9.23.0
 - pkg:nuget/Marten.AspNetCore@9.4.0
 - pkg:nuget/Marten.AspNetCore@9.5.0
 - pkg:nuget/Marten.AspNetCore@9.6.0
