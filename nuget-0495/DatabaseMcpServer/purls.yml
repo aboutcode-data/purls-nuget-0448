@@ -2,3 +2,5 @@
 - pkg:nuget/DatabaseMcpServer@2.0.6
 - pkg:nuget/DatabaseMcpServer@2.0.8
 - pkg:nuget/DatabaseMcpServer@2.1.1
+- pkg:nuget/DatabaseMcpServer@3.0.0
+- pkg:nuget/DatabaseMcpServer@3.6.0
