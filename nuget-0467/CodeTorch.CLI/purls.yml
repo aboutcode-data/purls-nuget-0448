@@ -6,6 +6,9 @@
 - pkg:nuget/CodeTorch.CLI@7.1.120
 - pkg:nuget/CodeTorch.CLI@7.1.128
 - pkg:nuget/CodeTorch.CLI@7.1.14
+- pkg:nuget/CodeTorch.CLI@7.1.141
+- pkg:nuget/CodeTorch.CLI@7.1.152
+- pkg:nuget/CodeTorch.CLI@7.1.164
 - pkg:nuget/CodeTorch.CLI@7.1.18
 - pkg:nuget/CodeTorch.CLI@7.1.20
 - pkg:nuget/CodeTorch.CLI@7.1.22
