@@ -4,6 +4,7 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@1.10.7198
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@1.12.7983
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@1.13.198
+- pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@1.13.421
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@1.7.0
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@1.8.0
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@1.9.5973
@@ -16,6 +17,7 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@2.3.7198
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@2.5.7983
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@2.6.198
+- pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@2.6.421
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@3.0.5973
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@3.0.6418
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@3.0.6818
@@ -25,3 +27,4 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@3.1.7198
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@3.3.7983
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@3.4.198
+- pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core@3.4.421

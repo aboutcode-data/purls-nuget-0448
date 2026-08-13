@@ -9,3 +9,4 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Server.Engineering@22.0.7791
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Server.Engineering@22.0.7983
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Server.Engineering@23.0.198
+- pkg:nuget/Beckhoff.TwinCAT.HMI.Server.Engineering@23.0.421
