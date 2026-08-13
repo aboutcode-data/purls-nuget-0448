@@ -26,6 +26,7 @@
 - pkg:nuget/Microsoft.OpenApi.YamlReader@2.7.2
 - pkg:nuget/Microsoft.OpenApi.YamlReader@2.7.3
 - pkg:nuget/Microsoft.OpenApi.YamlReader@3.1.1
+- pkg:nuget/Microsoft.OpenApi.YamlReader@3.10.0
 - pkg:nuget/Microsoft.OpenApi.YamlReader@3.2.0
 - pkg:nuget/Microsoft.OpenApi.YamlReader@3.5.1
 - pkg:nuget/Microsoft.OpenApi.YamlReader@3.5.2
