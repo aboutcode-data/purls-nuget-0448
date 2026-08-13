@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Maf.Pool.Mistral@4.0.110
+- pkg:nuget/Soenneker.Maf.Pool.Mistral@4.0.123
 - pkg:nuget/Soenneker.Maf.Pool.Mistral@4.0.16
 - pkg:nuget/Soenneker.Maf.Pool.Mistral@4.0.21
 - pkg:nuget/Soenneker.Maf.Pool.Mistral@4.0.23
