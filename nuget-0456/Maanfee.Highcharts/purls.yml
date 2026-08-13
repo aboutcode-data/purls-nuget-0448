@@ -23,6 +23,8 @@
 - pkg:nuget/Maanfee.Highcharts@1.24.0
 - pkg:nuget/Maanfee.Highcharts@1.25.0
 - pkg:nuget/Maanfee.Highcharts@1.3.0
+- pkg:nuget/Maanfee.Highcharts@1.32.0
 - pkg:nuget/Maanfee.Highcharts@1.4.0
 - pkg:nuget/Maanfee.Highcharts@1.5.0
 - pkg:nuget/Maanfee.Highcharts@1.8.0
+- pkg:nuget/Maanfee.Highcharts@2.0.0
