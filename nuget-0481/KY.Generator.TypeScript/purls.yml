@@ -8,6 +8,7 @@
 - pkg:nuget/KY.Generator.TypeScript@1.0.0
 - pkg:nuget/KY.Generator.TypeScript@1.2.0
 - pkg:nuget/KY.Generator.TypeScript@10.0.0-preview.15
+- pkg:nuget/KY.Generator.TypeScript@10.1.0
 - pkg:nuget/KY.Generator.TypeScript@2.0.0
 - pkg:nuget/KY.Generator.TypeScript@2.2.0
 - pkg:nuget/KY.Generator.TypeScript@2.3.0
