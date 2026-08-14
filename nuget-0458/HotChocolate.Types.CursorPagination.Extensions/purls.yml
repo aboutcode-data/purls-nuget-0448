@@ -260,3 +260,4 @@
 - pkg:nuget/HotChocolate.Types.CursorPagination.Extensions@16.6.0-p.7
 - pkg:nuget/HotChocolate.Types.CursorPagination.Extensions@16.6.0-p.8
 - pkg:nuget/HotChocolate.Types.CursorPagination.Extensions@16.6.0-p.9
+- pkg:nuget/HotChocolate.Types.CursorPagination.Extensions@16.6.1-p.3
