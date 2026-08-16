@@ -31,6 +31,7 @@
 - pkg:nuget/YeeKeeOAuth@1.1.27
 - pkg:nuget/YeeKeeOAuth@1.1.3
 - pkg:nuget/YeeKeeOAuth@1.1.4
+- pkg:nuget/YeeKeeOAuth@1.1.41
 - pkg:nuget/YeeKeeOAuth@1.1.5
 - pkg:nuget/YeeKeeOAuth@1.1.6
 - pkg:nuget/YeeKeeOAuth@1.1.7
