@@ -1,2 +1,4 @@
+- pkg:nuget/Nutanix.HelloWorld@0.1.0-20260513.233736.rc
 - pkg:nuget/Nutanix.HelloWorld@0.1.0-20260514.4900.rc
+- pkg:nuget/Nutanix.HelloWorld@0.1.0-beta.1
 - pkg:nuget/Nutanix.HelloWorld@0.1.0-rc.20260512204425
