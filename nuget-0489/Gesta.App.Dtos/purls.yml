@@ -82,6 +82,7 @@
 - pkg:nuget/Gesta.App.Dtos@1.0.16.7-dev
 - pkg:nuget/Gesta.App.Dtos@1.0.16.8-dev
 - pkg:nuget/Gesta.App.Dtos@1.0.16.9-dev
+- pkg:nuget/Gesta.App.Dtos@1.0.163.197-dev
 - pkg:nuget/Gesta.App.Dtos@1.0.17.12
 - pkg:nuget/Gesta.App.Dtos@1.0.17.13-dev
 - pkg:nuget/Gesta.App.Dtos@1.0.18.12
