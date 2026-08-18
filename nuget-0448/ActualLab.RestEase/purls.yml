@@ -99,6 +99,8 @@
 - pkg:nuget/ActualLab.RestEase@14.2.41
 - pkg:nuget/ActualLab.RestEase@14.3.10
 - pkg:nuget/ActualLab.RestEase@14.3.11
+- pkg:nuget/ActualLab.RestEase@14.3.26
+- pkg:nuget/ActualLab.RestEase@14.3.29
 - pkg:nuget/ActualLab.RestEase@14.3.4
 - pkg:nuget/ActualLab.RestEase@14.3.8
 - pkg:nuget/ActualLab.RestEase@7.0.10
