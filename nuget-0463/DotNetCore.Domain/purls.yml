@@ -333,3 +333,5 @@
 - pkg:nuget/DotNetCore.Domain@19.6.0
 - pkg:nuget/DotNetCore.Domain@19.7.0
 - pkg:nuget/DotNetCore.Domain@19.8.0
+- pkg:nuget/DotNetCore.Domain@20.22.0
+- pkg:nuget/DotNetCore.Domain@20.23.0
