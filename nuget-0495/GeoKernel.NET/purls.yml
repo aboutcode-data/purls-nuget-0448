@@ -8,3 +8,6 @@
 - pkg:nuget/GeoKernel.NET@1.1.48
 - pkg:nuget/GeoKernel.NET@1.1.49
 - pkg:nuget/GeoKernel.NET@1.1.55
+- pkg:nuget/GeoKernel.NET@1.2.8
+- pkg:nuget/GeoKernel.NET@1.3.2
+- pkg:nuget/GeoKernel.NET@1.3.8
