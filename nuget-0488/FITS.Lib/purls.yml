@@ -1,3 +1,4 @@
 - pkg:nuget/FITS.Lib@1.1.7
 - pkg:nuget/FITS.Lib@4.1.0
 - pkg:nuget/FITS.Lib@4.6.341%2Bbd6e0c7aa585369ee4d1c9510d09508c3a7dd8dc
+- pkg:nuget/FITS.Lib@5.0.381%2B0c2bc9333e34717f679b97f7daf6969db7a57308
