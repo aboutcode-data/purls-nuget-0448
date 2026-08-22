@@ -1,5 +1,6 @@
 - pkg:nuget/StockSharp.Localization.my@5.0.0
 - pkg:nuget/StockSharp.Localization.my@5.0.1
+- pkg:nuget/StockSharp.Localization.my@5.0.13
 - pkg:nuget/StockSharp.Localization.my@5.0.2
 - pkg:nuget/StockSharp.Localization.my@5.0.3
 - pkg:nuget/StockSharp.Localization.my@5.0.4
