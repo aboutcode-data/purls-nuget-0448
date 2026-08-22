@@ -244,3 +244,6 @@
 - pkg:nuget/OpenRewrite.CSharp.Tool@8.91.0-snapshot.20260818112350
 - pkg:nuget/OpenRewrite.CSharp.Tool@8.91.0-snapshot.20260819180639
 - pkg:nuget/OpenRewrite.CSharp.Tool@8.91.0-snapshot.20260821145702
+- pkg:nuget/OpenRewrite.CSharp.Tool@8.91.0-snapshot.20260822135224
+- pkg:nuget/OpenRewrite.CSharp.Tool@8.91.0-snapshot.20260822174203
+- pkg:nuget/OpenRewrite.CSharp.Tool@8.91.0-snapshot.20260822174539
