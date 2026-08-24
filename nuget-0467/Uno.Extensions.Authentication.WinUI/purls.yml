@@ -566,4 +566,5 @@
 - pkg:nuget/Uno.Extensions.Authentication.WinUI@7.2.0-dev.91
 - pkg:nuget/Uno.Extensions.Authentication.WinUI@7.3.0-dev.39
 - pkg:nuget/Uno.Extensions.Authentication.WinUI@7.3.0-dev.94
+- pkg:nuget/Uno.Extensions.Authentication.WinUI@7.4.0-dev.14
 - pkg:nuget/Uno.Extensions.Authentication.WinUI@7.4.0-dev.3
