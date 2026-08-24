@@ -23,6 +23,7 @@
 - pkg:nuget/Zebble.Billing.Server.Voucher.EntityFramework@1.0.3
 - pkg:nuget/Zebble.Billing.Server.Voucher.EntityFramework@1.0.30
 - pkg:nuget/Zebble.Billing.Server.Voucher.EntityFramework@1.0.31
+- pkg:nuget/Zebble.Billing.Server.Voucher.EntityFramework@1.0.34.1
 - pkg:nuget/Zebble.Billing.Server.Voucher.EntityFramework@1.0.4
 - pkg:nuget/Zebble.Billing.Server.Voucher.EntityFramework@1.0.5
 - pkg:nuget/Zebble.Billing.Server.Voucher.EntityFramework@1.0.6
