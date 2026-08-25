@@ -128,3 +128,4 @@
 - pkg:nuget/fantomas@7.0.3
 - pkg:nuget/fantomas@8.0.0-alpha-004
 - pkg:nuget/fantomas@8.0.0-alpha-014
+- pkg:nuget/fantomas@8.0.0-alpha-016
