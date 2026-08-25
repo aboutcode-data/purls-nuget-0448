@@ -140,6 +140,7 @@
 - pkg:nuget/Particular.PlatformSample.ServiceControl@6.18.3
 - pkg:nuget/Particular.PlatformSample.ServiceControl@6.19.0
 - pkg:nuget/Particular.PlatformSample.ServiceControl@6.19.1
+- pkg:nuget/Particular.PlatformSample.ServiceControl@6.19.3
 - pkg:nuget/Particular.PlatformSample.ServiceControl@6.2.0
 - pkg:nuget/Particular.PlatformSample.ServiceControl@6.2.1
 - pkg:nuget/Particular.PlatformSample.ServiceControl@6.3.0
