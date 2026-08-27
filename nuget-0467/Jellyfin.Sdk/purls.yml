@@ -1192,4 +1192,5 @@
 - pkg:nuget/Jellyfin.Sdk@2026.7.3-unstable.202607030426
 - pkg:nuget/Jellyfin.Sdk@2026.7.31-unstable.202607310401
 - pkg:nuget/Jellyfin.Sdk@2026.8.1-unstable.202608010401
+- pkg:nuget/Jellyfin.Sdk@2026.8.27-unstable.202608271010
 - pkg:nuget/Jellyfin.Sdk@2026.8.7-unstable.202608070330
