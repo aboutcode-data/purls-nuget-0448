@@ -483,6 +483,7 @@
 - pkg:nuget/SDI.API.Servicios.Base.Utilidades@4.8.1
 - pkg:nuget/SDI.API.Servicios.Base.Utilidades@4.9.1
 - pkg:nuget/SDI.API.Servicios.Base.Utilidades@4.9.2
+- pkg:nuget/SDI.API.Servicios.Base.Utilidades@40.1.1
 - pkg:nuget/SDI.API.Servicios.Base.Utilidades@5.10.1
 - pkg:nuget/SDI.API.Servicios.Base.Utilidades@5.10.2
 - pkg:nuget/SDI.API.Servicios.Base.Utilidades@5.7.1
