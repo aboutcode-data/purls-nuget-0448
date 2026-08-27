@@ -138,3 +138,4 @@
 - pkg:nuget/Vintasoft.Barcode.AspNetCore.ApiControllers@16.0.1.1
 - pkg:nuget/Vintasoft.Barcode.AspNetCore.ApiControllers@16.0.3.1
 - pkg:nuget/Vintasoft.Barcode.AspNetCore.ApiControllers@16.0.4.1
+- pkg:nuget/Vintasoft.Barcode.AspNetCore.ApiControllers@16.0.6.1
