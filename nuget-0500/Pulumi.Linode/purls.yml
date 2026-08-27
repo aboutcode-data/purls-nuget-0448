@@ -655,3 +655,4 @@
 - pkg:nuget/Pulumi.Linode@6.2.0-alpha.1785298500
 - pkg:nuget/Pulumi.Linode@6.3.0
 - pkg:nuget/Pulumi.Linode@6.3.0-alpha.1785989671
+- pkg:nuget/Pulumi.Linode@6.5.0-alpha.1787819273
