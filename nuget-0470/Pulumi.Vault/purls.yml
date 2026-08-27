@@ -491,6 +491,7 @@
 - pkg:nuget/Pulumi.Vault@7.11.1-alpha.1786463431
 - pkg:nuget/Pulumi.Vault@7.12.0-alpha.1784879006
 - pkg:nuget/Pulumi.Vault@7.12.0-alpha.1785224805
+- pkg:nuget/Pulumi.Vault@7.13.0-alpha.1787821769
 - pkg:nuget/Pulumi.Vault@7.2.0
 - pkg:nuget/Pulumi.Vault@7.2.0-alpha.1752734983
 - pkg:nuget/Pulumi.Vault@7.2.0-alpha.1752772407
