@@ -240,3 +240,5 @@
 - pkg:nuget/Pulumi.KubernetesIngressNginx@0.2.0-alpha.1786494629
 - pkg:nuget/Pulumi.KubernetesIngressNginx@0.2.0-alpha.1786658616
 - pkg:nuget/Pulumi.KubernetesIngressNginx@0.2.0-alpha.1787292678
+- pkg:nuget/Pulumi.KubernetesIngressNginx@0.2.0-alpha.1787819230
+- pkg:nuget/Pulumi.KubernetesIngressNginx@0.2.0-alpha.1787838895
