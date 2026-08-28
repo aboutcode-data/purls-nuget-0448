@@ -87,6 +87,8 @@
 - pkg:nuget/Picturepark.SDK.V1.AzureBlob@11.16.2-alpha-gf2fe920d53
 - pkg:nuget/Picturepark.SDK.V1.AzureBlob@11.16.3-alpha-gfc50d3f8a7
 - pkg:nuget/Picturepark.SDK.V1.AzureBlob@11.17.15-alpha-g92bb71e8b1
+- pkg:nuget/Picturepark.SDK.V1.AzureBlob@11.17.18-rc-g45ec7c15f1
+- pkg:nuget/Picturepark.SDK.V1.AzureBlob@11.18.4-alpha-g8ab870c9c4
 - pkg:nuget/Picturepark.SDK.V1.AzureBlob@11.9.13-alpha-g07a734cf8a
 - pkg:nuget/Picturepark.SDK.V1.AzureBlob@11.9.15-alpha-g879ffbb8ad
 - pkg:nuget/Picturepark.SDK.V1.AzureBlob@11.9.20-alpha-g8e4b8589a0
