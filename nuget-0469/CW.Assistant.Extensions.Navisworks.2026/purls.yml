@@ -1,4 +1,5 @@
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2026@26.10.0-PullRequest567.2
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2026@26.10.0-PullRequest569.4
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2026@26.7.0-PullRequest214.145
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2026@26.7.0-PullRequest214.152
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2026@26.7.0-PullRequest214.154
@@ -67,3 +68,4 @@
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2026@26.9.0-alpha.77
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2026@26.9.0-beta.77
 - pkg:nuget/CW.Assistant.Extensions.Navisworks.2026@26.9.0-beta.78
+- pkg:nuget/CW.Assistant.Extensions.Navisworks.2026@26.9.0-beta.79
