@@ -41,3 +41,5 @@
 - pkg:nuget/Soenneker.Responses.Entity@4.0.66
 - pkg:nuget/Soenneker.Responses.Entity@4.0.68
 - pkg:nuget/Soenneker.Responses.Entity@4.0.72
+- pkg:nuget/Soenneker.Responses.Entity@4.0.76
+- pkg:nuget/Soenneker.Responses.Entity@4.0.78
