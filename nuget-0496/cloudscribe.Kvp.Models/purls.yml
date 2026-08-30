@@ -1,5 +1,6 @@
 - pkg:nuget/cloudscribe.Kvp.Models@1.0.0
 - pkg:nuget/cloudscribe.Kvp.Models@1.0.1
+- pkg:nuget/cloudscribe.Kvp.Models@10.1.0
 - pkg:nuget/cloudscribe.Kvp.Models@3.0.0
 - pkg:nuget/cloudscribe.Kvp.Models@3.0.1
 - pkg:nuget/cloudscribe.Kvp.Models@3.0.2
