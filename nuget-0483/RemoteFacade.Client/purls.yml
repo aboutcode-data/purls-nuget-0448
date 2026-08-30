@@ -1,3 +1,5 @@
 - pkg:nuget/RemoteFacade.Client@2.0.0
 - pkg:nuget/RemoteFacade.Client@3.0.0
 - pkg:nuget/RemoteFacade.Client@3.2.0
+- pkg:nuget/RemoteFacade.Client@3.3.0
+- pkg:nuget/RemoteFacade.Client@3.3.1
