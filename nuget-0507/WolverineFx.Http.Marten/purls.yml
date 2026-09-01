@@ -143,4 +143,5 @@
 - pkg:nuget/WolverineFx.Http.Marten@6.29.0
 - pkg:nuget/WolverineFx.Http.Marten@6.3.1
 - pkg:nuget/WolverineFx.Http.Marten@6.30.1
+- pkg:nuget/WolverineFx.Http.Marten@6.32.0
 - pkg:nuget/WolverineFx.Http.Marten@6.7.0
