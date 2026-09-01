@@ -24,6 +24,7 @@
 - pkg:nuget/BinaryLibs.Utils@0.143.0
 - pkg:nuget/BinaryLibs.Utils@0.15.0
 - pkg:nuget/BinaryLibs.Utils@0.16.0
+- pkg:nuget/BinaryLibs.Utils@0.161.0
 - pkg:nuget/BinaryLibs.Utils@0.17.0
 - pkg:nuget/BinaryLibs.Utils@0.18.0
 - pkg:nuget/BinaryLibs.Utils@0.19.0
