@@ -20,6 +20,7 @@
 - pkg:nuget/SRBCommon@2023.180.29
 - pkg:nuget/SRBCommon@2023.180.32
 - pkg:nuget/SRBCommon@2023.180.33
+- pkg:nuget/SRBCommon@2023.180.44
 - pkg:nuget/SRBCommon@2023.180.5
 - pkg:nuget/SRBCommon@2023.180.6
 - pkg:nuget/SRBCommon@2023.180.7
