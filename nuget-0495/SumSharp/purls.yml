@@ -24,3 +24,5 @@
 - pkg:nuget/SumSharp@2.3.0-rc0019
 - pkg:nuget/SumSharp@2.3.0-rc0020
 - pkg:nuget/SumSharp@2.4.0-rc0022
+- pkg:nuget/SumSharp@2.4.0-rc0024
+- pkg:nuget/SumSharp@2.5.0-rc0031
