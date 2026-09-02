@@ -1,6 +1,7 @@
 - pkg:nuget/Sa.HybridFileStorage.FileSystem@0.0.2
 - pkg:nuget/Sa.HybridFileStorage.FileSystem@0.0.3
 - pkg:nuget/Sa.HybridFileStorage.FileSystem@0.1.0
+- pkg:nuget/Sa.HybridFileStorage.FileSystem@0.11.0
 - pkg:nuget/Sa.HybridFileStorage.FileSystem@0.7.0
 - pkg:nuget/Sa.HybridFileStorage.FileSystem@0.8.1
 - pkg:nuget/Sa.HybridFileStorage.FileSystem@0.8.2
