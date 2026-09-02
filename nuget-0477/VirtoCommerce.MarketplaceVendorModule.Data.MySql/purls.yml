@@ -6,6 +6,7 @@
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Data.MySql@3.1001.0-alpha.991
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Data.MySql@3.1001.0-alpha.993
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Data.MySql@3.1002.0-alpha.1010
+- pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Data.MySql@3.1002.0-alpha.1020
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Data.MySql@3.201.0
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Data.MySql@3.201.0-alpha.528
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Data.MySql@3.202.0
