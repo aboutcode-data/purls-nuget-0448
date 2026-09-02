@@ -9,3 +9,5 @@
 - pkg:nuget/FluentContracts@1.4.0
 - pkg:nuget/FluentContracts@2.0.0
 - pkg:nuget/FluentContracts@2.1.0
+- pkg:nuget/FluentContracts@3.6.0
+- pkg:nuget/FluentContracts@3.7.0
