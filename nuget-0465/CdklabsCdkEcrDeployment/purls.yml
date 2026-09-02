@@ -227,3 +227,5 @@
 - pkg:nuget/CdklabsCdkEcrDeployment@4.2.47
 - pkg:nuget/CdklabsCdkEcrDeployment@4.2.50
 - pkg:nuget/CdklabsCdkEcrDeployment@4.2.56
+- pkg:nuget/CdklabsCdkEcrDeployment@4.2.61
+- pkg:nuget/CdklabsCdkEcrDeployment@4.2.62
