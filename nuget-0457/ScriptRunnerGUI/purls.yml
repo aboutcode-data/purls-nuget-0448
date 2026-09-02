@@ -45,3 +45,5 @@
 - pkg:nuget/ScriptRunnerGUI@1.93.0
 - pkg:nuget/ScriptRunnerGUI@1.94.0
 - pkg:nuget/ScriptRunnerGUI@2026.1.118
+- pkg:nuget/ScriptRunnerGUI@2026.7.132
+- pkg:nuget/ScriptRunnerGUI@2026.7.134
