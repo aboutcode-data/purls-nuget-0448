@@ -1,3 +1,4 @@
 - pkg:nuget/Linn.Cloud.Common.Service.Lifecycle@1.0.0
 - pkg:nuget/Linn.Cloud.Common.Service.Lifecycle@1.0.1
 - pkg:nuget/Linn.Cloud.Common.Service.Lifecycle@1.2.3
+- pkg:nuget/Linn.Cloud.Common.Service.Lifecycle@2.0.0
