@@ -12,3 +12,4 @@
 - pkg:nuget/Azure.AI.Projects@2.0.0
 - pkg:nuget/Azure.AI.Projects@2.1.0-beta.1
 - pkg:nuget/Azure.AI.Projects@2.1.0-beta.2
+- pkg:nuget/Azure.AI.Projects@3.0.0-beta.1
