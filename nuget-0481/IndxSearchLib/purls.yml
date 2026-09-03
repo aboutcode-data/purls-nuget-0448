@@ -41,3 +41,5 @@
 - pkg:nuget/IndxSearchLib@4.1.0-rc1
 - pkg:nuget/IndxSearchLib@4.1.2
 - pkg:nuget/IndxSearchLib@5.0.0-alpha.20260603
+- pkg:nuget/IndxSearchLib@5.0.0-beta2
+- pkg:nuget/IndxSearchLib@5.0.0-beta4
