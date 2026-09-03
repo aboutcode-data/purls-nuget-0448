@@ -22,3 +22,7 @@
 - pkg:nuget/CitrusLime.CloudPos.ApiClient@2.0.0-CI-20250730-073317
 - pkg:nuget/CitrusLime.CloudPos.ApiClient@2.0.0-CI-20250730-082444
 - pkg:nuget/CitrusLime.CloudPos.ApiClient@2.0.0-CI-20250730-121353
+- pkg:nuget/CitrusLime.CloudPos.ApiClient@2.1.1-CI-20260724-084325
+- pkg:nuget/CitrusLime.CloudPos.ApiClient@2.1.1-CI-20260828-3
+- pkg:nuget/CitrusLime.CloudPos.ApiClient@2.1.1-CI-20260828-4
+- pkg:nuget/CitrusLime.CloudPos.ApiClient@2.1.1-CI-20260828-5
