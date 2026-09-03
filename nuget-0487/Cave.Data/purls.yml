@@ -135,3 +135,4 @@
 - pkg:nuget/Cave.Data@4.0.6-ci-master-20250831-0001
 - pkg:nuget/Cave.Data@4.0.8
 - pkg:nuget/Cave.Data@4.0.8-ci-master-20260421-0001
+- pkg:nuget/Cave.Data@4.0.9
