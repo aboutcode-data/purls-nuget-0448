@@ -20,6 +20,7 @@
 - pkg:nuget/Slang.Net@1.1.1-preview5
 - pkg:nuget/Slang.Net@1.1.1-preview6
 - pkg:nuget/Slang.Net@1.1.2
+- pkg:nuget/Slang.Net@10.0.0
 - pkg:nuget/Slang.Net@9.0.0
 - pkg:nuget/Slang.Net@9.0.1
 - pkg:nuget/Slang.Net@9.1.0
