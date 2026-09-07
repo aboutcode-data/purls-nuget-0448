@@ -1,1 +1,2 @@
 - pkg:nuget/Maple.Result.Extensions.AspNetCore@0.2.0
+- pkg:nuget/Maple.Result.Extensions.AspNetCore@0.9.0
