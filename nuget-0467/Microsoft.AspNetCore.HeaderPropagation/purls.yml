@@ -12,6 +12,7 @@
 - pkg:nuget/Microsoft.AspNetCore.HeaderPropagation@10.0.8
 - pkg:nuget/Microsoft.AspNetCore.HeaderPropagation@11.0.0-preview.2.26159.112
 - pkg:nuget/Microsoft.AspNetCore.HeaderPropagation@11.0.0-preview.4.26230.115
+- pkg:nuget/Microsoft.AspNetCore.HeaderPropagation@11.0.0-rc.1.26425.128
 - pkg:nuget/Microsoft.AspNetCore.HeaderPropagation@3.0.0
 - pkg:nuget/Microsoft.AspNetCore.HeaderPropagation@3.0.0-preview4-19216-03
 - pkg:nuget/Microsoft.AspNetCore.HeaderPropagation@3.0.0-preview5-19227-01
@@ -205,6 +206,7 @@
 - pkg:nuget/Microsoft.AspNetCore.HeaderPropagation@9.0.16
 - pkg:nuget/Microsoft.AspNetCore.HeaderPropagation@9.0.19
 - pkg:nuget/Microsoft.AspNetCore.HeaderPropagation@9.0.2
+- pkg:nuget/Microsoft.AspNetCore.HeaderPropagation@9.0.20
 - pkg:nuget/Microsoft.AspNetCore.HeaderPropagation@9.0.3
 - pkg:nuget/Microsoft.AspNetCore.HeaderPropagation@9.0.4
 - pkg:nuget/Microsoft.AspNetCore.HeaderPropagation@9.0.5
