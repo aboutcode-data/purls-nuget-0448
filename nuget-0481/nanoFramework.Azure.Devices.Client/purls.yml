@@ -194,6 +194,8 @@
 - pkg:nuget/nanoFramework.Azure.Devices.Client@1.2.10
 - pkg:nuget/nanoFramework.Azure.Devices.Client@1.2.107
 - pkg:nuget/nanoFramework.Azure.Devices.Client@1.2.12
+- pkg:nuget/nanoFramework.Azure.Devices.Client@1.2.121
+- pkg:nuget/nanoFramework.Azure.Devices.Client@1.2.122
 - pkg:nuget/nanoFramework.Azure.Devices.Client@1.2.14
 - pkg:nuget/nanoFramework.Azure.Devices.Client@1.2.16
 - pkg:nuget/nanoFramework.Azure.Devices.Client@1.2.21
