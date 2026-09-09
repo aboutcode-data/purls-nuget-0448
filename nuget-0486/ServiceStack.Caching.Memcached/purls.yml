@@ -1,4 +1,5 @@
 - pkg:nuget/ServiceStack.Caching.Memcached@10.0.0
+- pkg:nuget/ServiceStack.Caching.Memcached@10.2.0
 - pkg:nuget/ServiceStack.Caching.Memcached@3.8.0
 - pkg:nuget/ServiceStack.Caching.Memcached@3.8.2
 - pkg:nuget/ServiceStack.Caching.Memcached@3.9.2
