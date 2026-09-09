@@ -13,5 +13,6 @@
 - pkg:nuget/FluxIndex.Cache.Redis@0.27.3
 - pkg:nuget/FluxIndex.Cache.Redis@0.28.1
 - pkg:nuget/FluxIndex.Cache.Redis@0.30.0
+- pkg:nuget/FluxIndex.Cache.Redis@0.34.0
 - pkg:nuget/FluxIndex.Cache.Redis@0.5.8
 - pkg:nuget/FluxIndex.Cache.Redis@0.8.0
