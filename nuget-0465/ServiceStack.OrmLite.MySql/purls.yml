@@ -1,4 +1,5 @@
 - pkg:nuget/ServiceStack.OrmLite.MySql@10.0.0
+- pkg:nuget/ServiceStack.OrmLite.MySql@10.2.0
 - pkg:nuget/ServiceStack.OrmLite.MySql@3.4.2
 - pkg:nuget/ServiceStack.OrmLite.MySql@3.4.3
 - pkg:nuget/ServiceStack.OrmLite.MySql@3.4.4
