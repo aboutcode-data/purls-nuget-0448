@@ -283,3 +283,4 @@
 - pkg:nuget/Google.Apis.CloudResourceManager.v1@1.68.0.3356
 - pkg:nuget/Google.Apis.CloudResourceManager.v1@1.69.0.3713
 - pkg:nuget/Google.Apis.CloudResourceManager.v1@1.70.0.3809
+- pkg:nuget/Google.Apis.CloudResourceManager.v1@1.76.0.4249
