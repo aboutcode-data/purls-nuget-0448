@@ -26,3 +26,4 @@
 - pkg:nuget/OneTooX.Endpoints.Abstractions@25.2.6-prerelease-1372-eboksexpress
 - pkg:nuget/OneTooX.Endpoints.Abstractions@25.2.7-prerelease-1372-eboksexpress
 - pkg:nuget/OneTooX.Endpoints.Abstractions@25.2.9-prerelease-1372-eboksexpress
+- pkg:nuget/OneTooX.Endpoints.Abstractions@26.3.2
