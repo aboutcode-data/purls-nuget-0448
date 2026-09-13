@@ -12,3 +12,4 @@
 - pkg:nuget/SharperHacks.CoreLibs.Reflection@5.1.0%2Bbuilt.by.JwD.4a42407
 - pkg:nuget/SharperHacks.CoreLibs.Reflection@5.1.1%2B01f9713.2025.07.18.built.by.JwD
 - pkg:nuget/SharperHacks.CoreLibs.Reflection@5.1.4%2B2025.10.13.JwD.b9cba91
+- pkg:nuget/SharperHacks.CoreLibs.Reflection@6.0.0%2B2022.09.12.JwD.c1d0628
