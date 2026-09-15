@@ -5,3 +5,4 @@
 - pkg:nuget/MetaObjects@0.20.15
 - pkg:nuget/MetaObjects@0.22.1
 - pkg:nuget/MetaObjects@0.24.0
+- pkg:nuget/MetaObjects@1.0.4
