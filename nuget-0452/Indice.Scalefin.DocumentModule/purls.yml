@@ -53,6 +53,7 @@
 - pkg:nuget/Indice.Scalefin.DocumentModule@2.30.0
 - pkg:nuget/Indice.Scalefin.DocumentModule@2.32.0
 - pkg:nuget/Indice.Scalefin.DocumentModule@2.36.0
+- pkg:nuget/Indice.Scalefin.DocumentModule@2.39.2
 - pkg:nuget/Indice.Scalefin.DocumentModule@2.4.0
 - pkg:nuget/Indice.Scalefin.DocumentModule@2.4.1
 - pkg:nuget/Indice.Scalefin.DocumentModule@2.4.2
