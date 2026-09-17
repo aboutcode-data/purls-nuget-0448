@@ -1,7 +1,13 @@
 - pkg:nuget/Druware.Server.Content@1.0.0
 - pkg:nuget/Druware.Server.Content@1.0.1
 - pkg:nuget/Druware.Server.Content@1.1.12%2B015f7a44c963ff086927adcf1d4dd0b7b9cf2097
+- pkg:nuget/Druware.Server.Content@1.1.13%2B30bcf9c3bfa12d3b835f35340bb24a1a2c855026
+- pkg:nuget/Druware.Server.Content@1.1.14
+- pkg:nuget/Druware.Server.Content@1.1.15
 - pkg:nuget/Druware.Server.Content@1.1.16
+- pkg:nuget/Druware.Server.Content@1.1.17
 - pkg:nuget/Druware.Server.Content@1.1.2
+- pkg:nuget/Druware.Server.Content@1.1.7
+- pkg:nuget/Druware.Server.Content@1.2.1
 - pkg:nuget/Druware.Server.Content@1.2.2
 - pkg:nuget/Druware.Server.Content@1.2.3
