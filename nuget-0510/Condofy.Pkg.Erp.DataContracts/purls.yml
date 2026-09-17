@@ -74,6 +74,7 @@
 - pkg:nuget/Condofy.Pkg.Erp.DataContracts@3.53.0
 - pkg:nuget/Condofy.Pkg.Erp.DataContracts@3.6.0
 - pkg:nuget/Condofy.Pkg.Erp.DataContracts@3.6.1
+- pkg:nuget/Condofy.Pkg.Erp.DataContracts@3.66.0
 - pkg:nuget/Condofy.Pkg.Erp.DataContracts@3.7.0
 - pkg:nuget/Condofy.Pkg.Erp.DataContracts@3.7.1
 - pkg:nuget/Condofy.Pkg.Erp.DataContracts@3.8.0
