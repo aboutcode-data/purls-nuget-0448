@@ -2,4 +2,6 @@
 - pkg:nuget/Soenneker.Attio.HttpClients@4.0.29
 - pkg:nuget/Soenneker.Attio.HttpClients@4.0.47
 - pkg:nuget/Soenneker.Attio.HttpClients@4.0.57
+- pkg:nuget/Soenneker.Attio.HttpClients@4.0.58
+- pkg:nuget/Soenneker.Attio.HttpClients@4.0.61
 - pkg:nuget/Soenneker.Attio.HttpClients@4.0.7
