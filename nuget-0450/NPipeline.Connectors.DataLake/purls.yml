@@ -9,3 +9,4 @@
 - pkg:nuget/NPipeline.Connectors.DataLake@0.40.3
 - pkg:nuget/NPipeline.Connectors.DataLake@0.48.3
 - pkg:nuget/NPipeline.Connectors.DataLake@0.49.2
+- pkg:nuget/NPipeline.Connectors.DataLake@0.55.0
