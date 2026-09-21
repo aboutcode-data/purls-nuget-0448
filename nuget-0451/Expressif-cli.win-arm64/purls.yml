@@ -25,3 +25,7 @@
 - pkg:nuget/Expressif-cli.win-arm64@2.62.0
 - pkg:nuget/Expressif-cli.win-arm64@2.67.0
 - pkg:nuget/Expressif-cli.win-arm64@2.73.1
+- pkg:nuget/Expressif-cli.win-arm64@2.76.0
+- pkg:nuget/Expressif-cli.win-arm64@2.78.0
+- pkg:nuget/Expressif-cli.win-arm64@2.78.1
+- pkg:nuget/Expressif-cli.win-arm64@2.84.0
