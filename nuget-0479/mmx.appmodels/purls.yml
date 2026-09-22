@@ -2405,6 +2405,7 @@
 - pkg:nuget/mmx.appmodels@1.0.71
 - pkg:nuget/mmx.appmodels@1.0.71-alpha.0.15
 - pkg:nuget/mmx.appmodels@1.0.72-alpha.0.1
+- pkg:nuget/mmx.appmodels@1.0.73
 - pkg:nuget/mmx.appmodels@1.0.9
 - pkg:nuget/mmx.appmodels@1.0.9-alpha.0.10
 - pkg:nuget/mmx.appmodels@1.0.9-alpha.0.11
