@@ -75,3 +75,4 @@
 - pkg:nuget/XiHan.Framework.MultiTenancy@3.10.0
 - pkg:nuget/XiHan.Framework.MultiTenancy@3.11.1
 - pkg:nuget/XiHan.Framework.MultiTenancy@4.0.0
+- pkg:nuget/XiHan.Framework.MultiTenancy@4.4.0

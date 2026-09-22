@@ -95,3 +95,4 @@
 - pkg:nuget/XiHan.Framework.Uow@3.10.0
 - pkg:nuget/XiHan.Framework.Uow@3.11.1
 - pkg:nuget/XiHan.Framework.Uow@4.0.0
+- pkg:nuget/XiHan.Framework.Uow@4.4.0
