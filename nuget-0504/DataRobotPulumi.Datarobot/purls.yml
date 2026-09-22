@@ -19,6 +19,7 @@
 - pkg:nuget/DataRobotPulumi.Datarobot@0.10.5
 - pkg:nuget/DataRobotPulumi.Datarobot@0.10.6
 - pkg:nuget/DataRobotPulumi.Datarobot@0.10.8
+- pkg:nuget/DataRobotPulumi.Datarobot@0.12.3
 - pkg:nuget/DataRobotPulumi.Datarobot@0.2.1
 - pkg:nuget/DataRobotPulumi.Datarobot@0.2.2
 - pkg:nuget/DataRobotPulumi.Datarobot@0.2.3
