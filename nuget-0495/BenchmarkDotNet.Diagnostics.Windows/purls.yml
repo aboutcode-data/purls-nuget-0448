@@ -39,6 +39,7 @@
 - pkg:nuget/BenchmarkDotNet.Diagnostics.Windows@0.15.1
 - pkg:nuget/BenchmarkDotNet.Diagnostics.Windows@0.15.2
 - pkg:nuget/BenchmarkDotNet.Diagnostics.Windows@0.15.4
+- pkg:nuget/BenchmarkDotNet.Diagnostics.Windows@0.16.0-preview.2
 - pkg:nuget/BenchmarkDotNet.Diagnostics.Windows@0.9.6
 - pkg:nuget/BenchmarkDotNet.Diagnostics.Windows@0.9.7
 - pkg:nuget/BenchmarkDotNet.Diagnostics.Windows@0.9.8
