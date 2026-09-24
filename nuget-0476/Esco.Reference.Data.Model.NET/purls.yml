@@ -17,6 +17,7 @@
 - pkg:nuget/Esco.Reference.Data.Model.NET@3.9.0
 - pkg:nuget/Esco.Reference.Data.Model.NET@4.0.0
 - pkg:nuget/Esco.Reference.Data.Model.NET@4.1.0
+- pkg:nuget/Esco.Reference.Data.Model.NET@4.11.0
 - pkg:nuget/Esco.Reference.Data.Model.NET@4.3.0
 - pkg:nuget/Esco.Reference.Data.Model.NET@4.4.0
 - pkg:nuget/Esco.Reference.Data.Model.NET@4.5.0
