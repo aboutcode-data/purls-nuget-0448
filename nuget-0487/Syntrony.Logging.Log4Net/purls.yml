@@ -1,1 +1,2 @@
 - pkg:nuget/Syntrony.Logging.Log4Net@1.0.0
+- pkg:nuget/Syntrony.Logging.Log4Net@1.0.1
