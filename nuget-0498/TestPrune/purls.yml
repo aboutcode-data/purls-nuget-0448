@@ -5,6 +5,7 @@
 - pkg:nuget/TestPrune@0.1.0-alpha.8
 - pkg:nuget/TestPrune@0.1.0-alpha.9
 - pkg:nuget/TestPrune@0.1.0-beta.1
+- pkg:nuget/TestPrune@12.0.0
 - pkg:nuget/TestPrune@4.0.2
 - pkg:nuget/TestPrune@4.1.0
 - pkg:nuget/TestPrune@4.2.2
