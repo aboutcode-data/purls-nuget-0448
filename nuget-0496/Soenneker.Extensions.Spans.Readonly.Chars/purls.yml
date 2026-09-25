@@ -1,5 +1,8 @@
 - pkg:nuget/Soenneker.Extensions.Spans.Readonly.Chars@4.0.10
+- pkg:nuget/Soenneker.Extensions.Spans.Readonly.Chars@4.0.111
+- pkg:nuget/Soenneker.Extensions.Spans.Readonly.Chars@4.0.112
 - pkg:nuget/Soenneker.Extensions.Spans.Readonly.Chars@4.0.12
+- pkg:nuget/Soenneker.Extensions.Spans.Readonly.Chars@4.0.125
 - pkg:nuget/Soenneker.Extensions.Spans.Readonly.Chars@4.0.3
 - pkg:nuget/Soenneker.Extensions.Spans.Readonly.Chars@4.0.51
 - pkg:nuget/Soenneker.Extensions.Spans.Readonly.Chars@4.0.56
@@ -8,3 +11,5 @@
 - pkg:nuget/Soenneker.Extensions.Spans.Readonly.Chars@4.0.75
 - pkg:nuget/Soenneker.Extensions.Spans.Readonly.Chars@4.0.82
 - pkg:nuget/Soenneker.Extensions.Spans.Readonly.Chars@4.0.87
+- pkg:nuget/Soenneker.Extensions.Spans.Readonly.Chars@4.0.90
+- pkg:nuget/Soenneker.Extensions.Spans.Readonly.Chars@4.0.92
