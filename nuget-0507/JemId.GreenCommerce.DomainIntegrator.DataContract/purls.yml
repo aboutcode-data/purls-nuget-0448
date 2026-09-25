@@ -32,3 +32,6 @@
 - pkg:nuget/JemId.GreenCommerce.DomainIntegrator.DataContract@1.2.47.1
 - pkg:nuget/JemId.GreenCommerce.DomainIntegrator.DataContract@1.2.53.1
 - pkg:nuget/JemId.GreenCommerce.DomainIntegrator.DataContract@1.2.54.1
+- pkg:nuget/JemId.GreenCommerce.DomainIntegrator.DataContract@1.2.57.1
+- pkg:nuget/JemId.GreenCommerce.DomainIntegrator.DataContract@1.2.60.1
+- pkg:nuget/JemId.GreenCommerce.DomainIntegrator.DataContract@1.2.63.1
