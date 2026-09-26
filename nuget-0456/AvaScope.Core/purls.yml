@@ -1,3 +1,4 @@
 - pkg:nuget/AvaScope.Core@0.2.1
 - pkg:nuget/AvaScope.Core@0.4.0
 - pkg:nuget/AvaScope.Core@0.5.0
+- pkg:nuget/AvaScope.Core@1.5.0
