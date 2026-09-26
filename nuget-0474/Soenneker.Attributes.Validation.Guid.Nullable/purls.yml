@@ -88,5 +88,6 @@
 - pkg:nuget/Soenneker.Attributes.Validation.Guid.Nullable@4.0.201
 - pkg:nuget/Soenneker.Attributes.Validation.Guid.Nullable@4.0.203
 - pkg:nuget/Soenneker.Attributes.Validation.Guid.Nullable@4.0.234
+- pkg:nuget/Soenneker.Attributes.Validation.Guid.Nullable@4.0.244
 - pkg:nuget/Soenneker.Attributes.Validation.Guid.Nullable@4.0.81
 - pkg:nuget/Soenneker.Attributes.Validation.Guid.Nullable@4.0.85
