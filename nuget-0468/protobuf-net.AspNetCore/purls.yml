@@ -16,3 +16,5 @@
 - pkg:nuget/protobuf-net.AspNetCore@3.2.46
 - pkg:nuget/protobuf-net.AspNetCore@3.2.52
 - pkg:nuget/protobuf-net.AspNetCore@3.2.8
+- pkg:nuget/protobuf-net.AspNetCore@3.4.19
+- pkg:nuget/protobuf-net.AspNetCore@3.4.29
