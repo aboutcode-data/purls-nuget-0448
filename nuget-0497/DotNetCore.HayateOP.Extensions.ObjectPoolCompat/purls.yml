@@ -1,0 +1,3 @@
+- pkg:nuget/DotNetCore.HayateOP.Extensions.ObjectPoolCompat@1.0.0
+- pkg:nuget/DotNetCore.HayateOP.Extensions.ObjectPoolCompat@2.0.0-rc
+- pkg:nuget/DotNetCore.HayateOP.Extensions.ObjectPoolCompat@2.7.0
