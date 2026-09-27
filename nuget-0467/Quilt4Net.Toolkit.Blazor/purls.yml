@@ -8,3 +8,6 @@
 - pkg:nuget/Quilt4Net.Toolkit.Blazor@0.8.1
 - pkg:nuget/Quilt4Net.Toolkit.Blazor@0.8.3
 - pkg:nuget/Quilt4Net.Toolkit.Blazor@0.8.4
+- pkg:nuget/Quilt4Net.Toolkit.Blazor@1.0.1
+- pkg:nuget/Quilt4Net.Toolkit.Blazor@1.0.11
+- pkg:nuget/Quilt4Net.Toolkit.Blazor@1.0.6
