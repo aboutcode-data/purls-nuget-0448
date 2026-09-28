@@ -96,6 +96,7 @@
 - pkg:nuget/Elastic.Clients.Elasticsearch@8.19.2
 - pkg:nuget/Elastic.Clients.Elasticsearch@8.19.22
 - pkg:nuget/Elastic.Clients.Elasticsearch@8.19.25
+- pkg:nuget/Elastic.Clients.Elasticsearch@8.19.27
 - pkg:nuget/Elastic.Clients.Elasticsearch@8.19.3
 - pkg:nuget/Elastic.Clients.Elasticsearch@8.19.4
 - pkg:nuget/Elastic.Clients.Elasticsearch@8.19.5
@@ -130,3 +131,4 @@
 - pkg:nuget/Elastic.Clients.Elasticsearch@9.3.0
 - pkg:nuget/Elastic.Clients.Elasticsearch@9.4.1
 - pkg:nuget/Elastic.Clients.Elasticsearch@9.5.1
+- pkg:nuget/Elastic.Clients.Elasticsearch@9.5.3
