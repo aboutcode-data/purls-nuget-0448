@@ -13,6 +13,7 @@
 - pkg:nuget/Zongsoft.Data.MySql@6.8.1
 - pkg:nuget/Zongsoft.Data.MySql@7.0.0
 - pkg:nuget/Zongsoft.Data.MySql@7.1.0
+- pkg:nuget/Zongsoft.Data.MySql@7.12.0
 - pkg:nuget/Zongsoft.Data.MySql@7.2.0
 - pkg:nuget/Zongsoft.Data.MySql@7.3.0
 - pkg:nuget/Zongsoft.Data.MySql@7.4.0
