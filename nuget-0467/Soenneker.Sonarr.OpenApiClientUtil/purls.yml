@@ -7,6 +7,8 @@
 - pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@4.0.145
 - pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@4.0.156
 - pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@4.0.157
+- pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@4.0.181
+- pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@4.0.182
 - pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@4.0.19
 - pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@4.0.2
 - pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@4.0.3
