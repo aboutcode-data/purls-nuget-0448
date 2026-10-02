@@ -28,6 +28,7 @@
 - pkg:nuget/NakamaClient@3.18.0
 - pkg:nuget/NakamaClient@3.19.0
 - pkg:nuget/NakamaClient@3.2.0
+- pkg:nuget/NakamaClient@3.22.1
 - pkg:nuget/NakamaClient@3.3.0
 - pkg:nuget/NakamaClient@3.4.0
 - pkg:nuget/NakamaClient@3.5.0
