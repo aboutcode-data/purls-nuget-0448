@@ -115,4 +115,5 @@
 - pkg:nuget/CommonNetFuncs.Core@4.0.23
 - pkg:nuget/CommonNetFuncs.Core@4.0.36
 - pkg:nuget/CommonNetFuncs.Core@4.1.15
+- pkg:nuget/CommonNetFuncs.Core@4.3.12
 - pkg:nuget/CommonNetFuncs.Core@4.3.6
