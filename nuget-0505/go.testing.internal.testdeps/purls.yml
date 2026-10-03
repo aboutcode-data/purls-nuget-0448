@@ -1,1 +1,3 @@
 - pkg:nuget/go.testing.internal.testdeps@1.23.12.1
+- pkg:nuget/go.testing.internal.testdeps@1.24.13.2
+- pkg:nuget/go.testing.internal.testdeps@1.24.13.3
