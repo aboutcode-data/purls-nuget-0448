@@ -1,3 +1,4 @@
+- pkg:nuget/Seas.NoSql@1.10.5
 - pkg:nuget/Seas.NoSql@1.2.10
 - pkg:nuget/Seas.NoSql@1.2.11
 - pkg:nuget/Seas.NoSql@1.2.12
