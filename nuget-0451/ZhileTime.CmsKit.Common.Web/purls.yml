@@ -131,3 +131,4 @@
 - pkg:nuget/ZhileTime.CmsKit.Common.Web@6.1.21
 - pkg:nuget/ZhileTime.CmsKit.Common.Web@6.2.0
 - pkg:nuget/ZhileTime.CmsKit.Common.Web@6.2.1
+- pkg:nuget/ZhileTime.CmsKit.Common.Web@8.1.0
