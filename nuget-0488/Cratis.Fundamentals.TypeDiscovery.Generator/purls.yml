@@ -4,5 +4,6 @@
 - pkg:nuget/Cratis.Fundamentals.TypeDiscovery.Generator@7.18.1
 - pkg:nuget/Cratis.Fundamentals.TypeDiscovery.Generator@7.19.8
 - pkg:nuget/Cratis.Fundamentals.TypeDiscovery.Generator@7.20.2
+- pkg:nuget/Cratis.Fundamentals.TypeDiscovery.Generator@7.22.5
 - pkg:nuget/Cratis.Fundamentals.TypeDiscovery.Generator@7.9.5
 - pkg:nuget/Cratis.Fundamentals.TypeDiscovery.Generator@7.9.6
