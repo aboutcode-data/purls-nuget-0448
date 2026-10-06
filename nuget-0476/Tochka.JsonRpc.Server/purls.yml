@@ -188,4 +188,7 @@
 - pkg:nuget/Tochka.JsonRpc.Server@7.2.4
 - pkg:nuget/Tochka.JsonRpc.Server@7.2.4-fix-exceptionmsg.3b810cac.0
 - pkg:nuget/Tochka.JsonRpc.Server@7.2.4-fix-exceptionmsg.695beabd.0
+- pkg:nuget/Tochka.JsonRpc.Server@7.4.1-feat-net10.07b6d3cb.0
+- pkg:nuget/Tochka.JsonRpc.Server@7.4.1-feat-net10.0e4c00a8.0
+- pkg:nuget/Tochka.JsonRpc.Server@7.4.1-feat-net10.7822cd88.0
 - pkg:nuget/Tochka.JsonRpc.Server@7.4.1-feat-net10.c763e602.0
