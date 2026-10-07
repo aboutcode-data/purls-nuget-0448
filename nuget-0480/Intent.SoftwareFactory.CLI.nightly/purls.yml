@@ -379,3 +379,4 @@
 - pkg:nuget/Intent.SoftwareFactory.CLI.nightly@5.3.999-nightly.2026-09-29-0109-UTC.159c3b5
 - pkg:nuget/Intent.SoftwareFactory.CLI.nightly@5.4.999-nightly.2026-09-25-0103-UTC.361e140
 - pkg:nuget/Intent.SoftwareFactory.CLI.nightly@5.4.999-nightly.2026-09-28-0103-UTC.b56b14a
+- pkg:nuget/Intent.SoftwareFactory.CLI.nightly@5.4.999-nightly.2026-10-07-0559-UTC.b248bae
