@@ -48,3 +48,4 @@
 - pkg:nuget/AutoCtor@2.8.1
 - pkg:nuget/AutoCtor@3.0.0
 - pkg:nuget/AutoCtor@3.0.0-rc7
+- pkg:nuget/AutoCtor@4.0.0
