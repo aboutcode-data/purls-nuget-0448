@@ -79,6 +79,7 @@
 - pkg:nuget/Cratis.Chronicle.XUnit.Integration@19.23.1
 - pkg:nuget/Cratis.Chronicle.XUnit.Integration@19.24.1
 - pkg:nuget/Cratis.Chronicle.XUnit.Integration@19.29.3
+- pkg:nuget/Cratis.Chronicle.XUnit.Integration@19.34.2
 - pkg:nuget/Cratis.Chronicle.XUnit.Integration@19.4.1
 - pkg:nuget/Cratis.Chronicle.XUnit.Integration@19.4.6
 - pkg:nuget/Cratis.Chronicle.XUnit.Integration@19.6.1
