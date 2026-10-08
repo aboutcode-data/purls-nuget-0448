@@ -95,6 +95,11 @@
 - pkg:nuget/Sufficit.Client@1.25.905.312
 - pkg:nuget/Sufficit.Client@1.25.912.1540
 - pkg:nuget/Sufficit.Client@1.25.912.1720
+- pkg:nuget/Sufficit.Client@1.26.1005.1803
+- pkg:nuget/Sufficit.Client@1.26.1006.1609
+- pkg:nuget/Sufficit.Client@1.26.1007.1445
+- pkg:nuget/Sufficit.Client@1.26.1007.1736
+- pkg:nuget/Sufficit.Client@1.26.1007.1749
 - pkg:nuget/Sufficit.Client@1.26.108.1841
 - pkg:nuget/Sufficit.Client@1.26.212.414
 - pkg:nuget/Sufficit.Client@1.26.327.1300
