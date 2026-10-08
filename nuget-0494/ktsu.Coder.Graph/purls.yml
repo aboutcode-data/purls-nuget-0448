@@ -7,3 +7,5 @@
 - pkg:nuget/ktsu.Coder.Graph@3.12.0
 - pkg:nuget/ktsu.Coder.Graph@3.14.1
 - pkg:nuget/ktsu.Coder.Graph@3.14.6
+- pkg:nuget/ktsu.Coder.Graph@3.18.2
+- pkg:nuget/ktsu.Coder.Graph@3.18.9
