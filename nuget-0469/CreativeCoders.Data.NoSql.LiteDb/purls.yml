@@ -12,6 +12,7 @@
 - pkg:nuget/CreativeCoders.Data.NoSql.LiteDb@4.6.0
 - pkg:nuget/CreativeCoders.Data.NoSql.LiteDb@5.1.0
 - pkg:nuget/CreativeCoders.Data.NoSql.LiteDb@5.4.0
+- pkg:nuget/CreativeCoders.Data.NoSql.LiteDb@6.10.0
 - pkg:nuget/CreativeCoders.Data.NoSql.LiteDb@6.7.1
 - pkg:nuget/CreativeCoders.Data.NoSql.LiteDb@6.7.3
 - pkg:nuget/CreativeCoders.Data.NoSql.LiteDb@6.8.0
