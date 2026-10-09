@@ -47,3 +47,5 @@
 - pkg:nuget/Vortice.Win32.Graphics.Direct3D11@2.3.0
 - pkg:nuget/Vortice.Win32.Graphics.Direct3D11@2.4.1
 - pkg:nuget/Vortice.Win32.Graphics.Direct3D11@3.0.0
+- pkg:nuget/Vortice.Win32.Graphics.Direct3D11@3.1.0
+- pkg:nuget/Vortice.Win32.Graphics.Direct3D11@3.2.0
