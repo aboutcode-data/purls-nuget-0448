@@ -82,5 +82,6 @@
 - pkg:nuget/Dapplo.Windows.EmbeddedBrowser@2.0.85
 - pkg:nuget/Dapplo.Windows.EmbeddedBrowser@2.0.89
 - pkg:nuget/Dapplo.Windows.EmbeddedBrowser@3.1.4
+- pkg:nuget/Dapplo.Windows.EmbeddedBrowser@3.10.3
 - pkg:nuget/Dapplo.Windows.EmbeddedBrowser@3.8.2
 - pkg:nuget/Dapplo.Windows.EmbeddedBrowser@3.9.2
