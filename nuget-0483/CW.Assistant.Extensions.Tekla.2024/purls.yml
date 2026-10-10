@@ -104,6 +104,7 @@
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2024@26.11.0-PullRequest1068.15.66531
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2024@26.11.0-PullRequest1071.17.66564
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2024@26.11.0-PullRequest1102.20.66621
+- pkg:nuget/CW.Assistant.Extensions.Tekla.2024@26.11.0-PullRequest1109.16.66652
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2024@26.11.0-PullRequest645.41.66569
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2024@26.11.0-PullRequest803.2.66007
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2024@26.11.0-PullRequest806.3.66023
@@ -122,6 +123,7 @@
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2024@26.11.0-alpha.110.66402
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2024@26.11.0-alpha.14.66545
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2024@26.11.0-alpha.15.66546
+- pkg:nuget/CW.Assistant.Extensions.Tekla.2024@26.11.0-alpha.20.66640
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2024@26.11.0-assistant-script-runs.1.66479
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2024@26.2.0-PullRequest2.362996
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2024@26.2.0-PullRequest55.5048
