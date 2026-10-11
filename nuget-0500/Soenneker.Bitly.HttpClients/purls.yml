@@ -6,6 +6,7 @@
 - pkg:nuget/Soenneker.Bitly.HttpClients@4.0.120
 - pkg:nuget/Soenneker.Bitly.HttpClients@4.0.131
 - pkg:nuget/Soenneker.Bitly.HttpClients@4.0.14
+- pkg:nuget/Soenneker.Bitly.HttpClients@4.0.141
 - pkg:nuget/Soenneker.Bitly.HttpClients@4.0.19
 - pkg:nuget/Soenneker.Bitly.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Bitly.HttpClients@4.0.20
