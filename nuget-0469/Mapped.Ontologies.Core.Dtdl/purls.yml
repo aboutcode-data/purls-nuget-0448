@@ -358,3 +358,5 @@
 - pkg:nuget/Mapped.Ontologies.Core.Dtdl@1.88.2
 - pkg:nuget/Mapped.Ontologies.Core.Dtdl@1.89.5
 - pkg:nuget/Mapped.Ontologies.Core.Dtdl@1.91.9
+- pkg:nuget/Mapped.Ontologies.Core.Dtdl@1.94.0
+- pkg:nuget/Mapped.Ontologies.Core.Dtdl@1.94.1
