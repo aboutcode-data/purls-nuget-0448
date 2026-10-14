@@ -1,5 +1,6 @@
 - pkg:nuget/Aiursoft.DbTools.MySql@10.0.17
 - pkg:nuget/Aiursoft.DbTools.MySql@10.0.28
+- pkg:nuget/Aiursoft.DbTools.MySql@10.0.34
 - pkg:nuget/Aiursoft.DbTools.MySql@6.0.29
 - pkg:nuget/Aiursoft.DbTools.MySql@6.0.30
 - pkg:nuget/Aiursoft.DbTools.MySql@6.0.31
