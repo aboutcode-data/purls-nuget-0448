@@ -84,4 +84,5 @@
 - pkg:nuget/Meshmakers.Octo.Services.Observability@3.4.91
 - pkg:nuget/Meshmakers.Octo.Services.Observability@3.4.98
 - pkg:nuget/Meshmakers.Octo.Services.Observability@3.5.17
+- pkg:nuget/Meshmakers.Octo.Services.Observability@3.5.18
 - pkg:nuget/Meshmakers.Octo.Services.Observability@3.5.5
