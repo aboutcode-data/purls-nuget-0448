@@ -582,3 +582,5 @@
 - pkg:nuget/Soenneker.SemanticKernel.Cache@4.0.865
 - pkg:nuget/Soenneker.SemanticKernel.Cache@4.0.869
 - pkg:nuget/Soenneker.SemanticKernel.Cache@4.0.871
+- pkg:nuget/Soenneker.SemanticKernel.Cache@4.0.878
+- pkg:nuget/Soenneker.SemanticKernel.Cache@4.0.879
