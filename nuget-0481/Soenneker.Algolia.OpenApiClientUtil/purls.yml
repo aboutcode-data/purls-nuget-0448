@@ -11,6 +11,7 @@
 - pkg:nuget/Soenneker.Algolia.OpenApiClientUtil@4.0.183
 - pkg:nuget/Soenneker.Algolia.OpenApiClientUtil@4.0.188
 - pkg:nuget/Soenneker.Algolia.OpenApiClientUtil@4.0.190
+- pkg:nuget/Soenneker.Algolia.OpenApiClientUtil@4.0.200
 - pkg:nuget/Soenneker.Algolia.OpenApiClientUtil@4.0.25
 - pkg:nuget/Soenneker.Algolia.OpenApiClientUtil@4.0.28
 - pkg:nuget/Soenneker.Algolia.OpenApiClientUtil@4.0.3
