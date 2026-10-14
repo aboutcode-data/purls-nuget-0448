@@ -1,2 +1,4 @@
+- pkg:nuget/Patika.Domain@10.0.0
 - pkg:nuget/Patika.Domain@8.0.2
 - pkg:nuget/Patika.Domain@8.0.6
+- pkg:nuget/Patika.Domain@8.0.9
