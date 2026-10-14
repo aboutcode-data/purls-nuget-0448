@@ -2,6 +2,7 @@
 - pkg:nuget/Abp.AspNetCore.OData@10.1.0
 - pkg:nuget/Abp.AspNetCore.OData@10.2.0
 - pkg:nuget/Abp.AspNetCore.OData@10.3.0
+- pkg:nuget/Abp.AspNetCore.OData@10.5.1
 - pkg:nuget/Abp.AspNetCore.OData@3.4.0
 - pkg:nuget/Abp.AspNetCore.OData@3.5.0
 - pkg:nuget/Abp.AspNetCore.OData@3.6.0
