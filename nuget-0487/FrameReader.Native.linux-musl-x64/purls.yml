@@ -1,1 +1,2 @@
 - pkg:nuget/FrameReader.Native.linux-musl-x64@2.2.1
+- pkg:nuget/FrameReader.Native.linux-musl-x64@2.3.0
