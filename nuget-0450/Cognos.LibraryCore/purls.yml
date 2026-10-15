@@ -79,3 +79,4 @@
 - pkg:nuget/Cognos.LibraryCore@6.2.3
 - pkg:nuget/Cognos.LibraryCore@6.3.5
 - pkg:nuget/Cognos.LibraryCore@6.3.9
+- pkg:nuget/Cognos.LibraryCore@6.4.6
