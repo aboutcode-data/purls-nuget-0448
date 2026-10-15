@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.Swashbuckle.SchemaFilters.EnumValues@4.0.104
 - pkg:nuget/Soenneker.Swashbuckle.SchemaFilters.EnumValues@4.0.111
+- pkg:nuget/Soenneker.Swashbuckle.SchemaFilters.EnumValues@4.0.115
 - pkg:nuget/Soenneker.Swashbuckle.SchemaFilters.EnumValues@4.0.13
 - pkg:nuget/Soenneker.Swashbuckle.SchemaFilters.EnumValues@4.0.22
 - pkg:nuget/Soenneker.Swashbuckle.SchemaFilters.EnumValues@4.0.25
