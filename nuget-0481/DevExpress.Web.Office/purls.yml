@@ -1,4 +1,5 @@
 - pkg:nuget/DevExpress.Web.Office@25.1.13
+- pkg:nuget/DevExpress.Web.Office@25.1.15
 - pkg:nuget/DevExpress.Web.Office@25.1.6
 - pkg:nuget/DevExpress.Web.Office@25.1.7
 - pkg:nuget/DevExpress.Web.Office@25.2.10
