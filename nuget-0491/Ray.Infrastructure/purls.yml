@@ -28,3 +28,6 @@
 - pkg:nuget/Ray.Infrastructure@0.0.8
 - pkg:nuget/Ray.Infrastructure@0.0.9
 - pkg:nuget/Ray.Infrastructure@0.1.0
+- pkg:nuget/Ray.Infrastructure@0.1.0-alpha.32
+- pkg:nuget/Ray.Infrastructure@0.1.0-alpha.37
+- pkg:nuget/Ray.Infrastructure@0.1.0-alpha.38
