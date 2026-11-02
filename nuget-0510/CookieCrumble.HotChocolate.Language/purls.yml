@@ -171,3 +171,7 @@
 - pkg:nuget/CookieCrumble.HotChocolate.Language@16.7.0-p.22
 - pkg:nuget/CookieCrumble.HotChocolate.Language@16.7.0-p.23
 - pkg:nuget/CookieCrumble.HotChocolate.Language@16.7.0-p.25
+- pkg:nuget/CookieCrumble.HotChocolate.Language@16.7.0-p.33
+- pkg:nuget/CookieCrumble.HotChocolate.Language@16.8.0-p.4
+- pkg:nuget/CookieCrumble.HotChocolate.Language@16.8.0-p.8
+- pkg:nuget/CookieCrumble.HotChocolate.Language@16.8.0-p.9
