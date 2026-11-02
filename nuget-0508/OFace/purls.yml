@@ -2,6 +2,11 @@
 - pkg:nuget/OFace@25.9.0
 - pkg:nuget/OFace@25.9.1
 - pkg:nuget/OFace@26.1.10
+- pkg:nuget/OFace@26.10.21
+- pkg:nuget/OFace@26.10.23
+- pkg:nuget/OFace@26.10.25
+- pkg:nuget/OFace@26.10.31
+- pkg:nuget/OFace@26.10.35
 - pkg:nuget/OFace@26.3.26
 - pkg:nuget/OFace@26.3.27
 - pkg:nuget/OFace@26.3.28
@@ -14,3 +19,8 @@
 - pkg:nuget/OFace@26.6.28
 - pkg:nuget/OFace@26.6.33
 - pkg:nuget/OFace@26.6.6
+- pkg:nuget/OFace@26.8.27
+- pkg:nuget/OFace@26.8.28
+- pkg:nuget/OFace@26.9.11
+- pkg:nuget/OFace@26.9.21
+- pkg:nuget/OFace@26.9.29
