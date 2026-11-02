@@ -41,6 +41,7 @@
 - pkg:nuget/StockSharp.Algo.Strategies@5.0.134
 - pkg:nuget/StockSharp.Algo.Strategies@5.0.139
 - pkg:nuget/StockSharp.Algo.Strategies@5.0.14
+- pkg:nuget/StockSharp.Algo.Strategies@5.0.145
 - pkg:nuget/StockSharp.Algo.Strategies@5.0.15
 - pkg:nuget/StockSharp.Algo.Strategies@5.0.16
 - pkg:nuget/StockSharp.Algo.Strategies@5.0.17
