@@ -137,3 +137,5 @@
 - pkg:nuget/fantomas@8.0.10
 - pkg:nuget/fantomas@8.0.7
 - pkg:nuget/fantomas@8.0.9
+- pkg:nuget/fantomas@8.1.0
+- pkg:nuget/fantomas@9.0.0-alpha-002
