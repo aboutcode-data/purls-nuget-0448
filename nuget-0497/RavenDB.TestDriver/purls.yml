@@ -207,6 +207,7 @@
 - pkg:nuget/RavenDB.TestDriver@6.2.1
 - pkg:nuget/RavenDB.TestDriver@6.2.17
 - pkg:nuget/RavenDB.TestDriver@6.2.2
+- pkg:nuget/RavenDB.TestDriver@6.2.20
 - pkg:nuget/RavenDB.TestDriver@6.2.3
 - pkg:nuget/RavenDB.TestDriver@6.2.4
 - pkg:nuget/RavenDB.TestDriver@6.2.5
@@ -245,3 +246,4 @@
 - pkg:nuget/RavenDB.TestDriver@7.2.1-rc-72004
 - pkg:nuget/RavenDB.TestDriver@7.2.2-rc-72006
 - pkg:nuget/RavenDB.TestDriver@7.2.5-rc-72023
+- pkg:nuget/RavenDB.TestDriver@7.2.7
