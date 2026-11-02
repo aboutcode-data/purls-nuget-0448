@@ -40,3 +40,5 @@
 - pkg:nuget/Asv.Store@2.0.1
 - pkg:nuget/Asv.Store@2.0.2
 - pkg:nuget/Asv.Store@3.5.0
+- pkg:nuget/Asv.Store@3.7.3
+- pkg:nuget/Asv.Store@3.7.4
