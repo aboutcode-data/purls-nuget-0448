@@ -1,2 +1,5 @@
 - pkg:nuget/Solas.SourceGenerators@0.0.0
+- pkg:nuget/Solas.SourceGenerators@0.2.10
+- pkg:nuget/Solas.SourceGenerators@0.2.12
 - pkg:nuget/Solas.SourceGenerators@0.2.3
+- pkg:nuget/Solas.SourceGenerators@0.2.6
