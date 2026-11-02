@@ -6,6 +6,7 @@
 - pkg:nuget/OnixLabs.Numerics@12.0.0
 - pkg:nuget/OnixLabs.Numerics@12.1.0
 - pkg:nuget/OnixLabs.Numerics@12.1.1
+- pkg:nuget/OnixLabs.Numerics@16.1.0
 - pkg:nuget/OnixLabs.Numerics@7.0.0
 - pkg:nuget/OnixLabs.Numerics@8.0.0
 - pkg:nuget/OnixLabs.Numerics@8.1.0
