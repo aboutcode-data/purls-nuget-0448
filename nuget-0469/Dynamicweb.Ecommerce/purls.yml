@@ -428,6 +428,7 @@
 - pkg:nuget/Dynamicweb.Ecommerce@1.2.10
 - pkg:nuget/Dynamicweb.Ecommerce@1.20.0
 - pkg:nuget/Dynamicweb.Ecommerce@1.20.4
+- pkg:nuget/Dynamicweb.Ecommerce@1.22.1
 - pkg:nuget/Dynamicweb.Ecommerce@1.3.14
 - pkg:nuget/Dynamicweb.Ecommerce@1.4.22
 - pkg:nuget/Dynamicweb.Ecommerce@1.4.57
@@ -1064,10 +1065,13 @@
 - pkg:nuget/Dynamicweb.Ecommerce@10.26.9
 - pkg:nuget/Dynamicweb.Ecommerce@10.27.11
 - pkg:nuget/Dynamicweb.Ecommerce@10.27.16
+- pkg:nuget/Dynamicweb.Ecommerce@10.27.17
 - pkg:nuget/Dynamicweb.Ecommerce@10.27.3-PreRelease
 - pkg:nuget/Dynamicweb.Ecommerce@10.27.8
 - pkg:nuget/Dynamicweb.Ecommerce@10.28.10
+- pkg:nuget/Dynamicweb.Ecommerce@10.28.16
 - pkg:nuget/Dynamicweb.Ecommerce@10.28.8
+- pkg:nuget/Dynamicweb.Ecommerce@10.29.10
 - pkg:nuget/Dynamicweb.Ecommerce@10.29.3-PreRelease
 - pkg:nuget/Dynamicweb.Ecommerce@10.29.8
 - pkg:nuget/Dynamicweb.Ecommerce@10.3.0
@@ -1081,6 +1085,7 @@
 - pkg:nuget/Dynamicweb.Ecommerce@10.3.7
 - pkg:nuget/Dynamicweb.Ecommerce@10.3.8
 - pkg:nuget/Dynamicweb.Ecommerce@10.3.9
+- pkg:nuget/Dynamicweb.Ecommerce@10.30.4
 - pkg:nuget/Dynamicweb.Ecommerce@10.4.0
 - pkg:nuget/Dynamicweb.Ecommerce@10.4.1
 - pkg:nuget/Dynamicweb.Ecommerce@10.4.2
