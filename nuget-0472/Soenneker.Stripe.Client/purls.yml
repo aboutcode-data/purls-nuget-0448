@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.Stripe.Client@11.0.1548
+- pkg:nuget/Soenneker.Stripe.Client@11.0.1550
+- pkg:nuget/Soenneker.Stripe.Client@11.0.1554
+- pkg:nuget/Soenneker.Stripe.Client@11.0.1557
 - pkg:nuget/Soenneker.Stripe.Client@2.1.1
 - pkg:nuget/Soenneker.Stripe.Client@2.1.10
 - pkg:nuget/Soenneker.Stripe.Client@2.1.11
