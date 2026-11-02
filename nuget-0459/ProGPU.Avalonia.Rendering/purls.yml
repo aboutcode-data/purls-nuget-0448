@@ -6,6 +6,7 @@
 - pkg:nuget/ProGPU.Avalonia.Rendering@11.3.18-preview.46
 - pkg:nuget/ProGPU.Avalonia.Rendering@11.3.18-preview.49
 - pkg:nuget/ProGPU.Avalonia.Rendering@11.3.20-preview.61
+- pkg:nuget/ProGPU.Avalonia.Rendering@11.3.20-preview.69
 - pkg:nuget/ProGPU.Avalonia.Rendering@12.0.5-preview.0
 - pkg:nuget/ProGPU.Avalonia.Rendering@12.0.5-preview.1
 - pkg:nuget/ProGPU.Avalonia.Rendering@12.0.5-preview.28
@@ -16,3 +17,4 @@
 - pkg:nuget/ProGPU.Avalonia.Rendering@12.0.5-preview.49
 - pkg:nuget/ProGPU.Avalonia.Rendering@12.0.5-preview.9
 - pkg:nuget/ProGPU.Avalonia.Rendering@12.1.1-preview.61
+- pkg:nuget/ProGPU.Avalonia.Rendering@12.1.1-preview.69
