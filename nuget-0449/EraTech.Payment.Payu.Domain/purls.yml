@@ -31,4 +31,5 @@
 - pkg:nuget/EraTech.Payment.Payu.Domain@2.1.81
 - pkg:nuget/EraTech.Payment.Payu.Domain@2.1.83
 - pkg:nuget/EraTech.Payment.Payu.Domain@2.2.27
+- pkg:nuget/EraTech.Payment.Payu.Domain@2.2.39
 - pkg:nuget/EraTech.Payment.Payu.Domain@2.2.6

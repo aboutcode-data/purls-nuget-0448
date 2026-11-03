@@ -61,3 +61,4 @@
 - pkg:nuget/EraTech.PushNotification.Firebase.Application@2.1.99
 - pkg:nuget/EraTech.PushNotification.Firebase.Application@2.2.27
 - pkg:nuget/EraTech.PushNotification.Firebase.Application@2.2.30
+- pkg:nuget/EraTech.PushNotification.Firebase.Application@2.2.39

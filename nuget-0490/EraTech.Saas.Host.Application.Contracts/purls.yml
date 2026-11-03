@@ -60,4 +60,6 @@
 - pkg:nuget/EraTech.Saas.Host.Application.Contracts@2.1.81
 - pkg:nuget/EraTech.Saas.Host.Application.Contracts@2.1.83
 - pkg:nuget/EraTech.Saas.Host.Application.Contracts@2.2.27
+- pkg:nuget/EraTech.Saas.Host.Application.Contracts@2.2.35
+- pkg:nuget/EraTech.Saas.Host.Application.Contracts@2.2.39
 - pkg:nuget/EraTech.Saas.Host.Application.Contracts@2.2.6
