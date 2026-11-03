@@ -217,3 +217,5 @@
 - pkg:nuget/Workleap.Extensions.Http.Authentication.ClientCredentialsGrant@2.3.1-preview.13
 - pkg:nuget/Workleap.Extensions.Http.Authentication.ClientCredentialsGrant@2.3.1-preview.14
 - pkg:nuget/Workleap.Extensions.Http.Authentication.ClientCredentialsGrant@2.3.1-preview.15
+- pkg:nuget/Workleap.Extensions.Http.Authentication.ClientCredentialsGrant@2.4.1-preview.23
+- pkg:nuget/Workleap.Extensions.Http.Authentication.ClientCredentialsGrant@2.4.1-preview.24
