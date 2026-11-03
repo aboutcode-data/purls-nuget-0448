@@ -38,3 +38,4 @@
 - pkg:nuget/EraTech.AspNetCore.SignalR@2.1.81
 - pkg:nuget/EraTech.AspNetCore.SignalR@2.1.99
 - pkg:nuget/EraTech.AspNetCore.SignalR@2.2.3
+- pkg:nuget/EraTech.AspNetCore.SignalR@2.2.39
