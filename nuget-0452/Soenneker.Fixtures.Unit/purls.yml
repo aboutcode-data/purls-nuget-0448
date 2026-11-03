@@ -95,6 +95,7 @@
 - pkg:nuget/Soenneker.Fixtures.Unit@1.0.95
 - pkg:nuget/Soenneker.Fixtures.Unit@11.0.805
 - pkg:nuget/Soenneker.Fixtures.Unit@11.0.810
+- pkg:nuget/Soenneker.Fixtures.Unit@11.0.813
 - pkg:nuget/Soenneker.Fixtures.Unit@2.0.1
 - pkg:nuget/Soenneker.Fixtures.Unit@2.0.2
 - pkg:nuget/Soenneker.Fixtures.Unit@2.0.3
