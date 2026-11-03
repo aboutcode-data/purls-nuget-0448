@@ -85,6 +85,7 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.MRZ.Android@8.4.986-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.MRZ.Android@8.5.1350-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.MRZ.Android@9.10.3842-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.MRZ.Android@9.10.3872-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.MRZ.Android@9.2.1781-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.MRZ.Android@9.2.1865-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.MRZ.Android@9.2.1901-rc
