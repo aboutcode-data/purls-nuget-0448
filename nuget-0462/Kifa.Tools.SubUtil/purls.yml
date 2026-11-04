@@ -47,3 +47,5 @@
 - pkg:nuget/Kifa.Tools.SubUtil@8.4.0
 - pkg:nuget/Kifa.Tools.SubUtil@8.5.0
 - pkg:nuget/Kifa.Tools.SubUtil@8.5.1
+- pkg:nuget/Kifa.Tools.SubUtil@8.5.14
+- pkg:nuget/Kifa.Tools.SubUtil@8.5.15
