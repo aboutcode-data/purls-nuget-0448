@@ -67,6 +67,7 @@
 - pkg:nuget/AppDynamics.WindowsAzure.SiteExtension.4.5.Release@25.4.0
 - pkg:nuget/AppDynamics.WindowsAzure.SiteExtension.4.5.Release@25.6.0
 - pkg:nuget/AppDynamics.WindowsAzure.SiteExtension.4.5.Release@25.8.1
+- pkg:nuget/AppDynamics.WindowsAzure.SiteExtension.4.5.Release@26.9.0
 - pkg:nuget/AppDynamics.WindowsAzure.SiteExtension.4.5.Release@4.5.1
 - pkg:nuget/AppDynamics.WindowsAzure.SiteExtension.4.5.Release@4.5.10
 - pkg:nuget/AppDynamics.WindowsAzure.SiteExtension.4.5.Release@4.5.10.1
