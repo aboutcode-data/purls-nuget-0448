@@ -1,2 +1,9 @@
 - pkg:nuget/Toggly.FeatureManagement.NSwag@2.12.2
+- pkg:nuget/Toggly.FeatureManagement.NSwag@3.11.0
+- pkg:nuget/Toggly.FeatureManagement.NSwag@3.12.0
+- pkg:nuget/Toggly.FeatureManagement.NSwag@3.12.4
+- pkg:nuget/Toggly.FeatureManagement.NSwag@3.12.5
+- pkg:nuget/Toggly.FeatureManagement.NSwag@3.12.8
 - pkg:nuget/Toggly.FeatureManagement.NSwag@3.2.4
+- pkg:nuget/Toggly.FeatureManagement.NSwag@3.6.5
+- pkg:nuget/Toggly.FeatureManagement.NSwag@3.6.6
