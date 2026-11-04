@@ -24,3 +24,5 @@
 - pkg:nuget/BarcodeLib.Barcode.Code.Code2of5@8.0.0.2
 - pkg:nuget/BarcodeLib.Barcode.Code.Code2of5@8.0.0.25
 - pkg:nuget/BarcodeLib.Barcode.Code.Code2of5@8.0.0.32
+- pkg:nuget/BarcodeLib.Barcode.Code.Code2of5@8.0.0.39
+- pkg:nuget/BarcodeLib.Barcode.Code.Code2of5@8.0.0.42
