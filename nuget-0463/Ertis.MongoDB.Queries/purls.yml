@@ -1,3 +1,6 @@
+- pkg:nuget/Ertis.MongoDB.Queries@10.0.10
+- pkg:nuget/Ertis.MongoDB.Queries@10.0.5-preview.1
+- pkg:nuget/Ertis.MongoDB.Queries@10.0.6
 - pkg:nuget/Ertis.MongoDB.Queries@5.0.0
 - pkg:nuget/Ertis.MongoDB.Queries@5.0.1
 - pkg:nuget/Ertis.MongoDB.Queries@5.0.2
