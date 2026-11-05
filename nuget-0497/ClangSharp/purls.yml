@@ -23,6 +23,7 @@
 - pkg:nuget/ClangSharp@20.1.2.1
 - pkg:nuget/ClangSharp@20.1.2.2
 - pkg:nuget/ClangSharp@20.1.2.3
+- pkg:nuget/ClangSharp@22.1.8
 - pkg:nuget/ClangSharp@3.5.0
 - pkg:nuget/ClangSharp@3.5.1
 - pkg:nuget/ClangSharp@3.6.0
