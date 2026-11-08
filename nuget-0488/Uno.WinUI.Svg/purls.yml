@@ -2770,6 +2770,8 @@
 - pkg:nuget/Uno.WinUI.Svg@7.0.0-dev.680
 - pkg:nuget/Uno.WinUI.Svg@7.0.0-dev.722
 - pkg:nuget/Uno.WinUI.Svg@7.0.0-dev.966
+- pkg:nuget/Uno.WinUI.Svg@7.1.0-dev.109
+- pkg:nuget/Uno.WinUI.Svg@7.1.0-dev.110
 - pkg:nuget/Uno.WinUI.Svg@7.1.0-dev.19
 - pkg:nuget/Uno.WinUI.Svg@7.1.0-dev.27
 - pkg:nuget/Uno.WinUI.Svg@7.1.0-dev.28
