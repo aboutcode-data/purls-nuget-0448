@@ -45,6 +45,7 @@
 - pkg:nuget/ITfoxtec.Identity@2.13.9
 - pkg:nuget/ITfoxtec.Identity@2.14.5
 - pkg:nuget/ITfoxtec.Identity@2.15.0
+- pkg:nuget/ITfoxtec.Identity@2.19.1
 - pkg:nuget/ITfoxtec.Identity@2.2.3
 - pkg:nuget/ITfoxtec.Identity@2.2.4
 - pkg:nuget/ITfoxtec.Identity@2.3.0
