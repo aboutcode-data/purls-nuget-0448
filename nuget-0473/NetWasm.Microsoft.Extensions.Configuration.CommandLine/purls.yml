@@ -1,0 +1,5 @@
+- pkg:nuget/NetWasm.Microsoft.Extensions.Configuration.CommandLine@0.10.7
+- pkg:nuget/NetWasm.Microsoft.Extensions.Configuration.CommandLine@0.10.7-preview.1
+- pkg:nuget/NetWasm.Microsoft.Extensions.Configuration.CommandLine@0.12.1
+- pkg:nuget/NetWasm.Microsoft.Extensions.Configuration.CommandLine@0.9.0
+- pkg:nuget/NetWasm.Microsoft.Extensions.Configuration.CommandLine@0.9.0-preview.1
