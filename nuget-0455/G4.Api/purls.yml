@@ -31,6 +31,8 @@
 - pkg:nuget/G4.Api@2025.3.9.33
 - pkg:nuget/G4.Api@2026.10.26.61
 - pkg:nuget/G4.Api@2026.10.27.62
+- pkg:nuget/G4.Api@2026.11.10.67
+- pkg:nuget/G4.Api@2026.11.9.66
 - pkg:nuget/G4.Api@2026.4.22.44
 - pkg:nuget/G4.Api@2026.4.30.45
 - pkg:nuget/G4.Api@2026.6.16.46
