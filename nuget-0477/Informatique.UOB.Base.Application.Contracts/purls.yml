@@ -38,6 +38,7 @@
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@1.0.144
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@1.0.147
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@1.0.15
+- pkg:nuget/Informatique.UOB.Base.Application.Contracts@1.0.154
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@1.0.16
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@1.0.17
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@1.0.18
@@ -150,6 +151,7 @@
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@2.1.3
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@2.1.30
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@2.1.4
+- pkg:nuget/Informatique.UOB.Base.Application.Contracts@2.1.45
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@2.1.5
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@2.1.6
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@2.1.7
