@@ -1,1 +1,2 @@
 - pkg:nuget/FS.GG.Game.Physics.Box2D@0.17.0
+- pkg:nuget/FS.GG.Game.Physics.Box2D@0.22.0
