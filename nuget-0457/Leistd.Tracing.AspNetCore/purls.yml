@@ -22,3 +22,5 @@
 - pkg:nuget/Leistd.Tracing.AspNetCore@1.3.0-beta.95
 - pkg:nuget/Leistd.Tracing.AspNetCore@1.3.0-beta.99
 - pkg:nuget/Leistd.Tracing.AspNetCore@2.0.0-beta.256
+- pkg:nuget/Leistd.Tracing.AspNetCore@2.0.0-beta.297
+- pkg:nuget/Leistd.Tracing.AspNetCore@2.0.0-beta.304
