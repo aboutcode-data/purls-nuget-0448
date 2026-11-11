@@ -25,3 +25,4 @@
 - pkg:nuget/Leistd.Authorization.Resource.EntityFrameworkCore@2.0.0-beta.304
 - pkg:nuget/Leistd.Authorization.Resource.EntityFrameworkCore@2.0.0-beta.318
 - pkg:nuget/Leistd.Authorization.Resource.EntityFrameworkCore@2.0.0-beta.320
+- pkg:nuget/Leistd.Authorization.Resource.EntityFrameworkCore@2.0.0-beta.331
