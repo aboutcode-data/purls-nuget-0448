@@ -5,6 +5,7 @@
 - pkg:nuget/Soenneker.Blazor.CallbackRegistry@11.0.1211
 - pkg:nuget/Soenneker.Blazor.CallbackRegistry@11.0.1213
 - pkg:nuget/Soenneker.Blazor.CallbackRegistry@11.0.1216
+- pkg:nuget/Soenneker.Blazor.CallbackRegistry@11.0.1217
 - pkg:nuget/Soenneker.Blazor.CallbackRegistry@3.0.10
 - pkg:nuget/Soenneker.Blazor.CallbackRegistry@3.0.100
 - pkg:nuget/Soenneker.Blazor.CallbackRegistry@3.0.101
