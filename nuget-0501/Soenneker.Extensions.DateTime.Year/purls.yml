@@ -1,4 +1,6 @@
 - pkg:nuget/Soenneker.Extensions.DateTime.Year@11.0.1374
+- pkg:nuget/Soenneker.Extensions.DateTime.Year@11.0.1378
+- pkg:nuget/Soenneker.Extensions.DateTime.Year@11.0.1380
 - pkg:nuget/Soenneker.Extensions.DateTime.Year@2.1.1
 - pkg:nuget/Soenneker.Extensions.DateTime.Year@2.1.10
 - pkg:nuget/Soenneker.Extensions.DateTime.Year@2.1.100
