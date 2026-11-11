@@ -75,6 +75,7 @@
 - pkg:nuget/Soenneker.Extensions.Enumerable.Tuple@1.0.77
 - pkg:nuget/Soenneker.Extensions.Enumerable.Tuple@1.0.8
 - pkg:nuget/Soenneker.Extensions.Enumerable.Tuple@1.0.9
+- pkg:nuget/Soenneker.Extensions.Enumerable.Tuple@11.0.642
 - pkg:nuget/Soenneker.Extensions.Enumerable.Tuple@2.0.1
 - pkg:nuget/Soenneker.Extensions.Enumerable.Tuple@2.0.2
 - pkg:nuget/Soenneker.Extensions.Enumerable.Tuple@2.0.3
