@@ -251,6 +251,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.Core.Contracts@8.0.413
 - pkg:nuget/Microsoft.TemplateEngine.Core.Contracts@8.0.414
 - pkg:nuget/Microsoft.TemplateEngine.Core.Contracts@8.0.425
+- pkg:nuget/Microsoft.TemplateEngine.Core.Contracts@8.0.428
 - pkg:nuget/Microsoft.TemplateEngine.Core.Contracts@9.0.100
 - pkg:nuget/Microsoft.TemplateEngine.Core.Contracts@9.0.100-preview.1.24081.1
 - pkg:nuget/Microsoft.TemplateEngine.Core.Contracts@9.0.100-preview.2.24128.3
