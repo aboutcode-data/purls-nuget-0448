@@ -1,2 +1,4 @@
 - pkg:nuget/Taba.Pulumi@0.3.12
 - pkg:nuget/Taba.Pulumi@0.3.12-rc.2
+- pkg:nuget/Taba.Pulumi@0.3.13-rc.2
+- pkg:nuget/Taba.Pulumi@0.3.14
