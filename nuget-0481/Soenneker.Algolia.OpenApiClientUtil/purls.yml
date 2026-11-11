@@ -5,6 +5,7 @@
 - pkg:nuget/Soenneker.Algolia.OpenApiClientUtil@11.0.225
 - pkg:nuget/Soenneker.Algolia.OpenApiClientUtil@11.0.229
 - pkg:nuget/Soenneker.Algolia.OpenApiClientUtil@11.0.232
+- pkg:nuget/Soenneker.Algolia.OpenApiClientUtil@11.0.238
 - pkg:nuget/Soenneker.Algolia.OpenApiClientUtil@4.0.109
 - pkg:nuget/Soenneker.Algolia.OpenApiClientUtil@4.0.110
 - pkg:nuget/Soenneker.Algolia.OpenApiClientUtil@4.0.114
