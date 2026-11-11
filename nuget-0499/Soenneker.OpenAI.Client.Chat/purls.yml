@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.OpenAI.Client.Chat@11.0.1388
+- pkg:nuget/Soenneker.OpenAI.Client.Chat@11.0.1389
 - pkg:nuget/Soenneker.OpenAI.Client.Chat@2.1.1
 - pkg:nuget/Soenneker.OpenAI.Client.Chat@2.1.10
 - pkg:nuget/Soenneker.OpenAI.Client.Chat@2.1.100
