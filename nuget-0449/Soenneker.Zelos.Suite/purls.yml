@@ -1,5 +1,7 @@
 - pkg:nuget/Soenneker.Zelos.Suite@11.0.763
 - pkg:nuget/Soenneker.Zelos.Suite@11.0.770
+- pkg:nuget/Soenneker.Zelos.Suite@11.0.776
+- pkg:nuget/Soenneker.Zelos.Suite@11.0.780
 - pkg:nuget/Soenneker.Zelos.Suite@3.0.1
 - pkg:nuget/Soenneker.Zelos.Suite@3.0.10
 - pkg:nuget/Soenneker.Zelos.Suite@3.0.100
