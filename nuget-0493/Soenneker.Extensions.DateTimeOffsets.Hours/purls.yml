@@ -1,9 +1,14 @@
+- pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Hours@11.0.167
+- pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Hours@11.0.170
+- pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Hours@11.0.171
+- pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Hours@11.0.172
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Hours@4.0.109
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Hours@4.0.120
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Hours@4.0.126
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Hours@4.0.129
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Hours@4.0.131
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Hours@4.0.139
+- pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Hours@4.0.155
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Hours@4.0.42
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Hours@4.0.48
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Hours@4.0.50
