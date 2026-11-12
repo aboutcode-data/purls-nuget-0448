@@ -33,4 +33,5 @@
 - pkg:nuget/ACR-SyncTool@1.2.7
 - pkg:nuget/ACR-SyncTool@1.2.8
 - pkg:nuget/ACR-SyncTool@1.2.9
+- pkg:nuget/ACR-SyncTool@2.0.11
 - pkg:nuget/ACR-SyncTool@2.0.5
