@@ -1,0 +1,5 @@
+- pkg:nuget/Stella.Ergosfare.SourceGenerator@2.0.0-preview
+- pkg:nuget/Stella.Ergosfare.SourceGenerator@2.1.0
+- pkg:nuget/Stella.Ergosfare.SourceGenerator@2.17.0-preview
+- pkg:nuget/Stella.Ergosfare.SourceGenerator@2.2.0-preview
+- pkg:nuget/Stella.Ergosfare.SourceGenerator@2.4.0-preview
