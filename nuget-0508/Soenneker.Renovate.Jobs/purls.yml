@@ -3,6 +3,8 @@
 - pkg:nuget/Soenneker.Renovate.Jobs@11.0.1974
 - pkg:nuget/Soenneker.Renovate.Jobs@11.0.1976
 - pkg:nuget/Soenneker.Renovate.Jobs@11.0.1977
+- pkg:nuget/Soenneker.Renovate.Jobs@11.0.1983
+- pkg:nuget/Soenneker.Renovate.Jobs@11.0.1985
 - pkg:nuget/Soenneker.Renovate.Jobs@2.1.1
 - pkg:nuget/Soenneker.Renovate.Jobs@2.1.10
 - pkg:nuget/Soenneker.Renovate.Jobs@2.1.100
