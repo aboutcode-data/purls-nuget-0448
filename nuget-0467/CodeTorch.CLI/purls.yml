@@ -25,6 +25,17 @@
 - pkg:nuget/CodeTorch.CLI@7.1.249
 - pkg:nuget/CodeTorch.CLI@7.1.250
 - pkg:nuget/CodeTorch.CLI@7.1.251
+- pkg:nuget/CodeTorch.CLI@7.1.252
+- pkg:nuget/CodeTorch.CLI@7.1.253
+- pkg:nuget/CodeTorch.CLI@7.1.259
+- pkg:nuget/CodeTorch.CLI@7.1.266
+- pkg:nuget/CodeTorch.CLI@7.1.268
+- pkg:nuget/CodeTorch.CLI@7.1.274
+- pkg:nuget/CodeTorch.CLI@7.1.278
+- pkg:nuget/CodeTorch.CLI@7.1.304
+- pkg:nuget/CodeTorch.CLI@7.1.306
+- pkg:nuget/CodeTorch.CLI@7.1.308
+- pkg:nuget/CodeTorch.CLI@7.1.309
 - pkg:nuget/CodeTorch.CLI@7.1.43
 - pkg:nuget/CodeTorch.CLI@7.1.50
 - pkg:nuget/CodeTorch.CLI@7.1.59
