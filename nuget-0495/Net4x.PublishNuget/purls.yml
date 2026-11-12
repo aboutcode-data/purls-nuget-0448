@@ -1,2 +1,6 @@
 - pkg:nuget/Net4x.PublishNuget@1.0.0.1
 - pkg:nuget/Net4x.PublishNuget@1.0.0.2
+- pkg:nuget/Net4x.PublishNuget@1.0.0.26243
+- pkg:nuget/Net4x.PublishNuget@1.0.0.26247
+- pkg:nuget/Net4x.PublishNuget@1.0.0.26253
+- pkg:nuget/Net4x.PublishNuget@1.0.0.26315
