@@ -26,3 +26,7 @@
 - pkg:nuget/TUnit.FsCheck@1.70.0
 - pkg:nuget/TUnit.FsCheck@1.72.0
 - pkg:nuget/TUnit.FsCheck@1.73.0
+- pkg:nuget/TUnit.FsCheck@1.73.19
+- pkg:nuget/TUnit.FsCheck@1.74.0
+- pkg:nuget/TUnit.FsCheck@1.75.0
+- pkg:nuget/TUnit.FsCheck@1.81.16
