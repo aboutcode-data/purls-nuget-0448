@@ -152,6 +152,7 @@
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@2.1.30
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@2.1.4
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@2.1.45
+- pkg:nuget/Informatique.UOB.Base.Application.Contracts@2.1.46
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@2.1.5
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@2.1.6
 - pkg:nuget/Informatique.UOB.Base.Application.Contracts@2.1.7
