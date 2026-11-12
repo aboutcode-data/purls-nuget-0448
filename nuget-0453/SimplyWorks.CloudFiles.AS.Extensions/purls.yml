@@ -1,3 +1,4 @@
+- pkg:nuget/SimplyWorks.CloudFiles.AS.Extensions@10.0.3
 - pkg:nuget/SimplyWorks.CloudFiles.AS.Extensions@5.0.10
 - pkg:nuget/SimplyWorks.CloudFiles.AS.Extensions@5.0.11
 - pkg:nuget/SimplyWorks.CloudFiles.AS.Extensions@5.0.12
