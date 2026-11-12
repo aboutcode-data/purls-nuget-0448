@@ -13,3 +13,4 @@
 - pkg:nuget/Kralizek.Lambda.Templates@4.0.1
 - pkg:nuget/Kralizek.Lambda.Templates@4.1.0
 - pkg:nuget/Kralizek.Lambda.Templates@5.0.0
+- pkg:nuget/Kralizek.Lambda.Templates@6.1.0-beta.1
