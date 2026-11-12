@@ -34,3 +34,4 @@
 - pkg:nuget/Cake.Tool@4.1.0
 - pkg:nuget/Cake.Tool@4.2.0
 - pkg:nuget/Cake.Tool@5.0.0
+- pkg:nuget/Cake.Tool@7.0.0
