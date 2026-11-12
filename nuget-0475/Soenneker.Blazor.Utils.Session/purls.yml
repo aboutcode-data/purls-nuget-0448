@@ -278,6 +278,7 @@
 - pkg:nuget/Soenneker.Blazor.Utils.Session@11.0.2843
 - pkg:nuget/Soenneker.Blazor.Utils.Session@11.0.2850
 - pkg:nuget/Soenneker.Blazor.Utils.Session@11.0.2852
+- pkg:nuget/Soenneker.Blazor.Utils.Session@11.0.2856
 - pkg:nuget/Soenneker.Blazor.Utils.Session@2.0.1
 - pkg:nuget/Soenneker.Blazor.Utils.Session@2.0.2
 - pkg:nuget/Soenneker.Blazor.Utils.Session@2.0.278
