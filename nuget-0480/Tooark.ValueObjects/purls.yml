@@ -21,3 +21,5 @@
 - pkg:nuget/Tooark.ValueObjects@2.1.9
 - pkg:nuget/Tooark.ValueObjects@2.3.0
 - pkg:nuget/Tooark.ValueObjects@3.2.0
+- pkg:nuget/Tooark.ValueObjects@4.6.0
+- pkg:nuget/Tooark.ValueObjects@4.7.3
