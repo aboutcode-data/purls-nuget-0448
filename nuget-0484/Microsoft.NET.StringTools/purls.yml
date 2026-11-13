@@ -29,5 +29,6 @@
 - pkg:nuget/Microsoft.NET.StringTools@17.8.43
 - pkg:nuget/Microsoft.NET.StringTools@17.9.0
 - pkg:nuget/Microsoft.NET.StringTools@17.9.5
+- pkg:nuget/Microsoft.NET.StringTools@18.12.2
 - pkg:nuget/Microsoft.NET.StringTools@18.4.0
 - pkg:nuget/Microsoft.NET.StringTools@18.9.6
