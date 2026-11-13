@@ -1,0 +1,5 @@
+- pkg:nuget/Wuic.PostgresProvider@1.7.15
+- pkg:nuget/Wuic.PostgresProvider@1.7.21
+- pkg:nuget/Wuic.PostgresProvider@1.7.23
+- pkg:nuget/Wuic.PostgresProvider@1.7.30
+- pkg:nuget/Wuic.PostgresProvider@1.8.0
