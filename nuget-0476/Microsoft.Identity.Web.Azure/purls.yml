@@ -73,5 +73,7 @@
 - pkg:nuget/Microsoft.Identity.Web.Azure@3.9.4
 - pkg:nuget/Microsoft.Identity.Web.Azure@4.12.0
 - pkg:nuget/Microsoft.Identity.Web.Azure@4.14.2
+- pkg:nuget/Microsoft.Identity.Web.Azure@4.16.1
+- pkg:nuget/Microsoft.Identity.Web.Azure@4.17.0
 - pkg:nuget/Microsoft.Identity.Web.Azure@4.6.0
 - pkg:nuget/Microsoft.Identity.Web.Azure@4.7.0
