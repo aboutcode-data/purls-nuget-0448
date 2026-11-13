@@ -13,3 +13,5 @@
 - pkg:nuget/KGSoft.TinyHttpClient@2.2.0
 - pkg:nuget/KGSoft.TinyHttpClient@2.3.0
 - pkg:nuget/KGSoft.TinyHttpClient@2.4.0
+- pkg:nuget/KGSoft.TinyHttpClient@3.0.0
+- pkg:nuget/KGSoft.TinyHttpClient@3.0.1
