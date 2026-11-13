@@ -78,4 +78,5 @@
 - pkg:nuget/Microsoft.PowerApps.MSBuild.Plugin@1.9.9
 - pkg:nuget/Microsoft.PowerApps.MSBuild.Plugin@2.1.1
 - pkg:nuget/Microsoft.PowerApps.MSBuild.Plugin@2.13.1
+- pkg:nuget/Microsoft.PowerApps.MSBuild.Plugin@2.15.1
 - pkg:nuget/Microsoft.PowerApps.MSBuild.Plugin@2.5.1
