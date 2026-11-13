@@ -49,3 +49,5 @@
 - pkg:nuget/DatabaseSharp@1.4.5
 - pkg:nuget/DatabaseSharp@1.6.14
 - pkg:nuget/DatabaseSharp@1.6.15
+- pkg:nuget/DatabaseSharp@1.7.0
+- pkg:nuget/DatabaseSharp@1.7.1
