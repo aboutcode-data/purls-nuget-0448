@@ -13,6 +13,8 @@
 - pkg:nuget/AspNetCoreRuntime.9.0.x64@9.0.16
 - pkg:nuget/AspNetCoreRuntime.9.0.x64@9.0.19
 - pkg:nuget/AspNetCoreRuntime.9.0.x64@9.0.2
+- pkg:nuget/AspNetCoreRuntime.9.0.x64@9.0.21
+- pkg:nuget/AspNetCoreRuntime.9.0.x64@9.0.23
 - pkg:nuget/AspNetCoreRuntime.9.0.x64@9.0.3
 - pkg:nuget/AspNetCoreRuntime.9.0.x64@9.0.4
 - pkg:nuget/AspNetCoreRuntime.9.0.x64@9.0.5
