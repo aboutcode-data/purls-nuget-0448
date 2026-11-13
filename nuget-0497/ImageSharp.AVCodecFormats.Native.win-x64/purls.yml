@@ -7,3 +7,4 @@
 - pkg:nuget/ImageSharp.AVCodecFormats.Native.win-x64@1.6.0
 - pkg:nuget/ImageSharp.AVCodecFormats.Native.win-x64@2.0.0
 - pkg:nuget/ImageSharp.AVCodecFormats.Native.win-x64@3.0.0
+- pkg:nuget/ImageSharp.AVCodecFormats.Native.win-x64@4.0.0
