@@ -7,3 +7,4 @@
 - pkg:nuget/FIX.Platform.Models@1.14.34
 - pkg:nuget/FIX.Platform.Models@1.14.34-staging
 - pkg:nuget/FIX.Platform.Models@1.14.36-staging
+- pkg:nuget/FIX.Platform.Models@1.14.45-staging
