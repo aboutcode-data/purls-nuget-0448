@@ -21,3 +21,5 @@
 - pkg:nuget/JetBrains.Microsoft.Diagnostics.Runtime@2.1.20230629.13
 - pkg:nuget/JetBrains.Microsoft.Diagnostics.Runtime@2.1.20230630.2
 - pkg:nuget/JetBrains.Microsoft.Diagnostics.Runtime@2.1.20241003.5
+- pkg:nuget/JetBrains.Microsoft.Diagnostics.Runtime@4.0.20260924.7
+- pkg:nuget/JetBrains.Microsoft.Diagnostics.Runtime@4.0.20261020.8
