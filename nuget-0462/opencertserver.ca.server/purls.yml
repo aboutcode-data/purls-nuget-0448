@@ -1,3 +1,7 @@
 - pkg:nuget/opencertserver.ca.server@2.4.6-profiles.22
 - pkg:nuget/opencertserver.ca.server@2.5.0
 - pkg:nuget/opencertserver.ca.server@2.6.0
+- pkg:nuget/opencertserver.ca.server@3.9.0
+- pkg:nuget/opencertserver.ca.server@3.9.1
+- pkg:nuget/opencertserver.ca.server@3.9.2
+- pkg:nuget/opencertserver.ca.server@4.1.0
