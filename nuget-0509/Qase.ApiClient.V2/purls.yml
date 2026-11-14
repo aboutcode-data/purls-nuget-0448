@@ -16,3 +16,4 @@
 - pkg:nuget/Qase.ApiClient.V2@1.1.12
 - pkg:nuget/Qase.ApiClient.V2@1.1.13
 - pkg:nuget/Qase.ApiClient.V2@1.1.26
+- pkg:nuget/Qase.ApiClient.V2@2.0.0
