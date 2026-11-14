@@ -59,6 +59,8 @@
 - pkg:nuget/FAP5.Client@5.0.34.1
 - pkg:nuget/FAP5.Client@5.0.34.1-prerelease
 - pkg:nuget/FAP5.Client@5.0.34.2
+- pkg:nuget/FAP5.Client@5.0.34.23
+- pkg:nuget/FAP5.Client@5.0.34.25
 - pkg:nuget/FAP5.Client@5.0.34.3
 - pkg:nuget/FAP5.Client@5.0.34.4
 - pkg:nuget/FAP5.Client@5.0.34.5
