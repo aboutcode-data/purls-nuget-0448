@@ -1,0 +1,5 @@
+- pkg:nuget/EggSharp.Testing@12.0.0
+- pkg:nuget/EggSharp.Testing@13.0.0
+- pkg:nuget/EggSharp.Testing@14.0.0
+- pkg:nuget/EggSharp.Testing@27.0.0
+- pkg:nuget/EggSharp.Testing@9.0.0
