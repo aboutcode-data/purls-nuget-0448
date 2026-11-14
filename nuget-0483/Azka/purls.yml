@@ -15,6 +15,7 @@
 - pkg:nuget/Azka@1.1.0-Beta1
 - pkg:nuget/Azka@1.1.0-Beta4
 - pkg:nuget/Azka@1.1.0-Beta5
+- pkg:nuget/Azka@10.0.0-rc.3
 - pkg:nuget/Azka@2.0.0
 - pkg:nuget/Azka@2.0.1-alpha.1
 - pkg:nuget/Azka@2.0.1-alpha.2
