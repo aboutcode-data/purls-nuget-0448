@@ -5,3 +5,5 @@
 - pkg:nuget/BergamotTranslatorSharp@0.3.0
 - pkg:nuget/BergamotTranslatorSharp@0.3.1
 - pkg:nuget/BergamotTranslatorSharp@0.3.3
+- pkg:nuget/BergamotTranslatorSharp@0.6.1
+- pkg:nuget/BergamotTranslatorSharp@0.7.0
