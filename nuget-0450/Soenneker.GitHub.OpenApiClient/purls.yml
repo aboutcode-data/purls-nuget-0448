@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.GitHub.OpenApiClient@11.0.284
 - pkg:nuget/Soenneker.GitHub.OpenApiClient@11.0.295
 - pkg:nuget/Soenneker.GitHub.OpenApiClient@11.0.302
+- pkg:nuget/Soenneker.GitHub.OpenApiClient@11.0.305
 - pkg:nuget/Soenneker.GitHub.OpenApiClient@3.0.1
 - pkg:nuget/Soenneker.GitHub.OpenApiClient@3.0.10
 - pkg:nuget/Soenneker.GitHub.OpenApiClient@3.0.12
