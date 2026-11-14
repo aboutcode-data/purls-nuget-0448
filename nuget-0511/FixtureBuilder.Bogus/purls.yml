@@ -1,1 +1,2 @@
 - pkg:nuget/FixtureBuilder.Bogus@1.1.0
+- pkg:nuget/FixtureBuilder.Bogus@1.2.0
