@@ -26,3 +26,5 @@
 - pkg:nuget/Klab.Toolkit.DI@2.8.1
 - pkg:nuget/Klab.Toolkit.DI@2.8.2
 - pkg:nuget/Klab.Toolkit.DI@2.9.0
+- pkg:nuget/Klab.Toolkit.DI@3.1.2
+- pkg:nuget/Klab.Toolkit.DI@4.1.0
