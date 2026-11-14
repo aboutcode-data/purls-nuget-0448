@@ -20,3 +20,7 @@
 - pkg:nuget/ChromaticityDotNet@1.0.1.8
 - pkg:nuget/ChromaticityDotNet@1.0.1.9
 - pkg:nuget/ChromaticityDotNet@1.0.2
+- pkg:nuget/ChromaticityDotNet@1.0.4.1
+- pkg:nuget/ChromaticityDotNet@1.0.4.10
+- pkg:nuget/ChromaticityDotNet@1.0.4.11
+- pkg:nuget/ChromaticityDotNet@1.0.4.7
