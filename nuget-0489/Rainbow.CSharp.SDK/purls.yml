@@ -82,6 +82,7 @@
 - pkg:nuget/Rainbow.CSharp.SDK@3.0.0-sts.4.2
 - pkg:nuget/Rainbow.CSharp.SDK@3.0.0-sts.4.2-21
 - pkg:nuget/Rainbow.CSharp.SDK@3.1.0
+- pkg:nuget/Rainbow.CSharp.SDK@3.10.3
 - pkg:nuget/Rainbow.CSharp.SDK@3.2.0
 - pkg:nuget/Rainbow.CSharp.SDK@3.3.0
 - pkg:nuget/Rainbow.CSharp.SDK@3.4.0
