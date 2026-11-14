@@ -43,3 +43,5 @@
 - pkg:nuget/Indiko.Hosting.Mvc@2.6.2
 - pkg:nuget/Indiko.Hosting.Mvc@2.6.3
 - pkg:nuget/Indiko.Hosting.Mvc@2.6.4
+- pkg:nuget/Indiko.Hosting.Mvc@4.2.0
+- pkg:nuget/Indiko.Hosting.Mvc@4.3.0
