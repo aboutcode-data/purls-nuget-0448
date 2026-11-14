@@ -1,4 +1,5 @@
 - pkg:nuget/StatusReporter@10.0.2
+- pkg:nuget/StatusReporter@11.0.0
 - pkg:nuget/StatusReporter@9.0.0
 - pkg:nuget/StatusReporter@9.0.1
 - pkg:nuget/StatusReporter@9.0.2
