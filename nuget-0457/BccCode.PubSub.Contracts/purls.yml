@@ -53,3 +53,5 @@
 - pkg:nuget/BccCode.PubSub.Contracts@0.0.459
 - pkg:nuget/BccCode.PubSub.Contracts@0.0.469
 - pkg:nuget/BccCode.PubSub.Contracts@0.0.471
+- pkg:nuget/BccCode.PubSub.Contracts@0.0.716
+- pkg:nuget/BccCode.PubSub.Contracts@0.0.718
