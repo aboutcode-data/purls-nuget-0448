@@ -19,3 +19,4 @@
 - pkg:nuget/Punchclock@4.0.1
 - pkg:nuget/Punchclock@4.0.2
 - pkg:nuget/Punchclock@5.0.1
+- pkg:nuget/Punchclock@8.0.0
