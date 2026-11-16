@@ -6,3 +6,5 @@
 - pkg:nuget/Webority.Payments.Paddle@0.29.0
 - pkg:nuget/Webority.Payments.Paddle@0.31.0
 - pkg:nuget/Webority.Payments.Paddle@0.35.0
+- pkg:nuget/Webority.Payments.Paddle@0.38.1
+- pkg:nuget/Webority.Payments.Paddle@0.39.0
