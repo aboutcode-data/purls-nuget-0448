@@ -58,3 +58,4 @@
 - pkg:nuget/Fig.WebHooks.Contracts@3.4.0
 - pkg:nuget/Fig.WebHooks.Contracts@3.4.2
 - pkg:nuget/Fig.WebHooks.Contracts@4.0.1
+- pkg:nuget/Fig.WebHooks.Contracts@4.0.7
