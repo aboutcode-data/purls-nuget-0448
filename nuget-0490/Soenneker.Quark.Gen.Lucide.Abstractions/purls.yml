@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Quark.Gen.Lucide.Abstractions@11.0.35
+- pkg:nuget/Soenneker.Quark.Gen.Lucide.Abstractions@11.0.36
 - pkg:nuget/Soenneker.Quark.Gen.Lucide.Abstractions@4.0.13
 - pkg:nuget/Soenneker.Quark.Gen.Lucide.Abstractions@4.0.16
 - pkg:nuget/Soenneker.Quark.Gen.Lucide.Abstractions@4.0.18
