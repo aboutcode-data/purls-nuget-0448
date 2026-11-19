@@ -12,6 +12,9 @@
 - pkg:nuget/Soenneker.Blazor.CreditCards@11.0.736
 - pkg:nuget/Soenneker.Blazor.CreditCards@11.0.737
 - pkg:nuget/Soenneker.Blazor.CreditCards@11.0.743
+- pkg:nuget/Soenneker.Blazor.CreditCards@11.0.747
+- pkg:nuget/Soenneker.Blazor.CreditCards@11.0.748
+- pkg:nuget/Soenneker.Blazor.CreditCards@11.0.749
 - pkg:nuget/Soenneker.Blazor.CreditCards@3.0.1
 - pkg:nuget/Soenneker.Blazor.CreditCards@3.0.10
 - pkg:nuget/Soenneker.Blazor.CreditCards@3.0.100
