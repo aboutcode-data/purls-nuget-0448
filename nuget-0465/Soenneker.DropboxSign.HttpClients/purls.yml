@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.DropboxSign.HttpClients@11.0.153
 - pkg:nuget/Soenneker.DropboxSign.HttpClients@11.0.159
 - pkg:nuget/Soenneker.DropboxSign.HttpClients@11.0.162
+- pkg:nuget/Soenneker.DropboxSign.HttpClients@11.0.167
 - pkg:nuget/Soenneker.DropboxSign.HttpClients@4.0.108
 - pkg:nuget/Soenneker.DropboxSign.HttpClients@4.0.109
 - pkg:nuget/Soenneker.DropboxSign.HttpClients@4.0.118
