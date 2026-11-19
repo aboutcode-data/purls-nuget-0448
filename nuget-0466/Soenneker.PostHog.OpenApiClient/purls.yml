@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.PostHog.OpenApiClient@11.0.107
 - pkg:nuget/Soenneker.PostHog.OpenApiClient@11.0.111
+- pkg:nuget/Soenneker.PostHog.OpenApiClient@11.0.115
 - pkg:nuget/Soenneker.PostHog.OpenApiClient@11.0.94
 - pkg:nuget/Soenneker.PostHog.OpenApiClient@11.0.95
 - pkg:nuget/Soenneker.PostHog.OpenApiClient@11.0.98
