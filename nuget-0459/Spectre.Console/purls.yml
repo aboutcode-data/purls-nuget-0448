@@ -586,6 +586,8 @@
 - pkg:nuget/Spectre.Console@0.57.3-alpha.0.35
 - pkg:nuget/Spectre.Console@0.57.3-alpha.0.36
 - pkg:nuget/Spectre.Console@0.57.3-alpha.0.50
+- pkg:nuget/Spectre.Console@0.57.3-alpha.0.51
+- pkg:nuget/Spectre.Console@0.57.3-alpha.0.52
 - pkg:nuget/Spectre.Console@0.57.3-alpha.0.8
 - pkg:nuget/Spectre.Console@0.6.0
 - pkg:nuget/Spectre.Console@0.6.1-preview.0.2
