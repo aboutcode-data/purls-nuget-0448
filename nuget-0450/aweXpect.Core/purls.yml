@@ -112,3 +112,4 @@
 - pkg:nuget/aweXpect.Core@3.2.0
 - pkg:nuget/aweXpect.Core@3.4.0-pre.1
 - pkg:nuget/aweXpect.Core@4.0.0
+- pkg:nuget/aweXpect.Core@4.3.0
