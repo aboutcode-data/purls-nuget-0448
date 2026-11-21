@@ -18,6 +18,7 @@
 - pkg:nuget/IQOUTSOURCING.Tools.Sdk@1.12.56
 - pkg:nuget/IQOUTSOURCING.Tools.Sdk@1.13.57
 - pkg:nuget/IQOUTSOURCING.Tools.Sdk@1.13.59
+- pkg:nuget/IQOUTSOURCING.Tools.Sdk@1.13.63
 - pkg:nuget/IQOUTSOURCING.Tools.Sdk@1.8.10
 - pkg:nuget/IQOUTSOURCING.Tools.Sdk@1.8.11
 - pkg:nuget/IQOUTSOURCING.Tools.Sdk@1.8.12
@@ -57,4 +58,8 @@
 - pkg:nuget/IQOUTSOURCING.Tools.Sdk@1.9.45
 - pkg:nuget/IQOUTSOURCING.Tools.Sdk@1.9.46
 - pkg:nuget/IQOUTSOURCING.Tools.Sdk@1.9.47
+- pkg:nuget/IQOUTSOURCING.Tools.Sdk@2.14.64
+- pkg:nuget/IQOUTSOURCING.Tools.Sdk@2.14.65
+- pkg:nuget/IQOUTSOURCING.Tools.Sdk@2.14.66
+- pkg:nuget/IQOUTSOURCING.Tools.Sdk@3.15.1
 - pkg:nuget/IQOUTSOURCING.Tools.Sdk@4.17.0
