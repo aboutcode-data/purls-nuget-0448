@@ -17,4 +17,5 @@
 - pkg:nuget/Resend@0.1.5
 - pkg:nuget/Resend@0.17.0
 - pkg:nuget/Resend@0.24.0
+- pkg:nuget/Resend@0.27.0
 - pkg:nuget/Resend@0.8.0
