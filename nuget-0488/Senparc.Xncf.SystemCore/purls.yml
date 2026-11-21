@@ -31,6 +31,7 @@
 - pkg:nuget/Senparc.Xncf.SystemCore@0.12.8.2-preview1
 - pkg:nuget/Senparc.Xncf.SystemCore@0.12.8.4-preview1
 - pkg:nuget/Senparc.Xncf.SystemCore@0.12.9-preview1
+- pkg:nuget/Senparc.Xncf.SystemCore@0.14.14
 - pkg:nuget/Senparc.Xncf.SystemCore@0.2.0-beta7
 - pkg:nuget/Senparc.Xncf.SystemCore@0.2.1-beta7
 - pkg:nuget/Senparc.Xncf.SystemCore@0.3.0-beta7

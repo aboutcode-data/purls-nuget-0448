@@ -31,6 +31,7 @@
 - pkg:nuget/Senparc.Xncf.SystemPermission@0.13.8.2-preview1
 - pkg:nuget/Senparc.Xncf.SystemPermission@0.13.8.4-preview1
 - pkg:nuget/Senparc.Xncf.SystemPermission@0.13.9-preview1
+- pkg:nuget/Senparc.Xncf.SystemPermission@0.15.14
 - pkg:nuget/Senparc.Xncf.SystemPermission@0.2.0-beta7
 - pkg:nuget/Senparc.Xncf.SystemPermission@0.2.1-beta7
 - pkg:nuget/Senparc.Xncf.SystemPermission@0.3.0-beta7
