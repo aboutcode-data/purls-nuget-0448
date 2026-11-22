@@ -1149,6 +1149,7 @@
 - pkg:nuget/Credfeto.Database.Pgsql@1.2.233.2950-pull-205-merge
 - pkg:nuget/Credfeto.Database.Pgsql@1.2.233.2959-main
 - pkg:nuget/Credfeto.Database.Pgsql@1.2.233.2960-main
+- pkg:nuget/Credfeto.Database.Pgsql@1.2.235.2970-main
 - pkg:nuget/Credfeto.Database.Pgsql@1.2.24.694-main
 - pkg:nuget/Credfeto.Database.Pgsql@1.2.24.695
 - pkg:nuget/Credfeto.Database.Pgsql@1.2.25.696-main
