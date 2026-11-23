@@ -1,4 +1,5 @@
 - pkg:nuget/Open.Database.Extensions.Core@10.3.0
+- pkg:nuget/Open.Database.Extensions.Core@11.0.0-rc.11
 - pkg:nuget/Open.Database.Extensions.Core@6.0.0
 - pkg:nuget/Open.Database.Extensions.Core@6.0.0-preview1
 - pkg:nuget/Open.Database.Extensions.Core@6.0.0-preview2
