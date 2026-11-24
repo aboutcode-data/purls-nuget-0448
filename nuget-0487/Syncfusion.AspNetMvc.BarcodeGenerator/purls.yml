@@ -1,3 +1,4 @@
 - pkg:nuget/Syncfusion.AspNetMvc.BarcodeGenerator@34.1.29
 - pkg:nuget/Syncfusion.AspNetMvc.BarcodeGenerator@34.1.31
 - pkg:nuget/Syncfusion.AspNetMvc.BarcodeGenerator@34.2.5
+- pkg:nuget/Syncfusion.AspNetMvc.BarcodeGenerator@35.2.13
