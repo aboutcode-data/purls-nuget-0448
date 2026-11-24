@@ -1,3 +1,4 @@
+- pkg:nuget/Webority.Email@0.100.1
 - pkg:nuget/Webority.Email@0.14.0
 - pkg:nuget/Webority.Email@0.2.0
 - pkg:nuget/Webority.Email@0.32.0
