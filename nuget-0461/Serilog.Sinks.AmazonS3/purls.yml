@@ -17,3 +17,5 @@
 - pkg:nuget/Serilog.Sinks.AmazonS3@1.5.2
 - pkg:nuget/Serilog.Sinks.AmazonS3@1.5.3
 - pkg:nuget/Serilog.Sinks.AmazonS3@1.6.0
+- pkg:nuget/Serilog.Sinks.AmazonS3@1.8.0
+- pkg:nuget/Serilog.Sinks.AmazonS3@2.0.0
