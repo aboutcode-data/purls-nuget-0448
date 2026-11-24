@@ -5,3 +5,4 @@
 - pkg:nuget/Verhaeg.IoT.Processor@1.0.7
 - pkg:nuget/Verhaeg.IoT.Processor@1.0.8
 - pkg:nuget/Verhaeg.IoT.Processor@1.0.9-ci.6
+- pkg:nuget/Verhaeg.IoT.Processor@1.0.9-ci.7
