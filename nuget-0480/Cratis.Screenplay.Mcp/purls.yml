@@ -62,3 +62,5 @@
 - pkg:nuget/Cratis.Screenplay.Mcp@6.30.0
 - pkg:nuget/Cratis.Screenplay.Mcp@6.33.0
 - pkg:nuget/Cratis.Screenplay.Mcp@6.36.0
+- pkg:nuget/Cratis.Screenplay.Mcp@6.40.0
+- pkg:nuget/Cratis.Screenplay.Mcp@6.42.0
