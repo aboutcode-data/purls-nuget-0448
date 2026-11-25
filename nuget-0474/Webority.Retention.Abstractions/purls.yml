@@ -1,4 +1,6 @@
 - pkg:nuget/Webority.Retention.Abstractions@0.5.0
 - pkg:nuget/Webority.Retention.Abstractions@0.5.10
 - pkg:nuget/Webority.Retention.Abstractions@0.5.11
+- pkg:nuget/Webority.Retention.Abstractions@0.5.13
+- pkg:nuget/Webority.Retention.Abstractions@0.5.14
 - pkg:nuget/Webority.Retention.Abstractions@0.5.4
