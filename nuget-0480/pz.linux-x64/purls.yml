@@ -3,5 +3,6 @@
 - pkg:nuget/pz.linux-x64@0.15.0
 - pkg:nuget/pz.linux-x64@0.16.0
 - pkg:nuget/pz.linux-x64@0.17.0
+- pkg:nuget/pz.linux-x64@0.22.1
 - pkg:nuget/pz.linux-x64@0.7.0
 - pkg:nuget/pz.linux-x64@0.9.1
