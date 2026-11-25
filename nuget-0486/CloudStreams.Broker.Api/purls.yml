@@ -27,3 +27,5 @@
 - pkg:nuget/CloudStreams.Broker.Api@0.44.0
 - pkg:nuget/CloudStreams.Broker.Api@0.45.0
 - pkg:nuget/CloudStreams.Broker.Api@0.46.0
+- pkg:nuget/CloudStreams.Broker.Api@0.59.0
+- pkg:nuget/CloudStreams.Broker.Api@0.63.0
