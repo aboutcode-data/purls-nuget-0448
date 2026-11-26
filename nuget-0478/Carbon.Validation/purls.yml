@@ -42,3 +42,4 @@
 - pkg:nuget/Carbon.Validation@3.8.1
 - pkg:nuget/Carbon.Validation@3.9.0
 - pkg:nuget/Carbon.Validation@4.0.0
+- pkg:nuget/Carbon.Validation@4.3.0
