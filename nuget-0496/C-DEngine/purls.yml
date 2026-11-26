@@ -45,3 +45,4 @@
 - pkg:nuget/C-DEngine@6.104.0
 - pkg:nuget/C-DEngine@6.112.0
 - pkg:nuget/C-DEngine@6.112.2
+- pkg:nuget/C-DEngine@7.111.5
