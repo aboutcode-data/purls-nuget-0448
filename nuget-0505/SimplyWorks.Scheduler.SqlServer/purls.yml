@@ -1,1 +1,2 @@
+- pkg:nuget/SimplyWorks.Scheduler.SqlServer@10.0.3
 - pkg:nuget/SimplyWorks.Scheduler.SqlServer@8.1.4
