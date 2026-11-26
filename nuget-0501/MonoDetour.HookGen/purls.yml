@@ -17,3 +17,4 @@
 - pkg:nuget/MonoDetour.HookGen@0.7.12
 - pkg:nuget/MonoDetour.HookGen@0.7.14
 - pkg:nuget/MonoDetour.HookGen@0.7.17
+- pkg:nuget/MonoDetour.HookGen@0.7.19
