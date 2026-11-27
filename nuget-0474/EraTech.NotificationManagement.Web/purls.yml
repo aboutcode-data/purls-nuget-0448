@@ -1,3 +1,6 @@
 - pkg:nuget/EraTech.NotificationManagement.Web@2.1.47
 - pkg:nuget/EraTech.NotificationManagement.Web@2.1.81
+- pkg:nuget/EraTech.NotificationManagement.Web@2.2.27
+- pkg:nuget/EraTech.NotificationManagement.Web@2.2.39
+- pkg:nuget/EraTech.NotificationManagement.Web@2.2.45
 - pkg:nuget/EraTech.NotificationManagement.Web@2.2.6
