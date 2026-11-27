@@ -7,5 +7,10 @@
 - pkg:nuget/Duende.Labs.Storage@0.1.0-alpha.0.610
 - pkg:nuget/Duende.Labs.Storage@2026.1007.4
 - pkg:nuget/Duende.Labs.Storage@2026.1007.61
+- pkg:nuget/Duende.Labs.Storage@2026.1009.20
+- pkg:nuget/Duende.Labs.Storage@2026.1009.6
+- pkg:nuget/Duende.Labs.Storage@2026.1009.63
+- pkg:nuget/Duende.Labs.Storage@2026.1020.23
+- pkg:nuget/Duende.Labs.Storage@2026.1020.9
 - pkg:nuget/Duende.Labs.Storage@2026.807.2
 - pkg:nuget/Duende.Labs.Storage@2026.928.55
