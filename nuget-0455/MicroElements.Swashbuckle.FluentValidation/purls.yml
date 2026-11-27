@@ -73,3 +73,5 @@
 - pkg:nuget/MicroElements.Swashbuckle.FluentValidation@7.1.7-beta.2
 - pkg:nuget/MicroElements.Swashbuckle.FluentValidation@7.1.8
 - pkg:nuget/MicroElements.Swashbuckle.FluentValidation@7.1.8-beta.2
+- pkg:nuget/MicroElements.Swashbuckle.FluentValidation@7.2.3
+- pkg:nuget/MicroElements.Swashbuckle.FluentValidation@7.2.4
