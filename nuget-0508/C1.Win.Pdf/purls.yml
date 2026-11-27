@@ -1,3 +1,4 @@
+- pkg:nuget/C1.Win.Pdf@11.0.20262.349
 - pkg:nuget/C1.Win.Pdf@8.0.20241.66-beta
 - pkg:nuget/C1.Win.Pdf@8.0.20241.72-beta
 - pkg:nuget/C1.Win.Pdf@8.0.20242.105
