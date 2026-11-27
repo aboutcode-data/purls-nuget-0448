@@ -1,3 +1,8 @@
 - pkg:nuget/EraTech.NotificationManagement.Domain@2.1.47
 - pkg:nuget/EraTech.NotificationManagement.Domain@2.1.81
 - pkg:nuget/EraTech.NotificationManagement.Domain@2.1.99
+- pkg:nuget/EraTech.NotificationManagement.Domain@2.2.23
+- pkg:nuget/EraTech.NotificationManagement.Domain@2.2.27
+- pkg:nuget/EraTech.NotificationManagement.Domain@2.2.39
+- pkg:nuget/EraTech.NotificationManagement.Domain@2.2.45
+- pkg:nuget/EraTech.NotificationManagement.Domain@2.3.0
