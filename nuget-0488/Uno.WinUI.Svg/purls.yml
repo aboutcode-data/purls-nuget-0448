@@ -2723,6 +2723,8 @@
 - pkg:nuget/Uno.WinUI.Svg@6.8.0-dev.3
 - pkg:nuget/Uno.WinUI.Svg@6.8.0-dev.339
 - pkg:nuget/Uno.WinUI.Svg@6.8.0-dev.364
+- pkg:nuget/Uno.WinUI.Svg@6.8.0-dev.436
+- pkg:nuget/Uno.WinUI.Svg@6.8.0-dev.437
 - pkg:nuget/Uno.WinUI.Svg@7.0.0-dev.1254
 - pkg:nuget/Uno.WinUI.Svg@7.0.0-dev.1273
 - pkg:nuget/Uno.WinUI.Svg@7.0.0-dev.1447
@@ -2815,5 +2817,7 @@
 - pkg:nuget/Uno.WinUI.Svg@7.1.0-dev.597
 - pkg:nuget/Uno.WinUI.Svg@7.1.0-dev.599
 - pkg:nuget/Uno.WinUI.Svg@7.1.0-dev.601
+- pkg:nuget/Uno.WinUI.Svg@7.1.0-dev.635
+- pkg:nuget/Uno.WinUI.Svg@7.1.0-dev.645
 - pkg:nuget/Uno.WinUI.Svg@7.1.0-dev.75
 - pkg:nuget/Uno.WinUI.Svg@7.1.0-dev.77
