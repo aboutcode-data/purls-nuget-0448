@@ -1,0 +1,2 @@
+- pkg:nuget/Doka.EntityFrameworkCore.SafeMigrations.Sqlite@10.4.4
+- pkg:nuget/Doka.EntityFrameworkCore.SafeMigrations.Sqlite@10.6.0
