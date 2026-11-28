@@ -465,6 +465,7 @@
 - pkg:nuget/DubUrl@0.7.2
 - pkg:nuget/DubUrl@0.7.3
 - pkg:nuget/DubUrl@0.70.0
+- pkg:nuget/DubUrl@0.78.0
 - pkg:nuget/DubUrl@0.8.0
 - pkg:nuget/DubUrl@0.8.1
 - pkg:nuget/DubUrl@0.8.2
