@@ -7,6 +7,9 @@
 - pkg:nuget/AngleSharp.Renderer@0.11.3-beta.164
 - pkg:nuget/AngleSharp.Renderer@0.11.3-beta.165
 - pkg:nuget/AngleSharp.Renderer@0.11.3-beta.166
+- pkg:nuget/AngleSharp.Renderer@0.12.0-beta.212
+- pkg:nuget/AngleSharp.Renderer@0.12.1-beta.220
+- pkg:nuget/AngleSharp.Renderer@0.13.0-beta.229
 - pkg:nuget/AngleSharp.Renderer@0.6.0
 - pkg:nuget/AngleSharp.Renderer@0.6.0-beta.54
 - pkg:nuget/AngleSharp.Renderer@0.6.0-beta.56
