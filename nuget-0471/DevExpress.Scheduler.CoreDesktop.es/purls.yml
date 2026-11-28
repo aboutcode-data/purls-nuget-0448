@@ -1,6 +1,7 @@
 - pkg:nuget/DevExpress.Scheduler.CoreDesktop.es@25.1.11
 - pkg:nuget/DevExpress.Scheduler.CoreDesktop.es@25.1.6
 - pkg:nuget/DevExpress.Scheduler.CoreDesktop.es@25.2.10
+- pkg:nuget/DevExpress.Scheduler.CoreDesktop.es@25.2.11
 - pkg:nuget/DevExpress.Scheduler.CoreDesktop.es@25.2.8
 - pkg:nuget/DevExpress.Scheduler.CoreDesktop.es@25.2.9
 - pkg:nuget/DevExpress.Scheduler.CoreDesktop.es@26.1.2-beta
@@ -8,3 +9,5 @@
 - pkg:nuget/DevExpress.Scheduler.CoreDesktop.es@26.1.4-pre-26190
 - pkg:nuget/DevExpress.Scheduler.CoreDesktop.es@26.1.5-pre-26235
 - pkg:nuget/DevExpress.Scheduler.CoreDesktop.es@26.1.5-pre-26241
+- pkg:nuget/DevExpress.Scheduler.CoreDesktop.es@26.1.6-pre-26277
+- pkg:nuget/DevExpress.Scheduler.CoreDesktop.es@26.1.6-pre-26304
