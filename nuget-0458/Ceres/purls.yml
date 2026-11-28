@@ -46,6 +46,7 @@
 - pkg:nuget/Ceres@0.9.42
 - pkg:nuget/Ceres@0.9.43
 - pkg:nuget/Ceres@0.9.5
+- pkg:nuget/Ceres@0.9.52
 - pkg:nuget/Ceres@0.9.6
 - pkg:nuget/Ceres@0.9.7
 - pkg:nuget/Ceres@0.9.8
