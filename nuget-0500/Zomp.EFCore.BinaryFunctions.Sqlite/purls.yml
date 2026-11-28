@@ -2,6 +2,7 @@
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.Sqlite@0.1.28-alpha
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.Sqlite@1.0.1
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.Sqlite@1.0.2
+- pkg:nuget/Zomp.EFCore.BinaryFunctions.Sqlite@11.0.1
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.Sqlite@7.0.1
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.Sqlite@8.0.1
 - pkg:nuget/Zomp.EFCore.BinaryFunctions.Sqlite@8.0.1-preview4
