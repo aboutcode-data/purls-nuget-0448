@@ -1,4 +1,5 @@
 - pkg:nuget/Senparc.Xncf.Dapr@0.1.0-beta10
+- pkg:nuget/Senparc.Xncf.Dapr@0.11.14
 - pkg:nuget/Senparc.Xncf.Dapr@0.2.0-beta11
 - pkg:nuget/Senparc.Xncf.Dapr@0.3.1-beta1
 - pkg:nuget/Senparc.Xncf.Dapr@0.3.1.1-beta1
