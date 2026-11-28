@@ -6,3 +6,4 @@
 - pkg:nuget/xUnit.Asserts.Compare@1.0.0.5
 - pkg:nuget/xUnit.Asserts.Compare@2.5.0
 - pkg:nuget/xUnit.Asserts.Compare@2.9.2
+- pkg:nuget/xUnit.Asserts.Compare@4.0.0
