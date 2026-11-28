@@ -1,0 +1,3 @@
+- pkg:nuget/WeAmp.PageSpeed.Sidecar@1.15.0-preview.4
+- pkg:nuget/WeAmp.PageSpeed.Sidecar@2.6.0
+- pkg:nuget/WeAmp.PageSpeed.Sidecar@2.8.0
