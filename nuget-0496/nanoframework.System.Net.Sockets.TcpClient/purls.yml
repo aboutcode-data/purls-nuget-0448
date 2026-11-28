@@ -61,3 +61,4 @@
 - pkg:nuget/nanoframework.System.Net.Sockets.TcpClient@1.1.96
 - pkg:nuget/nanoframework.System.Net.Sockets.TcpClient@1.1.97
 - pkg:nuget/nanoframework.System.Net.Sockets.TcpClient@1.1.99
+- pkg:nuget/nanoframework.System.Net.Sockets.TcpClient@2.0.0-preview.7
