@@ -6,3 +6,6 @@
 - pkg:nuget/IronHive.Agent.Ironbees@0.44.0
 - pkg:nuget/IronHive.Agent.Ironbees@0.52.3
 - pkg:nuget/IronHive.Agent.Ironbees@0.52.5
+- pkg:nuget/IronHive.Agent.Ironbees@0.55.0
+- pkg:nuget/IronHive.Agent.Ironbees@0.71.0
+- pkg:nuget/IronHive.Agent.Ironbees@0.77.0
