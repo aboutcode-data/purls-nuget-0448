@@ -1,0 +1,6 @@
+- pkg:nuget/LiteOrm.DependencyInjection@8.1.17
+- pkg:nuget/LiteOrm.DependencyInjection@8.1.18
+- pkg:nuget/LiteOrm.DependencyInjection@8.1.2
+- pkg:nuget/LiteOrm.DependencyInjection@8.1.4
+- pkg:nuget/LiteOrm.DependencyInjection@8.2.0
+- pkg:nuget/LiteOrm.DependencyInjection@8.2.1

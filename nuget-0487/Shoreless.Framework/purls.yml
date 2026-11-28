@@ -1,4 +1,8 @@
 - pkg:nuget/Shoreless.Framework@1.0.0.102
+- pkg:nuget/Shoreless.Framework@1.0.0.112
+- pkg:nuget/Shoreless.Framework@1.0.0.117
+- pkg:nuget/Shoreless.Framework@1.0.0.140
+- pkg:nuget/Shoreless.Framework@1.0.0.142
 - pkg:nuget/Shoreless.Framework@1.0.0.33
 - pkg:nuget/Shoreless.Framework@1.0.0.34
 - pkg:nuget/Shoreless.Framework@1.0.0.35
