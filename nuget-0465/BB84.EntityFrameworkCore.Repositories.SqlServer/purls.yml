@@ -32,3 +32,5 @@
 - pkg:nuget/BB84.EntityFrameworkCore.Repositories.SqlServer@4.3.327
 - pkg:nuget/BB84.EntityFrameworkCore.Repositories.SqlServer@4.4.724
 - pkg:nuget/BB84.EntityFrameworkCore.Repositories.SqlServer@4.5.725
+- pkg:nuget/BB84.EntityFrameworkCore.Repositories.SqlServer@5.0.1027
+- pkg:nuget/BB84.EntityFrameworkCore.Repositories.SqlServer@5.0.1125
