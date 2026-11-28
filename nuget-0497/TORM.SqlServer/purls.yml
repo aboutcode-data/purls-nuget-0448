@@ -9,3 +9,5 @@
 - pkg:nuget/TORM.SqlServer@2.0.79
 - pkg:nuget/TORM.SqlServer@2.0.80
 - pkg:nuget/TORM.SqlServer@2.0.81
+- pkg:nuget/TORM.SqlServer@2.0.86
+- pkg:nuget/TORM.SqlServer@2.0.91
