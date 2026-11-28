@@ -1,3 +1,12 @@
+- pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@11.0.205
+- pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@11.0.207
+- pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@11.0.209
+- pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@11.0.211
+- pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@11.0.212
+- pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@11.0.214
+- pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@11.0.219
+- pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@11.0.222
+- pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@11.0.229
 - pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@4.0.100
 - pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@4.0.11
 - pkg:nuget/Soenneker.Sonarr.OpenApiClientUtil@4.0.117
