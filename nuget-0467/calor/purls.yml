@@ -1,5 +1,6 @@
 - pkg:nuget/calor@0.13.2
 - pkg:nuget/calor@0.2.2
+- pkg:nuget/calor@0.28.0
 - pkg:nuget/calor@0.3.2
 - pkg:nuget/calor@0.3.3
 - pkg:nuget/calor@0.4.4
