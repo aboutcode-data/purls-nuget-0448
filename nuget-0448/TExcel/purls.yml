@@ -5,3 +5,5 @@
 - pkg:nuget/TExcel@2.0.76
 - pkg:nuget/TExcel@2.0.79
 - pkg:nuget/TExcel@2.0.80
+- pkg:nuget/TExcel@2.0.85
+- pkg:nuget/TExcel@2.0.93
