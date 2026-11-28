@@ -34,3 +34,4 @@
 - pkg:nuget/Blazorify.Bootstrap@1.0.0-preview.250316075848
 - pkg:nuget/Blazorify.Bootstrap@1.0.0-preview.250316080253
 - pkg:nuget/Blazorify.Bootstrap@1.0.0-preview.250629064338
+- pkg:nuget/Blazorify.Bootstrap@1.1.0
